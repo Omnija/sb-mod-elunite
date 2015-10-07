@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "elunite-tier1disc", "count" : 1 },
+    { "item" : "steelbar", "count" : 5 }
+  ],
+  "output" : { "item" : "elunite-tier2disc", "count" : 1 },
+  "groups" : [ "metalworkstation", "weapons", "all" ]
+}

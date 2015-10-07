@@ -1,0 +1,51 @@
+{
+  "itemName" : "elunite-tier2disc",
+  "level" : 2,
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "uncommon",
+  "description" : "Dimensional Navigating Arsenal'd Light Disc, quite the mouthful.",
+  "shortdescription" : "D.N.A Light Disc",
+  "tooltipKind" : "sword",
+  "kind" : "Disc",
+  
+  "fireOnRelease" : true,
+
+  "image" : "elunite-tier2disc.png",
+  "firePosition" : [22, -2],
+  "fireTime" : 0.8,
+  "fireAfterWindup" : true,
+  "soundEffect" : { "fireSound" : [ { "file" : "/sfx/melee/laser_weapon_swing_medium.wav" } ] },
+
+  "primaryStances" : {
+    "directional" : true,
+    "projectileType" : "elunite-tier2disc",
+    "projectile" : {
+      "speed" : 45,
+      "power" : 8
+    },
+    "idle" : {
+      "twoHanded" : false,
+      "armAngle" : -90,
+      "swordAngle" : -90,
+      "handPosition" : [-4.0, -15.5],
+      "duration" : 0.1
+    },
+    "windup" : {
+      "twoHanded" : false,
+      "armAngle" : 0,
+      "swordAngle" : -60,
+      "handPosition" : [0.2, -24],
+      "duration" : 0.2,
+      "statusEffects" : [ ]
+    },
+    "cooldown" : {
+      "twoHanded" : false,
+      "armAngle" : -140,
+      "swordAngle" : -90,
+      "handPosition" : [2.0, -10],
+      "duration" : 0.4,
+      "statusEffects" : [ ]
+    }
+  }
+}

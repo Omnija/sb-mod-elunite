@@ -1,0 +1,21 @@
+{
+  "projectileName" : "elunite-tier6disc",
+  "physics" : "laser",
+  "bounces" : 5,
+  "level" : 6,
+  "timeToLive" : 1,
+  "frames" : "elunite-tier6disc.png",
+  "animationCycle" : 0.2,
+  "lightColor" : [58, 217, 177],
+  "frameNumber" : 7,
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/smoke/smoke.config"
+    }
+  ],
+  "power" : 8,
+  "damageKind" : "default",
+  "emitters" : [ "daggerblue" ]
+}

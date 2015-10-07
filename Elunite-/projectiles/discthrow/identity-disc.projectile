@@ -1,0 +1,21 @@
+{
+  "projectileName" : "identity-disc",
+  "physics" : "laser",
+  "bounces" : 5,
+  "level" : 0,
+  "timeToLive" : 1,
+  "frames" : "identity-disc.png",
+  "animationCycle" : 0.2,
+  "lightColor" : [85, 255, 255],
+  "frameNumber" : 7,
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/smoke/smoke.config"
+    }
+  ],
+  "power" : 8,
+  "damageKind" : "default",
+  "emitters" : [ "daggerblue" ]
+}

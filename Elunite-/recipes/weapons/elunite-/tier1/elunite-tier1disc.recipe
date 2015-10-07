@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 10 },
+    { "item" : "money", "count" : 30 }
+  ],
+  "output" : { "item" : "elunite-tier1disc", "count" : 1 },
+  "groups" : [ "anvil", "weapons", "all" ]
+}

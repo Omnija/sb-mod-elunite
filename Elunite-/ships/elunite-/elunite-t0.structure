@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+      "maxFuel" : 1000
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "elunite-t1.png",
+      "position" : [9.2, 10.1],
+      "fullbright" : true
+    },
+    {
+      "image" : "elunite-t1lit.png",
+      "position" : [9.2, 10.1]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "elunite-t0blocks.png"
+}

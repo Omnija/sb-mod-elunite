@@ -1,0 +1,20 @@
+{
+  "itemName" : "energytank2",
+  "rarity" : "Common",
+  "inventoryIcon" : "energytank2.png",
+  "description" : "Harvested High Potency Energy to Empower yourself.",
+  "shortdescription" : "Beserker Energy Cell",
+  "effects" : [ [
+  	  {
+        "effect" : "runboost",
+		"duration" : 30
+	  },
+	  {
+        "effect" : "rage",
+		"duration" : 30
+	  }
+	] ],
+  "blockingEffects" : [
+    "regeneration"
+  ]
+}

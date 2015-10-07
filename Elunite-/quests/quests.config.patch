@@ -1,0 +1,5 @@
+[
+	{ "op" : "add"
+	,"path" : "/initialquests/elunite-"
+	,"value" : [ "elunite-tutorial.gearup" ] }
+]

@@ -1,0 +1,6 @@
+[
+	{ "op" : "add"
+	,"path" : "/speciesShips/elunite-"
+	,"value" : [ "/ships/elunite-/elunite-t0.structure", "/ships/elunite-/elunite-t1.structure", "/ships/elunite-/apext2.structure", "/ships/elunite-/apext3.structure", "/ships/elunite-/apext4.structure", "/ships/elunite-/apext5.structure", "/ships/elunite-/apext6.structure", "/ships/elunite-/apext7.structure", "/ships/elunite-/apext8.structure" ]
+	}
+]

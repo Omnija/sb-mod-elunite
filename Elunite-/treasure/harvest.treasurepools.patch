@@ -1,0 +1,31 @@
+[
+	{ "op" : "add", "path" : "/energytank1Harvest", "value" : [
+		[0, {
+			"pool" : [
+			{"weight" : 0.5, "item" : "energytank1"},
+			{"weight" : 0.2, "item" : "energytank1seed"}
+		],
+		"poolRounds" : [
+			[0.7, 3],
+			[0.3, 4]
+		] 
+			}
+		]
+		]
+	},
+	{ "op" : "add", "path" : "/energytank2Harvest", "value" : [
+		[0, {
+			"pool" : [
+			{"weight" : 0.5, "item" : "energytank2"},
+			{"weight" : 0.2, "item" : "energytank2seed"}
+		],
+		"poolRounds" : [
+			[0.7, 3],
+			[0.3, 4]
+		] 
+			}
+		]
+		]
+	}
+]
+

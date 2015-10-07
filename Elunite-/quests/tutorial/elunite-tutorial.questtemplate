@@ -1,0 +1,12 @@
+{
+  "id" : "elunite-tutorial.gearup",
+  "title" : "^orange;Escaped the Grid",
+  "text" : "I've just escaped the infected grid, alone I must restore my world but ... I'll need to ^green;repair the ship's thrusters and patch up the hull.",
+  "completionText" : "I won't let my program stop me. Next I'll need to repair the FTL drive.",
+  "completionConditions" : [
+    { "type" : "shiplevel", "level" : 2 }
+  ],
+  "moneyRange" : [500, 500],
+  "followUp" : "ftlrepairmain.gearup",
+  "canBeAbandoned" : false
+}
