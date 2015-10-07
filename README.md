@@ -19,12 +19,6 @@ PROHIBITED:   - Commercial distribution
 
 -------------------------------------------------------------------------
 
-LOGO NOTICE
-
-The used logos and trademarks are copyright of their respective owners.
-
--------------------------------------------------------------------------
-
 Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA) 
 
 By exercising the Licensed Rights (defined below), You accept and agree 
