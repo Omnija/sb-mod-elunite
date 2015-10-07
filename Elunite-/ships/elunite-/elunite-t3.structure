@@ -8,16 +8,16 @@
 
   "backgroundOverlays" : [
     {
-      "image" : "humanT3.png",
-      "position" : [8, 14],
+      "image" : "elunite-t3.png",
+      "position" : [3.5, 14.6],
       "fullbright" : true
     },
     {
-      "image" : "humanT3lit.png",
-      "position" : [8, 14]
+      "image" : "elunite-t3lit.png",
+      "position" : [3.5, 14.6]
     }
   ],
 
   "blockKey" : "blockKey.config:blockKey",
-  "blockImage" : "humanT3blocks.png"
+  "blockImage" : "elunite-t3blocks.png"
 }

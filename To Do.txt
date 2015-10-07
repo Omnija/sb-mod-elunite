@@ -9,3 +9,6 @@ Emotes
 Codex
 Ship
 Pets
+
+
+ship transparency 135
