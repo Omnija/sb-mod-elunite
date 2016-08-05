@@ -1,0 +1,24 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+      "maxFuel" : 1000,
+	  "crewSize" : 2
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "eluniteT1.png",
+      "position" : [3.5, 14.6],
+      "fullbright" : true
+    },
+    {
+      "image" : "eluniteT1lit.png",
+      "position" : [3.5, 14.6]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "eluniteT1blocks.png"
+}

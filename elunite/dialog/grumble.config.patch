@@ -1,0 +1,57 @@
+[
+  {
+    "op": "add",
+    "path": "/tagCriteria/elunite",
+    "value": {
+      "default": [
+        "I would appreciate if you could restore my home's original decor.",
+        "Can you assist in the restoration of my home's original layout?",
+        "Something about my home feels off. Can you help fix it?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/elunite",
+    "value": {
+      "default": [
+        "I have spotted a damaged wall in my home. Can you help?",
+        "There are some damages to my home I wish to report.",
+        "My home has some structural damages that I would prefer to have fixed."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/elunite",
+    "value": {
+      "default": [
+        "There is another deed in my home. Surely, this is a mistake.",
+        "Was this home not intended for me? Why is it up for rent again?",
+        "I thought this home was exclusively for me. How upsetting."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/severe/elunite",
+    "value": {
+      "default": [
+        "My cries for improvements have gone unanswered...",
+        "This home is not how it was when I moved in...",
+        "The condition of my home is disgraceful, and I feel I am being ignored!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/final/elunite",
+    "value": {
+      "default": [
+        "I moved here for a better life, but I cannot live like this anymore.",
+        "I am going to move if this home of mine is not restored to how it was!",
+        "It saddens me to leave, but my complaints are being ignored."
+      ]
+    }
+  }
+]

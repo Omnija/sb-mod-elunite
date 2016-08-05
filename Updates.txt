@@ -14,6 +14,10 @@ Mod Dependency:
 You need an Extended Race Selection mod for this to work.
 
 Changelog:
+v1.0.0
+======
+Race Redone to adapt to starbound v1.0 (Highly unstable & Highly Lacking Features)
+
 v3.1c
 ======
 Fixed Errors caused by Starbound updates (prefix redesigns)

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "elunite-tier6disc", "count" : 1 },
-    { "item" : "ceruliumcompound", "count" : 12 }
-  ],
-  "output" : { "item" : "elunite-tier7disc", "count" : 1 },
-  "groups" : [ "metalworkstation", "weapons", "all" ]
-}

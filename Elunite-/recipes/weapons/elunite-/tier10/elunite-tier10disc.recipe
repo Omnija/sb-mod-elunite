@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "elunite-tier9disc", "count" : 1 },
-    { "item" : "imperviumcompound", "count" : 12 }
-  ],
-  "output" : { "item" : "elunite-tier10disc", "count" : 1 },
-  "groups" : [ "separatortable", "weapons", "all" ]
-}

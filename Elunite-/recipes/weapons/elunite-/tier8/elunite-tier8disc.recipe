@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "elunite-tier7disc", "count" : 1 },
-    { "item" : "refinedviolium", "count" : 12 }
-  ],
-  "output" : { "item" : "elunite-tier8disc", "count" : 1 },
-  "groups" : [ "separatortable", "weapons", "all" ]
-}

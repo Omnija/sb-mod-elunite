@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "elunite-tier3disc", "count" : 1 },
-    { "item" : "durasteelbar", "count" : 12 }
-  ],
-  "output" : { "item" : "elunite-tier4disc", "count" : 1 },
-  "groups" : [ "scifianvil", "weapons", "all" ]
-}
