@@ -16,9 +16,9 @@
   "bounces" : 2,
   "piercing" : false,
   "timeToLive" : 1,
-  "lightColor" : [255, 255, 167],
+  "lightColor" : [85, 255, 255],
 
   "persistentAudio" : "/sfx/melee/spear_twirl_loop.ogg",
 
-  "scripts" : [ "identity-discprojectile.lua" ]
+  "scripts" : [ "discprojectile.lua" ]
 }

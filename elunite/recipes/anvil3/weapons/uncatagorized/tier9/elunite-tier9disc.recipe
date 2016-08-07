@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "elunite-tier8disc", "count" : 1 },
+    { "item" : "refinedrubium", "count" : 12 }
+  ],
+  "output" : { "item" : "elunite-tier9disc", "count" : 1 },
+  "groups" : [ "metalworkstation", "weapons", "all" ]
+}
