@@ -1,9 +1,10 @@
 {
   "itemName" : "elunite-tier2pants",
+  "price" : 960,
   "inventoryIcon" : "icons.png:pants",
-  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
+  "category" : "legarmour",
   "description" : "Dimensional Navigating Arsenal'd Light Pants, quite the mouthful.",
   "shortdescription" : "D.N.A Light Pants",
   "tooltipKind" : "armor",
@@ -11,24 +12,31 @@
   "maleFrames" : "pants.png",
   "femaleFrames" : "pants.png",
 
-  "statusEffects" : [
+  "level" : 2,
+  "leveledStatusEffects" : [
     {
+      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.1
+    },
+    {
+      "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 15
+      "amount" : 0.2
     },
-
     {
+      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 15
+      "amount" : 2
     },
-
     {
+      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 5
+      "amount" : 2
     }
   ],
-  
-  "triggerKeys" : [ "steelarmor" ],
+
+  "itemTags" : [ "tier2armour" ],
 
   "colorOptions" : [
     /* LIGHT GREY */

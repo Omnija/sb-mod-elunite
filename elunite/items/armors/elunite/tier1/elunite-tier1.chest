@@ -1,9 +1,10 @@
 {
   "itemName" : "elunite-tier1chest",
+  "price" : 800,
   "inventoryIcon" : "icons.png:chest",
-  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
+  "category" : "chestarmour",
   "description" : "Protective light Suit, suited just for you.",
   "shortdescription" : "Light Suit",
   "tooltipKind" : "armor",
@@ -20,23 +21,31 @@
     "frontSleeve" : "fsleeve.png"
   },
 
-"statusEffects" : [
+  "level" : 1,
+  "leveledStatusEffects" : [
     {
+      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.25
+    },
+    {
+      "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 15
+      "amount" : 0.5
     },
-
     {
+      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 10
+      "amount" : 5
     },
-
     {
+      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 8
+      "amount" : 5
     }
   ],
 
+  "itemTags" : [ "tier1armour" ],
   "colorOptions" : [
     /* GREY */
     { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030" },

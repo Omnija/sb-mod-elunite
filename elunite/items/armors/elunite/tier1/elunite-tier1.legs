@@ -1,9 +1,10 @@
 {
   "itemName" : "elunite-tier1pants",
+  "price" : 320,
   "inventoryIcon" : "icons.png:pants",
-  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
+  "category" : "legarmour",
   "description" : "Protective Light Pants, suited just for you.",
   "shortdescription" : "Light Pants",
   "tooltipKind" : "armor",
@@ -11,22 +12,31 @@
   "maleFrames" : "pants.png",
   "femaleFrames" : "pants.png",
 
-  "statusEffects" : [
+  "level" : 1,
+  "leveledStatusEffects" : [
     {
+      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.1
+    },
+    {
+      "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 6
+      "amount" : 0.2
     },
-
     {
+      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 5
+      "amount" : 2
     },
-
     {
+      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
       "amount" : 2
     }
   ],
+
+  "itemTags" : [ "tier1armour" ],
 
   "colorOptions" : [
     /* GREY */
