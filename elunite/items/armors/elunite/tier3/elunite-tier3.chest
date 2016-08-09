@@ -1,42 +1,51 @@
 {
   "itemName" : "elunite-tier3chest",
+  "price" : 3200,
   "inventoryIcon" : "icons.png:chest",
-  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
+  "category" : "chestarmour",
   "description" : "A chestguard protects the pioneer's first steps into a new world.",
   "shortdescription" : "Pioneer's Chestguard",
-  "inspectionKind" : "armor",
+  "tooltipKind" : "armor",
 
   "maleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestm.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
 
   "femaleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestf.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
 
-  "statusEffects" : [
+  "level" : 3,
+  "leveledStatusEffects" : [
     {
-      "kind" : "ColdProtection",
-      "amount" : 12.5
+      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.25
     },
-
     {
-      "kind" : "Protection",
-      "level" : 25,
-      "amount" : 27.5
+      "levelFunction" : "standardArmorLevelProtectionMultiplier",
+      "stat" : "protection",
+      "amount" : 0.5
     },
-
     {
-      "kind" : "healthincrease",
-      "amount" : 70
+      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+      "stat" : "maxEnergy",
+      "amount" : 5
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
+      "stat" : "maxHealth",
+      "amount" : 5
     }
   ],
+
+  "itemTags" : [ "tier3armour" ],
 
   "colorOptions" : [
     /* WHITE */

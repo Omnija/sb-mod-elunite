@@ -1,34 +1,43 @@
 {
   "itemName" : "elunite-tier3head",
+  "price" : 1920,
   "inventoryIcon" : "icons.png:head",
-  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
+  "category" : "headarmour",
   "description" : "The sleek titanium helm of the pioneer.",
   "shortdescription" : "Ocular Star Helm",
-  "inspectionKind" : "armor",
+  "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
   "mask" : "mask.png",
 
-  "statusEffects" : [
+  "level" : 3,
+  "leveledStatusEffects" : [
     {
-      "kind" : "ColdProtection",
-      "amount" : 7.5
+      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.15
     },
-
     {
-      "kind" : "Protection",
-      "level" : 25,
-      "amount" : 16.5
+      "levelFunction" : "standardArmorLevelProtectionMultiplier",
+      "stat" : "protection",
+      "amount" : 0.3
     },
-
     {
-      "kind" : "energyincrease",
-      "amount" : 70
+      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+      "stat" : "maxEnergy",
+      "amount" : 3
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
+      "stat" : "maxHealth",
+      "amount" : 3
     }
   ],
+
+  "itemTags" : [ "tier3armour" ],
 
   "colorOptions" : [
     /* WHITE */

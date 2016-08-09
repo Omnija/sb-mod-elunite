@@ -90,73 +90,41 @@
         }
       ]
     },
-   {
+	
+	{
       "drawables" : [
         {
-          "image" : "/cinematics/respawn/elunite/layer1.png:<frame>"
+          "image" : "/cinematics/respawn/spotlight.png"
         }
       ],
       "keyframes" : [
         {
           "timecode" : 1.5,
-          "zoom" : 1.5,
+          "zoom" : 2,
           "alpha" : 0,
-          "frame" : 0,
-          "position" : [478, 253]
+          "position" : [480, 220]
         },
         {
           "timecode" : 2.5,
-          "zoom" : 1.5,
+          "zoom" : 2,
           "alpha" : 1,
-          "frame" : 0,
-          "position" : [478, 253]
-        },
+          "position" : [480, 220]
+       },
         {
           "timecode" : 11,
           "alpha" : 1,
-          "zoom" : 1.5,
+          "zoom" : 2,
           "frame" : 93.999
         },
         {
           "timecode" : 11.75,
           "alpha" : 0,
-          "zoom" : 1.5,
+          "zoom" : 2,
           "frame" : 93.999
         }
       ]
     },
-    {
-      "avatar" : "fullneutralnude",
-      "keyframes" : [
-        {
-          "timecode" : 3.5,
-          "zoom" : 1.5,
-          "alpha" : 0,
-          "frame" : 0,
-          "position" : [478, 269]
-        },
-        {
-          "timecode" : 4,
-          "zoom" : 1.5,
-          "alpha" : 1,
-          "frame" : 0,
-          "position" : [478, 269]
-        },
-        {
-          "timecode" : 11.25,
-          "zoom" : 1.5,
-          "alpha" : 1,
-          "frame" : 0,
-          "position" : [478, 269]
-        },
-        {
-          "timecode" : 12,
-          "alpha" : 0,
-          "zoom" : 1.5,
-          "frame" : 93.999
-        }
-      ]
-    },
+	
     {
       "drawables" : [
         {
@@ -169,14 +137,14 @@
           "zoom" : 1.5,
           "alpha" : 0,
           "frame" : 0,
-          "position" : [478, 253]
+          "position" : [478, 270]
         },
         {
           "timecode" : 2.5,
           "zoom" : 1.5,
           "alpha" : 1,
           "frame" : 0,
-          "position" : [478, 253]
+          "position" : [478, 270]
         },
         {
           "timecode" : 11,
@@ -188,6 +156,38 @@
           "timecode" : 11.75,
           "alpha" : 0,
           "zoom" : 1.5,
+          "frame" : 93.999
+        }
+      ]
+    },
+	    {
+      "avatar" : "fullneutralnude",
+      "keyframes" : [
+        {
+          "timecode" : 9.8,
+          "zoom" : 2,
+          "alpha" : 0,
+          "frame" : 0,
+          "position" : [478, 269]
+        },
+        {
+          "timecode" : 9.9,
+          "zoom" : 2,
+          "alpha" : 1,
+          "frame" : 0,
+          "position" : [478, 269]
+        },
+        {
+          "timecode" : 11.25,
+          "zoom" : 2,
+          "alpha" : 1,
+          "frame" : 0,
+          "position" : [478, 269]
+        },
+        {
+          "timecode" : 12,
+          "alpha" : 0,
+          "zoom" : 2,
           "frame" : 93.999
         }
       ]

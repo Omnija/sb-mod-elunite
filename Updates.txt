@@ -20,7 +20,8 @@ Race Redone to adapt to starbound v1.0 (Highly unstable & Highly Lacking Feature
 Re adapted sprites and did minor changes
 Ship objects have been setup as placeholder to change later (apex to elunite)
 Some weapons/armors/recipes have been setup but not completed
-Added a new "Test" for testing purposes
+Added a new "Test" color for testing purposes
+Added Tier 4 ship
 
 v3.1c
 ======
