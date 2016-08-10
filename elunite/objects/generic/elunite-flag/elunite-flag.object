@@ -1,14 +1,16 @@
 {
   "objectName" : "elunite-flag",
+  "colonyTags" : ["elunite"],
   "printable" : false,
   "rarity" : "Common",
-
-  "category" : "crafting",
-  "price" : 100,
+  "objectType" : "teleporter",
+  "category" : "teleportMarker",
+  "price" : 70,
+  "radioMessagesOnPickup" : [ "pickupflag" ],
 
   "description" : "The flag of the Elunite. Not made of data.",
   "shortdescription" : "Elunite Flag",
-  "race" : "elunite-",
+  "race" : "elunite",
 
   "apexDescription" : "A Elunite flag. Quite advanced.",
   "avianDescription" : "What does the Elunite's flag mean?",
@@ -16,8 +18,11 @@
   "glitchDescription" : "Statement. A Elunite flag, depicting the symbol of?!? RAM?!?.",
   "humanDescription" : "This flag belongs to the Elunite.",
   "hylotlDescription" : "Oh look, a strange Flag. What is it?",
+  "novakidDescription" : "I can bookmark this Elunite flag for quick teleportin'.",
   "elunite-Description" : "The last symbol of our grid. Even if we are de-rezzed this symbol is here to stay.",
 
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
 
   "inventoryIcon" : "elunite-flagicon.png",
   "orientations" : [
@@ -42,5 +47,6 @@
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }
-  ]
+  ]  
+    //"soundEffect" : "/sfx/objects/flag_flap_loop.ogg"
 }

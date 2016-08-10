@@ -8,7 +8,7 @@ Description:
 Adds Elunite as a playable race.
 
 Installation: 
-Move the Elunite-.modpak into your Starbound/giraffe_storage/mods/ folder. 
+Move the Elunite.pak or folder into your Starbound/mods/ folder. 
 
 Mod Dependency:
 You need an Extended Race Selection mod for this to work.
@@ -22,6 +22,10 @@ Ship objects have been setup as placeholder to change later (apex to elunite)
 Some weapons/armors/recipes have been setup but not completed
 Added a new "Test" color for testing purposes
 Added Tier 4 ship
+Fixed Elunite Race Flags
+Started redoing respawn animation
+Added custom 144 locker storage
+
 
 v3.1c
 ======

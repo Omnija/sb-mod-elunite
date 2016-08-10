@@ -8,7 +8,7 @@ Description:
 Adds Elunite as a playable race.
 
 Installation: 
-Move the Elunite-.modpak into your Starbound/giraffe_storage/mods/ folder. 
+Move the elunite.pak or folder into your Starbound/mods/ folder. 
 
 Mod Dependency:
 You need an Extended Race Selection mod for this to work.
