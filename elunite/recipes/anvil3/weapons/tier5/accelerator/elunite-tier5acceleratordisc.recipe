@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "refinedaegisalt", "count" : 5 },
+    { "item" : "syntheticmaterial", "count" : 1 }
+  ],
+  "output" : { "item" : "elunite-tier5acceleratordisc", "count" : 1 },
+  "groups" : [ "craftingaccelerator", "weapons", "all" ]
+}
+

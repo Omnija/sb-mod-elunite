@@ -48,7 +48,7 @@
       { "item" : "elunite-tier2pants" },
 	  { "item" : "elunite-tier2disc" },
       
-// Anvil3	  (Accelerator, Manipulator and Seperator)
+// Anvil3
       { "item" : "humantier3head" },
       { "item" : "humantier3chest" },
       { "item" : "humantier3pants" },
@@ -60,36 +60,37 @@
       { "item" : "humantier4pants" },
       { "item" : "humantier4hammer" },
       { "item" : "elunite-tier4disc" },
-      
+	  
+// Accelerator, Manipulator and Seperator (5 and 6)
       { "item" : "humantier5head" },
       { "item" : "humantier5chest" },
       { "item" : "humantier5pants" },
-      { "item" : "elunite-tier5disc" },
+      { "item" : "elunite-tier5acceleratordisc" },
       
       { "item" : "humantier6head" },
       { "item" : "humantier6chest" },
       { "item" : "humantier6pants" },
-      { "item" : "elunite-tier6disc" },
+      { "item" : "elunite-tier5manipulatordisc" },
       
       { "item" : "humantier7head" },
       { "item" : "humantier7chest" },
       { "item" : "humantier7pants" },
-	  { "item" : "elunite-tier7disc" },
+	  { "item" : "elunite-tier5separatordisc" },
       
       { "item" : "humantier8head" },
       { "item" : "humantier8chest" },
       { "item" : "humantier8pants" },
-      { "item" : "elunite-tier8disc" },
+      { "item" : "elunite-tier6acceleratordisc" },
 	  	  
       { "item" : "humantier9head" },
       { "item" : "humantier9chest" },
       { "item" : "humantier9pants" },
-	  { "item" : "elunite-tier9disc" },
+	  { "item" : "elunite-tier6manipulatordisc" },
       
       { "item" : "humantier10head" },
       { "item" : "humantier10chest" },
       { "item" : "humantier10pants" },
-      { "item" : "elunite-tier10disc" }
+      { "item" : "elunite-tier6separatordisc" }
 	  
     ]
   },

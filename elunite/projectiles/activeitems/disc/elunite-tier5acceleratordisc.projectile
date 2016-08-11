@@ -1,6 +1,6 @@
 {
-  "projectileName" : "elunite-tier8disc",
-  "image" : "elunite-tier8disc.png",
+  "projectileName" : "elunite-tier5acceleratordisc",
+  "image" : "elunite-tier5acceleratordisc.png",
   "animationCycle" : 0.3,
   "frameNumber" : 7,
   "damageKindImage" : "icon.png",
@@ -16,7 +16,7 @@
   "bounces" : 2,
   "piercing" : false,
   "timeToLive" : 1,
-  "lightColor" : [203, 58, 217],
+  "lightColor" : [111, 217, 58],
 
   "persistentAudio" : "/sfx/melee/spear_twirl_loop.ogg",
 

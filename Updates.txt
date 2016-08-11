@@ -25,6 +25,10 @@ Added Tier 4 ship
 Fixed Elunite Race Flags
 Started redoing respawn animation
 Added custom 144 locker storage
+Fixed T1-4 Ship allignments
+Started rediong the tier'd armor for the new upgrade system (not added yet)
+Fixed Weapons/recipes
+Fixed Ship teleport (image) issues
 
 
 v3.1c

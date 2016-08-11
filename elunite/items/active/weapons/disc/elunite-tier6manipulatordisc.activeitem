@@ -1,6 +1,6 @@
 {
-  "itemName" : "elunite-tier6disc",
-  "level" : 6,
+  "itemName" : "elunite-tier6manipulatordisc",
+  "level" : 8,
   "price" : 1500,
   "maxStack" : 1,
   "rarity" : "Legendary",
@@ -11,10 +11,10 @@
   "twoHanded" : false,
   "itemTags" : ["weapon"],
 
-  "inventoryIcon" : "elunite-tier6disc.png",
-  "animation" : "elunite-tier6disc.animation",
+  "inventoryIcon" : "elunite-tier6manipulatordisc.png",
+  "animation" : "elunite-tier6manipulatordisc.animation",
   "animationParts" : {
-    "chakram" : "elunite-tier6disc.png"
+    "chakram" : "elunite-tier6manipulatordisc.png"
   },
   "animationCustom" : {
     "sounds" : {
@@ -26,7 +26,7 @@
 
   "cooldownTime" : 0.6,
 
-  "projectileType" : "elunite-tier6disc",
+  "projectileType" : "elunite-tier6manipulatordisc",
   "projectileParameters" : {
     "knockback" : 10,
     "power" : 8.0,

@@ -1,6 +1,6 @@
 {
-  "projectileName" : "elunite-tier5disc",
-  "image" : "elunite-tier5disc.png",
+  "projectileName" : "elunite-tier6separatordisc",
+  "image" : "elunite-tier6separatordisc.png",
   "animationCycle" : 0.3,
   "frameNumber" : 7,
   "damageKindImage" : "icon.png",
@@ -16,7 +16,7 @@
   "bounces" : 2,
   "piercing" : false,
   "timeToLive" : 1,
-  "lightColor" : [111, 217, 58],
+  "lightColor" : [217, 58, 67],
 
   "persistentAudio" : "/sfx/melee/spear_twirl_loop.ogg",
 

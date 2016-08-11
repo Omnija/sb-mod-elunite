@@ -1,5 +1,5 @@
 {
-  "itemName" : "elunite-tier8disc",
+  "itemName" : "elunite-tier6acceleratordisc",
   "level" : 8,
   "price" : 1500,
   "maxStack" : 1,
@@ -11,10 +11,10 @@
   "twoHanded" : false,
   "itemTags" : ["weapon"],
 
-  "inventoryIcon" : "elunite-tier8disc.png",
-  "animation" : "elunite-tier8disc.animation",
+  "inventoryIcon" : "elunite-tier6acceleratordisc.png",
+  "animation" : "elunite-tier6acceleratordisc.animation",
   "animationParts" : {
-    "chakram" : "elunite-tier8disc.png"
+    "chakram" : "elunite-tier6acceleratordisc.png"
   },
   "animationCustom" : {
     "sounds" : {
@@ -26,7 +26,7 @@
 
   "cooldownTime" : 0.6,
 
-  "projectileType" : "elunite-tier8disc",
+  "projectileType" : "elunite-tier6acceleratordisc",
   "projectileParameters" : {
     "knockback" : 10,
     "power" : 8.0,
