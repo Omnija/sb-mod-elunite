@@ -2,6 +2,6 @@
   "input" : [
     { "item" : "tungstenbar", "count" : 3 }
   ],
-  "output" : { "item" : "tungstenaxe", "count" : 1 },
+  "output" : { "item" : "elunite-tier2disc", "count" : 1 },
   "groups" : [ "craftinganvil", "weapons", "all" ]
 }
