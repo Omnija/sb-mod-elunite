@@ -62,34 +62,34 @@
       { "item" : "elunite-tier4disc" },
 	  
 // Accelerator, Manipulator and Seperator (5 and 6)
-      { "item" : "humantier5head" },
-      { "item" : "humantier5chest" },
-      { "item" : "humantier5pants" },
+      { "item" : "apextier5ahead" },
+      { "item" : "apextier5achest" },
+      { "item" : "apextier5apants" },
       { "item" : "elunite-tier5acceleratordisc" },
       
-      { "item" : "humantier6head" },
-      { "item" : "humantier6chest" },
-      { "item" : "humantier6pants" },
+      { "item" : "apextier5mhead" },
+      { "item" : "apextier5mchest" },
+      { "item" : "apextier5mpants" },
       { "item" : "elunite-tier5manipulatordisc" },
       
-      { "item" : "humantier7head" },
-      { "item" : "humantier7chest" },
-      { "item" : "humantier7pants" },
+      { "item" : "apextier5shead" },
+      { "item" : "apextier5schest" },
+      { "item" : "apextier5spants" },
 	  { "item" : "elunite-tier5separatordisc" },
       
-      { "item" : "humantier8head" },
-      { "item" : "humantier8chest" },
-      { "item" : "humantier8pants" },
+      { "item" : "apextier6ahead" },
+      { "item" : "apextier6achest" },
+      { "item" : "apextier6apants" },
       { "item" : "elunite-tier6acceleratordisc" },
 	  	  
-      { "item" : "humantier9head" },
-      { "item" : "humantier9chest" },
-      { "item" : "humantier9pants" },
+      { "item" : "apextier6mhead" },
+      { "item" : "apextier6mchest" },
+      { "item" : "apextier6mpants" },
 	  { "item" : "elunite-tier6manipulatordisc" },
       
-      { "item" : "humantier10head" },
-      { "item" : "humantier10chest" },
-      { "item" : "humantier10pants" },
+      { "item" : "apextier6shead" },
+      { "item" : "apextier6schest" },
+      { "item" : "apextier6spants" },
       { "item" : "elunite-tier6separatordisc" }
 	  
     ]

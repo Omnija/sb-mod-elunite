@@ -18,7 +18,7 @@
   },
   "animationCustom" : {
     "sounds" : {
-      "throw" : [ "/sfx/melee/laser_weapon_swing_medium.wav" ]
+      "throw" : [ "/sfx/melee/laser_weapon_swing2.ogg" ]
     }
   },
   "scripts" : ["/items/active/weapons/boomerang/boomerang.lua"],
