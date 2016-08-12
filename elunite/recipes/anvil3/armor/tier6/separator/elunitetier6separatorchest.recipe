@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "solariumstar", "count" : 20 },
+    { "item" : "elunite-tier5schest", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "elunite-tier6schest", "count" : 1 },
+  "groups" : [ "craftingseparator", "armours", "all" ]
+}

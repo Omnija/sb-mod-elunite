@@ -49,48 +49,55 @@
 	  { "item" : "elunite-tier2disc" },
       
 // Anvil3
-      { "item" : "humantier3head" },
-      { "item" : "humantier3chest" },
-      { "item" : "humantier3pants" },
-      { "item" : "humantier3hammer" },
+	  { "item" : "elunite-tier3head" },
+	  { "item" : "elunite-tier3chest" },
+      { "item" : "elunite-tier3pants" },
       { "item" : "elunite-tier3disc" },
       
-      { "item" : "humantier4head" },
-      { "item" : "humantier4chest" },
-      { "item" : "humantier4pants" },
-      { "item" : "humantier4hammer" },
+	  { "item" : "elunite-tier4head" },
+	  { "item" : "elunite-tier4chest" },
+      { "item" : "elunite-tier4pants" },
       { "item" : "elunite-tier4disc" },
 	  
 // Accelerator, Manipulator and Seperator (5 and 6)
-      { "item" : "apextier5ahead" },
-      { "item" : "apextier5achest" },
-      { "item" : "apextier5apants" },
+      { "item" : "elunite-tier5ahead" },
+      { "item" : "elunite-tier5achest" },
+      { "item" : "elunite-tier55apants" },
       { "item" : "elunite-tier5acceleratordisc" },
       
-      { "item" : "apextier5mhead" },
-      { "item" : "apextier5mchest" },
-      { "item" : "apextier5mpants" },
+      { "item" : "elunite-tier5mhead" },
+      { "item" : "elunite-tier5mchest" },
+      { "item" : "elunite-tier5mpants" },
       { "item" : "elunite-tier5manipulatordisc" },
       
-      { "item" : "apextier5shead" },
-      { "item" : "apextier5schest" },
-      { "item" : "apextier5spants" },
+      { "item" : "elunite-tier5shead" },
+      { "item" : "elunite-tier5schest" },
+      { "item" : "elunite-tier5spants" },
 	  { "item" : "elunite-tier5separatordisc" },
       
-      { "item" : "apextier6ahead" },
-      { "item" : "apextier6achest" },
-      { "item" : "apextier6apants" },
+      { "item" : "elunite-tier6ahead" },
+      { "item" : "elunite-tier6achest" },
+      { "item" : "elunite-tier6apants" },
       { "item" : "elunite-tier6acceleratordisc" },
 	  	  
-      { "item" : "apextier6mhead" },
-      { "item" : "apextier6mchest" },
-      { "item" : "apextier6mpants" },
+      { "item" : "elunite-tier6mhead" },
+      { "item" : "elunite-tier6mchest" },
+      { "item" : "elunite-tier6mpants" },
 	  { "item" : "elunite-tier6manipulatordisc" },
       
-      { "item" : "apextier6shead" },
-      { "item" : "apextier6schest" },
-      { "item" : "apextier6spants" },
-      { "item" : "elunite-tier6separatordisc" }
+      { "item" : "elunite-tier6shead" },
+      { "item" : "elunite-tier6schest" },
+      { "item" : "elunite-tier6spants" },
+      { "item" : "elunite-tier6separatordisc" },
+	  
+	  { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" }
+
+	  //Mystic Fussion
 	  
     ]
   },

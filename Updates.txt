@@ -31,6 +31,7 @@ Fixed Weapons/recipes
 Fixed Ship teleport (image) issues
 Fixed Weapon sounds
 Added apex placeholder recipes for the time being.(redirect later)
+Recipes for Armors and weapons are all setup (armors need to be drawn and desc updated)
 
 v3.1c
 ======

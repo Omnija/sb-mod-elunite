@@ -1,0 +1,76 @@
+{
+  "itemName" : "elunite-tier1chest",
+  "price" : 800,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "chestarmour",
+  "description" : "A low-grade military chestguard that protects the most vital organs.",
+  "shortdescription" : "Defector's Chestguard",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "level" : 1,
+  "leveledStatusEffects" : [
+    {
+      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.25
+    },
+    {
+      "levelFunction" : "standardArmorLevelProtectionMultiplier",
+      "stat" : "protection",
+      "amount" : 0.5
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+      "stat" : "maxEnergy",
+      "amount" : 5
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
+      "stat" : "maxHealth",
+      "amount" : 5
+    }
+  ],
+
+  "itemTags" : [ "tier1armour" ],
+
+  "colorOptions" : [
+    // RED
+    { "6F2919" : "59110D", "A85636" : "831A14", "E0975C" : "B1221B", "FFCA8A" : "C9281F", "A46E06" : "262626", "E2C344" : "FFFFFF", "FFFFA7" : "FFFFFF" }
+    // GREY
+
+    // BLACK
+
+    // GREY
+
+    // WHITE
+
+    // ORANGE
+ 
+    // YELLOW
+
+    // GREEN
+ 
+    // BLUE
+
+    // PURPLE
+ 
+    // PINK
+
+    // BROWN
+
+  ]
+}

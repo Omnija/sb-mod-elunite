@@ -1,0 +1,68 @@
+{
+  "itemName" : "elunite-tier1head",
+  "price" : 480,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headarmour",
+  "description" : "An iron mask that somewhat disguises the wearer's identity.",
+  "shortdescription" : "Defector's Mask",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "level" : 1,
+  "leveledStatusEffects" : [
+    {
+      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.15
+    },
+    {
+      "levelFunction" : "standardArmorLevelProtectionMultiplier",
+      "stat" : "protection",
+      "amount" : 0.3
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+      "stat" : "maxEnergy",
+      "amount" : 3
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
+      "stat" : "maxHealth",
+      "amount" : 3
+    }
+  ],
+
+  "itemTags" : [ "tier1armour" ],
+
+   "colorOptions" : [
+    // RED
+    { "6F2919" : "59110D", "A85636" : "831A14", "E0975C" : "B1221B", "FFCA8A" : "C9281F" }
+    // GREY
+
+    // BLACK
+
+    // GREY
+
+    // WHITE
+
+    // ORANGE
+ 
+    // YELLOW
+
+    // GREEN
+ 
+    // BLUE
+
+    // PURPLE
+ 
+    // PINK
+
+    // BROWN
+	
+  ]
+}
