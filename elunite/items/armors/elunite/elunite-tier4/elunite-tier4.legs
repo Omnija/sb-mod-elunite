@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "legarmour",
   "description" : "Durasteel-lined trousers, accompanied by heavy-duty boots. Sleek and practical - vive la revolution!",
-  "shortdescription" : "Revolutionary's Trousers",
+  "shortdescription" : "Reinforced Trousers",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pants.png",

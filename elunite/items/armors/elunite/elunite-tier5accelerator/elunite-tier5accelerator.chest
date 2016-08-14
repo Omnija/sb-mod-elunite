@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "category" : "chestarmour",
   "description" : "Protective light Suit, suited just for you.",
-  "shortdescription" : "Light Suit",
+  "shortdescription" : "Light Chestguard",
   "tooltipKind" : "armor",
 
   "maleFrames" : {

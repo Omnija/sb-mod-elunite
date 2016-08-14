@@ -6,7 +6,7 @@
   "rarity" : "Legendary",
   "category" : "legarmour",
   "description" : "A set of leg armour with solarium-reinforced greaves that little can pierce.",
-  "shortdescription" : "Infiltrator's Greaves",
+  "shortdescription" : "Interceptor Greaves",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pants.png",

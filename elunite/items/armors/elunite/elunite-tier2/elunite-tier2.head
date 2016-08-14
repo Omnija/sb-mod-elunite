@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "headarmour",
-  "description" : "This hood and mask gives the wearer a rebellious appearance.",
-  "shortdescription" : "Rebel's Hood",
+  "description" : "A hard covered helmet is a much better improvement.",
+  "shortdescription" : "Plastic Helmet",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "headarmour",
   "description" : "This cunning headwear leaves only the the eyes visible.",
-  "shortdescription" : "Insurgent's Mask",
+  "shortdescription" : "Bucket Helmet",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

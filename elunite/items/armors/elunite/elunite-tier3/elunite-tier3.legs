@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "legarmour",
   "description" : "Impact-absorbing trousers with titanium plated boots.",
-  "shortdescription" : "Insurgent's Trousers",
+  "shortdescription" : "Padded Trousers",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pantsm.png",

@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "category" : "chestarmour",
   "description" : "Armour-reinforced regal garments, to suit the would-be assassin.",
-  "shortdescription" : "Assassin's Chestguard",
+  "shortdescription" : "Sturdy Chestguard",
   "tooltipKind" : "armor",
 
   "maleFrames" : {

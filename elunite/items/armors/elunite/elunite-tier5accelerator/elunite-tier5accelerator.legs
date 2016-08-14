@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "category" : "legarmour",
   "description" : "Protective Light Pants, suited just for you.",
-  "shortdescription" : "Light Pants",
+  "shortdescription" : "Light Trousers",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pants.png",

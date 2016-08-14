@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestarmour",
-  "description" : "Upper body armour fashioned from segmented tungsten plates.",
-  "shortdescription" : "Rebel's Chestguard",
+  "description" : "Those Nylon pieces aren't as sturdy as this.",
+  "shortdescription" : "Improvised Shirt",
   "tooltipKind" : "armor",
 
   "maleFrames" : {

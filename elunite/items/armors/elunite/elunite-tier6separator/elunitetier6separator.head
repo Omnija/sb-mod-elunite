@@ -1,47 +1,39 @@
 {
-  "itemName" : "elunite-tier6schest",
-  "price" : 6400,
-  "inventoryIcon" : "icons.png:chest",
+  "itemName" : "elunite-tier6shead",
+  "price" : 3840,
+  "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "category" : "chestarmour",
-  "description" : "The gigantic pauldrons of this armour broadcast that the wearer means business.",
-  "shortdescription" : "Frontliner's Breastplate",
+  "category" : "headarmour",
+  "description" : "An incredibly durable helmet which is downright terrifying to all who dare to oppose you.",
+  "shortdescription" : "Vigorous Hero Helmet",
   "tooltipKind" : "armor",
 
-  "maleFrames" : {
-    "body" : "chestm.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
-
-  "femaleFrames" : {
-    "body" : "chestf.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
 
   "level" : 6,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "separatorArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 1.25
+      "baseMultiplier" : 1.15
     },
     {
       "levelFunction" : "separatorArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 0.5
+      "amount" : 0.3
     },
     {
       "levelFunction" : "separatorArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 5
+      "amount" : 3
     },
     {
       "levelFunction" : "separatorArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 5
+      "amount" : 3
     }
   ],
 
