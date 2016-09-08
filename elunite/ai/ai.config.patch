@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/elunite",
+		"value" : {
+			"aiFrames" : "eluniteAI.png",
+			"portraitFrames" : "portraits/eluniteportrait.png",
+			"staticFrames" : "staticElunite.png"	
+		}
+	}
+]

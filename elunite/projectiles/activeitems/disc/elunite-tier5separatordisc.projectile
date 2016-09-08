@@ -1,0 +1,24 @@
+{
+  "projectileName" : "elunite-tier5separatordisc",
+  "image" : "elunite-tier5separatordisc.png",
+  "animationCycle" : 0.3,
+  "frameNumber" : 7,
+  "damageKindImage" : "icon.png",
+  "flippable" : false,
+  "orientationLocked" : true,
+  "actionOnReap" : [ ],
+  "statusEffects" : [ ],
+  "damagePoly" : [[-8, 4], [-4, 8], [4, 8], [8, 4], [8, -4], [4, -8], [-4, -8], [-8, -4]],
+  "power" : 8.0,
+  "speed" : 45,
+  "damageKind" : "dagger",
+  "physics" : "laser",
+  "bounces" : 2,
+  "piercing" : false,
+  "timeToLive" : 1,
+  "lightColor" : [58, 98, 217],
+
+  "persistentAudio" : "/sfx/melee/spear_twirl_loop.ogg",
+
+  "scripts" : [ "discprojectile.lua" ]
+}

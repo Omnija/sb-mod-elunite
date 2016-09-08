@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "coalore", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "identity-disc",
+    "count" : 1
+  },
+  "groups" : [ "plain", "objects", "all" ]
+}

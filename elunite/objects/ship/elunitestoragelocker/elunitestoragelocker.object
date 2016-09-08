@@ -1,0 +1,32 @@
+{
+  "objectName" : "elunitestoragelocker",
+  "rarity" : "Rare",
+  "printable" : false,
+  "price" : 900,
+  "objectType" : "container",
+  "tooltipKind" : "container",
+
+  "category" : "storage",
+  "description" : "A nice, spacious, wall-mounted storage solution.",
+  "shortdescription" : "Storage Locker",
+  "race" : "human",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "elunitestoragelocker.png:<color>.<key>",
+      "imagePosition" : [-16, -8],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/chest_small_open.wav" ],
+  "closeSounds" : [ "/sfx/objects/chest_small_close.wav" ],
+  "slotCount" : 256,
+  "uiConfig" : "/interface/chests/chest%slots%.config",
+  "frameCooldown" : 5,
+  "openFrameIndex" : 4,
+  "autoCloseCooldown" : 3600
+}

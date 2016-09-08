@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/species/0",
+    "value": "elunite"
+  },
+  {
+    "op": "add",
+    "path": "/defaultCodexes/elunite",
+    "value": [ "protectorate1", "protectorate2" ]
+  }
+]
+

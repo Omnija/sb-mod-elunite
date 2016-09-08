@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "path": "/helpme/elunite",
+    "value": {
+      "default": [
+        "Guards! Help me!",
+        "Help!",
+        "Uh-oh!",
+        "I'm unarmed! Help!",
+        "I need help! I can't defend myself!",
+        "Guards! I've been accosted!"
+      ]
+    }
+  },
+ 
+  {
+    "op": "add",
+    "path": "/safe/elunite",
+    "value": {
+      "default": [
+        "Phew, I think I got away.",
+        "I've escaped with my life!",
+        "Is it over?",
+        "Is it safe now?"
+      ]
+    }
+  }
+]

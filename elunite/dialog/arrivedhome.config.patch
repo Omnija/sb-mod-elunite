@@ -1,0 +1,28 @@
+[
+  {
+    "op": "add",
+    "path": "/beacon/elunite",
+    "value": {
+      "default": [
+        "Did you wish to converse?",
+        "Did you need me for anything?",
+        "What did you need me for?",
+        "Hello again, friend!",
+        "I am always glad to see a friendly face."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/rent/elunite",
+    "value": {
+      "default": [
+        "Here is a token of my gratitude.",
+        "Here - I brought a gift for your troubles.",
+        "You look like you could use a present. Take this.",
+        "I have brought you a gift.",
+        "I hope this offering brings you happiness."
+      ]
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "globalTagDefaults" : {
+    "species" : "elunite"
+  },
+
+  "animatedParts" : {
+    "parts" : {
+      "ship" : {
+        "properties" : {
+          "centered" : false,
+          "image" : "protectorateship<species>.png"
+        }
+      }
+    }
+  }
+}

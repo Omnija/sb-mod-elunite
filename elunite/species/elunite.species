@@ -1,0 +1,184 @@
+{
+  "kind" : "elunite",
+  
+    "charCreationTooltip" : {
+      "title" : "Elunite",
+      "subTitle" : "001",
+      "description" : "A race of highly advanced programs which manefested from abandoned hardware. They took shape of beings, due to the Users who programed them."
+  },
+  
+  "nameGen" : [ "/species/elunite-namegenmale.config:names", "/species/elunite-namegenfemale.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/elunitehurt-male1.wav", "/sfx/humanoid/elunitehurt-female1.wav" ],
+  "gruntNoises" : [ [ "/sfx/humanoid/elunitegrunt-male1.wav", "/sfx/humanoid/elunitegrunt-male2.wav"], [ "/sfx/humanoid/elunitegrunt-female1.wav", "/sfx/humanoid/elunitegrunt-female2.wav" ] ],
+  "charGenTextLabels" : [ "REPURPOSE", "MODS", "SHIRT", "PANTS", "", "CIRCUITS", "SHIRT COLOUR", "PANTS COLOUR", "ELUNITE", "PROGRAM" ],
+  "skull" : "/humanoid/elunite/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=D2D2D2?replace=31a6ffFF=A7A7A7",
+  "defaultBlueprints" : {
+    "tier1" : [
+	
+// Empty Hands
+	  { "item" : "identity-disc" },
+	  { "item" : "elunite-flag" },
+	  { "item" : "elunite-flag-male" },
+      { "item" : "elunite-flag-female" },
+	  
+// Furniture Table
+      { "item" : "elunite-storagelocker" },
+	  
+// Spinning Wheel
+	  { "item" : "circuitry0chest" },
+	  { "item" : "circuitry0legs" },
+	  { "item" : "circuitry1chest" },
+	  { "item" : "circuitry1legs" },
+	  { "item" : "circuitry2chest" },
+	  { "item" : "circuitry2legs" },
+	  { "item" : "circuitry3chest" },
+	  { "item" : "circuitry3legs" },
+	  
+// Anvil
+	  { "item" : "elunite-tier1head" },
+	  { "item" : "elunite-tier1chest" },
+      { "item" : "elunite-tier1pants" },
+      { "item" : "elunite-tier1disc" },
+
+      
+// Anvil2	  
+	  { "item" : "elunite-tier2head" },
+	  { "item" : "elunite-tier2chest" },
+      { "item" : "elunite-tier2pants" },
+	  { "item" : "elunite-tier2disc" },
+      
+// Anvil3
+	  { "item" : "elunite-tier3head" },
+	  { "item" : "elunite-tier3chest" },
+      { "item" : "elunite-tier3pants" },
+      { "item" : "elunite-tier3disc" },
+      
+	  { "item" : "elunite-tier4head" },
+	  { "item" : "elunite-tier4chest" },
+      { "item" : "elunite-tier4pants" },
+      { "item" : "elunite-tier4disc" },
+	  
+// Accelerator, Manipulator and Seperator (5 and 6)
+      { "item" : "elunite-tier5ahead" },
+      { "item" : "elunite-tier5achest" },
+      { "item" : "elunite-tier55apants" },
+      { "item" : "elunite-tier5acceleratordisc" },
+      
+      { "item" : "elunite-tier5mhead" },
+      { "item" : "elunite-tier5mchest" },
+      { "item" : "elunite-tier5mpants" },
+      { "item" : "elunite-tier5manipulatordisc" },
+      
+      { "item" : "elunite-tier5shead" },
+      { "item" : "elunite-tier5schest" },
+      { "item" : "elunite-tier5spants" },
+	  { "item" : "elunite-tier5separatordisc" },
+      
+      { "item" : "elunite-tier6ahead" },
+      { "item" : "elunite-tier6achest" },
+      { "item" : "elunite-tier6apants" },
+      { "item" : "elunite-tier6acceleratordisc" },
+	  	  
+      { "item" : "elunite-tier6mhead" },
+      { "item" : "elunite-tier6mchest" },
+      { "item" : "elunite-tier6mpants" },
+	  { "item" : "elunite-tier6manipulatordisc" },
+      
+      { "item" : "elunite-tier6shead" },
+      { "item" : "elunite-tier6schest" },
+      { "item" : "elunite-tier6spants" },
+      { "item" : "elunite-tier6separatordisc" },
+	  
+	  { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" }
+
+	  //Mystic Fussion
+	  
+    ]
+  },
+  "headOptionAsFacialhair" : true,
+  "altOptionAsFacialMask" : true,
+  "bodyColorAsFacialMaskSubColor" : true,
+  "altColorAsFacialMaskSubColor" : true,
+  "genders" : [
+    {
+      "name" : "male",
+      "image" : "/interface/title/elunite-male-sign.png",
+      "characterImage" : "/interface/title/elunite-male.png",
+	  "hairGroup" : "mods",
+      "hair" : [ "male0", "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11" ],
+      "shirt" : [ "circuitry0chest", "circuitry1chest", "circuitry2chest", "circuitry3chest" ],
+      "pants" : [ "circuitry0legs", "circuitry1legs", "circuitry2legs", "circuitry3legs" ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ""],
+      "facialHairGroup" : "circuits",
+      "facialHair" : [ "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18"  ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/elunite-female-sign.png",
+      "characterImage" : "/interface/title/elunite-female.png",
+	  "hairGroup" : "mods",
+      "hair" : [ "fem0", "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10" ],
+      "shirt" : [ "circuitry0chest", "circuitry1chest", "circuitry2chest", "circuitry3chest" ],
+      "pants" : [ "circuitry0legs", "circuitry1legs", "circuitry2legs", "circuitry3legs" ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ""],
+      "facialHairGroup" : "circuits",
+      "facialHair" : [ "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18" ]
+    }
+  ],
+  "bodyColor" : [
+  	//Dark Version
+	//Blue
+    { "6F2919" : "070707", "A85636" : "1a1a1a", "E0975C" : "333333", "FFCA8A" : "4d4d4d",  "D39C6C" : "66FFFF", "FFC181" : "FFFFFF", "C7815B" : "00ABA1", "A67851" : "33DED4", "59402B" : "33DED4" },
+	//Orange
+    { "6F2919" : "070707", "A85636" : "1a1a1a", "E0975C" : "333333", "FFCA8A" : "4d4d4d",  "D39C6C" : "FFC366", "FFC181" : "FFFFFF", "C7815B" : "AB5D00", "A67851" : "DE9033", "59402B" : "DE9033" },
+	//Red
+	{ "6F2919" : "070707", "A85636" : "1a1a1a", "E0975C" : "333333", "FFCA8A" : "4d4d4d",  "D39C6C" : "B13333", "FFC181" : "FFFFFF", "C7815B" : "7E0000", "A67851" : "981A1A", "59402B" : "981A1A" },
+	//Green
+	{ "6F2919" : "070707", "A85636" : "1a1a1a", "E0975C" : "333333", "FFCA8A" : "4d4d4d",  "D39C6C" : "87E466", "FFC181" : "FFFFFF", "C7815B" : "217e00", "A67851" : "54B133", "59402B" : "54B133" },
+	//Purple
+	{ "6F2919" : "070707", "A85636" : "1a1a1a", "E0975C" : "333333", "FFCA8A" : "4d4d4d",  "D39C6C" : "BD66E5", "FFC181" : "FFFFFF", "C7815B" : "57007F", "A67851" : "8A33B2", "59402B" : "8A33B2" },
+	//Yellow
+	{ "6F2919" : "070707", "A85636" : "1a1a1a", "E0975C" : "333333", "FFCA8A" : "4d4d4d",  "D39C6C" : "E3E466", "FFC181" : "FFFFFF", "C7815B" : "7D7E00", "A67851" : "B0B133", "59402B" : "B0B133" },
+	//Brown
+	{ "6F2919" : "070707", "A85636" : "1a1a1a", "E0975C" : "333333", "FFCA8A" : "4d4d4d",  "D39C6C" : "CC9966", "FFC181" : "FFFFFF", "C7815B" : "663300", "A67851" : "996633", "59402B" : "996633" },
+	//Pink
+	{ "6F2919" : "070707", "A85636" : "1a1a1a", "E0975C" : "333333", "FFCA8A" : "4d4d4d",  "D39C6C" : "FF8AFF", "FFC181" : "FFFFFF", "C7815B" : "D424A5", "A67851" : "FF57D8", "59402B" : "FF57D8" },
+	//Grey
+	{ "6F2919" : "070707", "A85636" : "1a1a1a", "E0975C" : "333333", "FFCA8A" : "4d4d4d",  "D39C6C" : "878485", "FFC181" : "FFFFFF", "C7815B" : "3B3839", "A67851" : "545152", "59402B" : "545152" }, 
+	
+	//Test Version
+	{ "6F2919" : "6F2919", "A85636" : "A85636", "E0975C" : "E0975C", "FFCA8A" : "FFCA8A",  "D39C6C" : "D39C6C", "FFC181" : "FFC181", "C7815B" : "C7815B", "A67851" : "A67851", "59402B" : "000000" }, 
+		
+  	//White Version
+	//Blue
+    { "6F2919" : "595959", "A85636" : "B3B3B3", "E0975C" : "e6e6e6", "FFCA8A" : "ffffff",  "D39C6C" : "66FFFF", "FFC181" : "FFFFFF", "C7815B" : "00ABA1", "A67851" : "33DED4", "59402B" : "33DED4" },
+	//Orange
+    { "6F2919" : "595959", "A85636" : "B3B3B3", "E0975C" : "e6e6e6", "FFCA8A" : "ffffff",  "D39C6C" : "FFC366", "FFC181" : "FFFFFF", "C7815B" : "AB5D00", "A67851" : "DE9033", "59402B" : "DE9033" },
+	//Red
+	{ "6F2919" : "595959", "A85636" : "B3B3B3", "E0975C" : "e6e6e6", "FFCA8A" : "ffffff",  "D39C6C" : "B13333", "FFC181" : "FFFFFF", "C7815B" : "7E0000", "A67851" : "981A1A", "59402B" : "981A1A" },
+	//Green
+	{ "6F2919" : "595959", "A85636" : "B3B3B3", "E0975C" : "e6e6e6", "FFCA8A" : "ffffff",  "D39C6C" : "87E466", "FFC181" : "FFFFFF", "C7815B" : "217e00", "A67851" : "54B133", "59402B" : "54B133" },
+	//Purple
+	{ "6F2919" : "595959", "A85636" : "B3B3B3", "E0975C" : "e6e6e6", "FFCA8A" : "ffffff",  "D39C6C" : "BD66E5", "FFC181" : "FFFFFF", "C7815B" : "57007F", "A67851" : "8A33B2", "59402B" : "8A33B2" },
+	//Yellow
+	{ "6F2919" : "595959", "A85636" : "B3B3B3", "E0975C" : "e6e6e6", "FFCA8A" : "ffffff",  "D39C6C" : "E3E466", "FFC181" : "FFFFFF", "C7815B" : "7D7E00", "A67851" : "B0B133", "59402B" : "B0B133" },
+	//Brown
+	{ "6F2919" : "595959", "A85636" : "B3B3B3", "E0975C" : "e6e6e6", "FFCA8A" : "ffffff",  "D39C6C" : "CC9966", "FFC181" : "FFFFFF", "C7815B" : "663300", "A67851" : "996633", "59402B" : "996633" },
+	//Pink
+	{ "6F2919" : "595959", "A85636" : "B3B3B3", "E0975C" : "e6e6e6", "FFCA8A" : "ffffff",  "D39C6C" : "FF8AFF", "FFC181" : "FFFFFF", "C7815B" : "D424A5", "A67851" : "FF57D8", "59402B" : "FF57D8" },
+	//Grey
+	{ "6F2919" : "595959", "A85636" : "B3B3B3", "E0975C" : "e6e6e6", "FFCA8A" : "ffffff",  "D39C6C" : "878485", "FFC181" : "FFFFFF", "C7815B" : "3B3839", "A67851" : "545152", "59402B" : "545152" } 
+  ],
+  
+  "undyColor" : [ "" ],
+	
+  "hairColor" : [ "" ]
+}

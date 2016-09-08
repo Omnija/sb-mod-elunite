@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "solariumstar", "count" : 10 },
+    { "item" : "elunite-tier5acceleratordisc", "count" : 1 }
+  ],
+  "output" : { "item" : "elunite-tier6acceleratordisc", "count" : 1 },
+  "groups" : [ "craftingaccelerator", "weapons", "all" ]
+}
+

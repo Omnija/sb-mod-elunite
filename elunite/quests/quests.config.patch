@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/elunite",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/elunite",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]
