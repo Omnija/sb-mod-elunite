@@ -1,0 +1,68 @@
+{
+  "itemName" : "elunite-tier2head",
+  "price" : 1440,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headarmour",
+  "description" : "A hard covered helmet is a much better improvement.",
+  "shortdescription" : "Plastic Helmet",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "level" : 2,
+  "leveledStatusEffects" : [
+    {
+      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.15
+    },
+    {
+      "levelFunction" : "standardArmorLevelProtectionMultiplier",
+      "stat" : "protection",
+      "amount" : 0.3
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+      "stat" : "maxEnergy",
+      "amount" : 3
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
+      "stat" : "maxHealth",
+      "amount" : 3
+    }
+  ],
+
+  "itemTags" : [ "tier2armour" ],
+
+   "colorOptions" : [
+    // RED
+    { "6F2919" : "59110D", "A85636" : "831A14", "E0975C" : "B1221B", "FFCA8A" : "C9281F" },
+    // BLACK
+     { "6F2919" : "1a1a1a", "A85636" : "323232", "E0975C" : "4d4d4d", "FFCA8A" : "666666" },
+    // GREY
+     { "6F2919" : "595959", "A85636" : "666666", "E0975C" : "808080", "FFCA8A" : "999999" },
+    // WHITE
+     { "6F2919" : "908f8e", "A85636" : "a7a6a5", "E0975C" : "c0bfbf", "FFCA8A" : "d9d9d8" },
+	// RED
+     { "6F2919" : "59110D", "A85636" : "831A14", "E0975C" : "B1221B", "FFCA8A" : "C9281F" },
+    // ORANGE
+     { "6F2919" : "904500", "A85636" : "b35600", "E0975C" : "e66f00", "FFCA8A" : "ff881a" },
+    // YELLOW
+     { "6F2919" : "9a8800", "A85636" : "b39e00", "E0975C" : "e6cb00", "FFCA8A" : "ffe100" },
+    // GREEN
+     { "6F2919" : "1f5c1f", "A85636" : "267326", "E0975C" : "339933", "FFCA8A" : "40bf40" },
+    // BLUE
+     { "6F2919" : "0a476d", "A85636" : "0d5b8c", "E0975C" : "117abb", "FFCA8A" : "1698e9" },
+    // PURPLE
+     { "6F2919" : "6d2c68", "A85636" : "8f3988", "E0975C" : "a4419c", "FFCA8A" : "be5bb5" },
+    // PINK
+     { "6F2919" : "78545f", "A85636" : "956876", "E0975C" : "ab8792", "FFCA8A" : "c0a5ad" },
+    // BROWN
+	 { "6F2919" : "4d2b00", "A85636" : "663a00", "E0975C" : "995700", "FFCA8A" : "cc7400" }
+  ]
+}

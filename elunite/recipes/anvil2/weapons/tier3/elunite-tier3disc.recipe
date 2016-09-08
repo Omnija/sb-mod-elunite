@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "titaniumbar", "count" : 2 },
-    { "item" : "copperbar", "count" : 1 }
-  ],
-  "output" : { "item" : "elunite-tier3disc", "count" : 1 },
-  "groups" : [ "craftinganvil2", "weapons", "all" ]
-}
-
