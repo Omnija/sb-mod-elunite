@@ -11,53 +11,58 @@
   "maleFrames" : "pantsm.png",
   "femaleFrames" : "pantsf.png",
 
-  "statusEffects" : [
-    {
-      "stat" : "protection",
-      "amount" : 1
-    }
-  ],
-
   "colorOptions" : [
-  	 //Dark Version
+  	//Dark Version
 	//Blue
     { "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "66FFFF", "FFC181" : "FFFFFF", "C7815B" : "00ABA1", "A67851" : "33DED4" },
-	//Orange
-    { "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "FFC366", "FFC181" : "FFFFFF", "C7815B" : "AB5D00", "A67851" : "DE9033" },
+	// BLACK
+	{},
+	// GREY
+	{ "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "878485", "FFC181" : "FFFFFF", "C7815B" : "3B3839", "A67851" : "545152" }, 
+	// WHITE
+	{},
 	//Red
 	{ "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "B13333", "FFC181" : "FFFFFF", "C7815B" : "7E0000", "A67851" : "981A1A" },
-	//Green
-	{ "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "87E466", "FFC181" : "FFFFFF", "C7815B" : "217e00", "A67851" : "54B133" },
-	//Purple
-	{ "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "BD66E5", "FFC181" : "FFFFFF", "C7815B" : "57007F", "A67851" : "8A33B2" },
+	//Orange
+    { "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "FFC366", "FFC181" : "FFFFFF", "C7815B" : "AB5D00", "A67851" : "DE9033" },
 	//Yellow
 	{ "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "E3E466", "FFC181" : "FFFFFF", "C7815B" : "7D7E00", "A67851" : "B0B133" },
-	//Brown
-	{ "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "CC9966", "FFC181" : "FFFFFF", "C7815B" : "663300", "A67851" : "996633" },
+	//Green
+	{ "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "87E466", "FFC181" : "FFFFFF", "C7815B" : "217e00", "A67851" : "54B133" },
+	//Blue
+    { "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "66FFFF", "FFC181" : "FFFFFF", "C7815B" : "00ABA1", "A67851" : "33DED4" },
+	//Purple
+	{ "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "BD66E5", "FFC181" : "FFFFFF", "C7815B" : "57007F", "A67851" : "8A33B2" },
 	//Pink
 	{ "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "FF8AFF", "FFC181" : "FFFFFF", "C7815B" : "D424A5", "A67851" : "FF57D8" },
-	//Grey
-	{ "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "878485", "FFC181" : "FFFFFF", "C7815B" : "3B3839", "A67851" : "545152" }, 
-	
+	//Brown
+	{ "FFFFFF" : "FFFFFF", "070707" : "070707", "1D1D1D" : "1D1D1D", "3F3F3F" : "3F3F3F",  "D39C6C" : "CC9966", "FFC181" : "FFFFFF", "C7815B" : "663300", "A67851" : "996633" },
+
   	//White Version
 	//Blue
     { "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "66FFFF", "FFC181" : "FFFFFF", "C7815B" : "00ABA1", "A67851" : "33DED4" },
-	//Orange
-    { "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "FFC366", "FFC181" : "FFFFFF", "C7815B" : "AB5D00", "A67851" : "DE9033" },
+	// BLACK
+	{},
+	//Grey
+	{ "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "878485", "FFC181" : "FFFFFF", "C7815B" : "3B3839", "A67851" : "545152" }, 
+	// WHITE
+	{},
 	//Red
 	{ "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "B13333", "FFC181" : "FFFFFF", "C7815B" : "7E0000", "A67851" : "981A1A" },
-	//Green
-	{ "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "87E466", "FFC181" : "FFFFFF", "C7815B" : "217e00", "A67851" : "54B133" },
-	//Purple
-	{ "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "BD66E5", "FFC181" : "FFFFFF", "C7815B" : "57007F", "A67851" : "8A33B2" },
+	//Orange
+    { "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "FFC366", "FFC181" : "FFFFFF", "C7815B" : "AB5D00", "A67851" : "DE9033" },
 	//Yellow
 	{ "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "E3E466", "FFC181" : "FFFFFF", "C7815B" : "7D7E00", "A67851" : "B0B133" },
-	//Brown
-	{ "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "CC9966", "FFC181" : "FFFFFF", "C7815B" : "663300", "A67851" : "996633" },
+	//Green
+	{ "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "87E466", "FFC181" : "FFFFFF", "C7815B" : "217e00", "A67851" : "54B133" },
+	//Blue
+    { "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "66FFFF", "FFC181" : "FFFFFF", "C7815B" : "00ABA1", "A67851" : "33DED4" },
+	//Purple
+	{ "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "BD66E5", "FFC181" : "FFFFFF", "C7815B" : "57007F", "A67851" : "8A33B2" },
 	//Pink
 	{ "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "FF8AFF", "FFC181" : "FFFFFF", "C7815B" : "D424A5", "A67851" : "FF57D8" },
-	//Grey
-	{ "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "878485", "FFC181" : "FFFFFF", "C7815B" : "3B3839", "A67851" : "545152" } 
-
+	//Brown
+	{ "FFFFFF" : "000000", "070707" : "595959", "1D1D1D" : "B3B3B3", "3F3F3F" : "ffffff",  "D39C6C" : "CC9966", "FFC181" : "FFFFFF", "C7815B" : "663300", "A67851" : "996633" }
+	
   ]
 }
