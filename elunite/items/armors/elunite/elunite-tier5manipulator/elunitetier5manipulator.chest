@@ -5,18 +5,18 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "chestarmour",
-  "description" : "The multiple layers of folded ferozium used to fashion this armour render its wearer almost indomitable.",
+  "description" : "When wearing this armour, you are determined From the Chest down.",
   "shortdescription" : "Spirited Chestguard",
   "tooltipKind" : "armor",
 
   "maleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestm.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
 
   "femaleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestf.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
