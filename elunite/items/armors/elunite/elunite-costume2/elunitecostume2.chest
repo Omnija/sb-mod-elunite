@@ -1,0 +1,51 @@
+{
+  "itemName" : "elunite-costume2chest",
+  "price" : 800,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "chestarmour",
+  "description" : "Protective Cycle suit, suited just for you.",
+  "shortdescription" : "Speeder Suit",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+
+   "colorOptions" : [
+    // RED
+     { "6F2919" : "383838", "A85636" : "616161", "E0975C" : "8E8E8E", "601119" : "831A14", "932625" : "932625", "D93A3A" : "C9281F" },
+    // BLACK
+     { "6F2919" : "383838", "A85636" : "616161", "E0975C" : "8E8E8E", "932625" : "4d4d4d", "D93A3A" : "666666" },
+    // GREY
+     { "6F2919" : "383838", "A85636" : "616161", "E0975C" : "8E8E8E", "932625" : "808080", "D93A3A" : "999999" },
+    // WHITE
+     { "6F2919" : "383838", "A85636" : "616161", "E0975C" : "8E8E8E", "932625" : "c0bfbf", "D93A3A" : "d9d9d8" },
+	// RED
+     { "6F2919" : "383838", "A85636" : "616161", "E0975C" : "8E8E8E", "932625" : "932625", "D93A3A" : "C9281F" },
+    // ORANGE
+     { "6F2919" : "383838", "A85636" : "616161", "E0975C" : "8E8E8E", "932625" : "e66f00", "D93A3A" : "ff881a" },
+    // YELLOW
+     { "6F2919" : "383838", "A85636" : "616161", "E0975C" : "8E8E8E", "932625" : "932625", "D93A3A" : "C9281F" },
+    // GREEN
+     { "6F2919" : "383838", "A85636" : "616161", "E0975C" : "8E8E8E", "932625" : "932625", "D93A3A" : "C9281F" },
+    // BLUE
+     { "6F2919" : "383838", "A85636" : "616161", "E0975C" : "8E8E8E", "601119" : "0d5b8c", "932625" : "117abb", "D93A3A" : "1698e9" },
+    // PURPLE
+     { "6F2919" : "383838", "A85636" : "616161", "E0975C" : "8E8E8E", "932625" : "932625", "D93A3A" : "C9281F" },
+    // PINK
+     { "6F2919" : "383838", "A85636" : "616161", "E0975C" : "8E8E8E", "932625" : "932625", "D93A3A" : "C9281F" },
+    // BROWN
+	 { "6F2919" : "383838", "A85636" : "616161", "E0975C" : "8E8E8E", "932625" : "932625", "D93A3A" : "C9281F" }
+  ]
+}

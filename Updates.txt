@@ -32,8 +32,8 @@ Fixed Ship teleport (image) issues
 Fixed Weapon sounds
 Added apex placeholder recipes for the time being.(redirect later)
 Recipes for Armors and weapons are all setup (armors need to be drawn and desc updated)
-Tier 1 to 5 Armour Sets completed (Tier 6 a,s,m are remaining)
-Added Original Tier 1 as craftable Costume (Maybe tier 2)
+Tier 1 to 6 m,s Armour Sets completed (missing t6 A)
+Added Original Tier 1 as craftable Costume (Need to restore tier 2)
 Fixed Clothing Dyes and Made them Craftable
 
 v3.1c
