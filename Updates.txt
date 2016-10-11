@@ -14,7 +14,15 @@ Mod Dependency:
 You need an Extended Race Selection mod for this to work.
 
 Changelog:
-v1.0.0
+v1.0.1 (DEV)
+======
+Tier'd Armour Sets Completed
+Disc Weapons Re-Organize and Sets Completed
+Added Old Tier'd Armour As Costumes
+Added tail to wukong like set
+
+Tier
+v1.0.0 (Updating)
 ======
 Race Redone to adapt to starbound v1.0 (Highly unstable & Highly Lacking Features)
 Re adapted sprites and did minor changes
@@ -33,7 +41,7 @@ Fixed Weapon sounds
 Added apex placeholder recipes for the time being.(redirect later)
 Recipes for Armors and weapons are all setup (armors need to be drawn and desc updated)
 Tier 1 to 6 m,s Armour Sets completed (missing t6 A)
-Added Original Tier 1 as craftable Costume (Need to restore tier 2)
+Added Original Tier 1 as craftable Costume
 Fixed Clothing Dyes and Made them Craftable
 
 v3.1c

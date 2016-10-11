@@ -38,7 +38,10 @@
 //Spinning Wheel (Costumes)
 	  { "item" : "elunite-costume1head" },
 	  { "item" : "elunite-costume1chest" },
-	  { "item" : "elunite-costume1pants" },	  
+	  { "item" : "elunite-costume1pants" },
+	  { "item" : "elunite-costume2head" },
+	  { "item" : "elunite-costume2chest" },
+	  { "item" : "elunite-costume2pants" },	 
 	  
 // Anvil
 	  { "item" : "elunite-tier1head" },

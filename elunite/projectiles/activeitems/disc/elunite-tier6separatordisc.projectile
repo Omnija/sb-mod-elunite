@@ -16,7 +16,7 @@
   "bounces" : 2,
   "piercing" : false,
   "timeToLive" : 1,
-  "lightColor" : [217, 58, 67],
+  "lightColor" : [203, 58, 217],
 
   "persistentAudio" : "/sfx/melee/spear_twirl_loop.ogg",
 
