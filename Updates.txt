@@ -18,6 +18,7 @@ v1.0.1 (DEV)
 ======
 Tier'd Armour Sets Completed
 Disc Weapons Re-Organize and Sets Completed
+Ship Upgrade Completed (Redesigned)
 Added Old Tier'd Armour As Costumes
 Added tail to wukong like set
 

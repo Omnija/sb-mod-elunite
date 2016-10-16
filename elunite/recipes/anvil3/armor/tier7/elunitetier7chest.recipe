@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "elunite-tier6achest", "count" : 1 },
+    { "item" : "elunite-tier6mchest", "count" : 1 },
+	{ "item" : "elunite-tier6schest", "count" : 1 }
+  ],
+  "duration" : 0,
+  "output" : { "item" : "elunite-tier7chest", "count" : 1 },
+  "groups" : [ "craftingmanipulator", "armours", "all" ]
+}

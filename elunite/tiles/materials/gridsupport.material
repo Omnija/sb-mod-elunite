@@ -1,0 +1,22 @@
+{
+  "materialId" : 35251,
+  "materialName" : "gridsupport",
+  "particleColor" : [49, 49, 49, 255],
+  "itemDrop" : "gridsupport",
+  "description" : "A strong grid support block.",
+  "shortdescription" : "Grid Support Block",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "drawBackground" : true,
+  "health" : 8,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/columntemplate.config",
+  "renderParameters" : {
+    "texture" : "gridsupport.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 3340
+  }
+}

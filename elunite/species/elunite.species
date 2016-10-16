@@ -98,6 +98,10 @@
       { "item" : "elunite-tier6spants" },
       { "item" : "elunite-tier6separatordisc" },
 	  
+	  { "item" : "elunite-tier7head" },
+      { "item" : "elunite-tier7chest" },
+      { "item" : "elunite-tier7pants" },
+	  
 	  { "item" : "aegisaltpistol" },
       { "item" : "aegisaltbow" },
       { "item" : "feroziumwand" },

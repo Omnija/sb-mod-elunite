@@ -1,0 +1,56 @@
+{
+  "type" : "elunitevirus",
+  "baseType" : "hostile",
+
+  "dropPools" : [ "money" ],
+
+  "scriptConfig" : {
+    "dialog" : {
+      "attack" : {
+        "default" : {
+          "default" : [
+            "Attack!"
+          ]
+        },
+        "elunite" : {
+          "default" : [
+            "Menacing. You do not want to mess with us!",
+            "Eager. You look like you have lots of pixels to lose!",
+            "Aggressive. Did you just look at me funny?",
+            "Excited. Look - someone to rob!",
+            "Hasty. Let's get this robbery over with."
+          ]
+        }
+      }
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "elunite-costume2head", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "back" : [
+              { "name" : "raggedcapeback", "parameters" : { "colorIndex" : 1 } }
+            ],
+            "chest" : [
+              { "name" : "elunite-costume2chest", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "legs" : [
+              { "name" : "elunite-costume2pants", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "primary" : [
+              "npcdagger"
+            ],
+            "sheathedprimary" : [
+              "npcbow"
+            ]
+          }
+        ] ]
+    ]
+  }
+}
+

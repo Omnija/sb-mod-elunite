@@ -1,0 +1,11 @@
+{
+  "itemName" : "griddetails",
+  "price" : 5,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "griddetails.png",
+  "description" : "Piece of Grid Wall Trimming.",
+  "shortdescription" : "Grid Trimming",
+
+  "materialId" : 35252
+}

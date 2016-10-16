@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "elunite-tier6acceleratordisc", "count" : 1 },
+    { "item" : "elunite-tier6manipulatordisc", "count" : 1 },
+	{ "item" : "elunite-tier6separatordisc", "count" : 1 }
+  ],
+  "duration" : 0,
+  "output" : { "item" : "fusionkatana", "count" : 1 },
+  "groups" : [ "craftingseparator", "weapons", "all" ]
+}

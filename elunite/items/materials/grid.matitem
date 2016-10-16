@@ -1,0 +1,10 @@
+{
+  "itemName" : "gridmaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "grid.png",
+  "description" : "A piece taken from the Grid",
+  "shortdescription" : "Grid Piece",
+  "materialId" : 35250
+}

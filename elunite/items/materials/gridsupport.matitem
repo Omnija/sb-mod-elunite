@@ -1,0 +1,11 @@
+{
+  "itemName" : "gridsupport",
+  "price" : 5,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "gridsupport.png",
+  "description" : "A piece of the grid to support walls.",
+  "shortdescription" : "Grid Support",
+
+  "materialId" : 35251
+}

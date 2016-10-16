@@ -1,0 +1,19 @@
+[
+  {
+    "op": "add",
+    "path": "/items/elunite",
+    "value": [
+      [0, [
+          {
+            "chest": [
+              { "name": "circuitry1chest", "parameters": { "colorIndex": [ 3, 7, 8, 9, 10 ] } }
+            ],
+	        "legs": [
+	          { "name": "circuitry1legs", "parameters": { "colorIndex": [ 3, 7, 8, 9, 10 ] } }
+            ]
+          }
+        ]
+      ]
+    ]
+  }
+]

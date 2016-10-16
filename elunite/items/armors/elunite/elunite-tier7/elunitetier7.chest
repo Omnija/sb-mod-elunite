@@ -1,12 +1,12 @@
 {
   "itemName" : "elunite-tier7chest",
-  "price" : 6400,
+  "price" : 16400,
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "chestarmour",
-  "description" : "Hidden ancient transformation Samurai Armour.",
-  "shortdescription" : "Hidden Samurai Armour",
+  "description" : "Hidden transformation which occurs when putting 3 Superior Ranger Armours close to each other.",
+  "shortdescription" : "Mecha Fusion Armour",
   "tooltipKind" : "armor",
 
   "maleFrames" : {
@@ -24,28 +24,28 @@
   "level" : 10,
   "leveledStatusEffects" : [
     {
-      "levelFunction" : "acceleratorArmorLevelPowerMultiplierMultiplier",
+      "levelFunction" : "separatorArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
       "baseMultiplier" : 1.25
     },
     {
-      "levelFunction" : "acceleratorArmorLevelProtectionMultiplier",
+      "levelFunction" : "separatorArmorLevelProtectionMultiplier",
       "stat" : "protection",
       "amount" : 0.5
     },
     {
-      "levelFunction" : "acceleratorArmorLevelMaxEnergyMultiplier",
+      "levelFunction" : "separatorArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
       "amount" : 5
     },
     {
-      "levelFunction" : "acceleratorArmorLevelMaxHealthMultiplier",
+      "levelFunction" : "separatorArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
       "amount" : 5
     }
   ],
 
-  "itemTags" : [ "tier6armour" ],
+  "itemTags" : [ "tier7armour" ],
 
    "colorOptions" : [
     // RED

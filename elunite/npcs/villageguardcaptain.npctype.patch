@@ -1,0 +1,33 @@
+[
+  {
+    "op": "add",
+    "path": "/items/elunite",
+    "value": [
+      [0, [
+          {
+            "chest": [
+              { "name": "elunite-tier4chest", "parameters": { "colorIndex": [ 7 ] } }
+            ],
+	        "legs": [
+	          { "name": "elunite-tier4pants", "parameters": { "colorIndex": [ 7 ] } }
+            ],
+			"head": [
+	          { "name": "elunite-tier4head", "parameters": { "colorIndex": [ 7 ] } }
+            ],
+			"primary" : [
+              "npcspear",
+              "npcaxe",
+              "npchammer",
+              "npcbroadsword",
+              "npcshortsword"
+            ],
+            "sheathedprimary" : [
+              "npcpistol",
+              "npcmachinepistol"
+            ]
+          }
+        ]
+      ]
+    ]
+  }
+]

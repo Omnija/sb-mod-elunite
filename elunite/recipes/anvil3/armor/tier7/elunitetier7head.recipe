@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "elunite-tier6ahead", "count" : 1 },
+    { "item" : "elunite-tier6mhead", "count" : 1 },
+	{ "item" : "elunite-tier6shead", "count" : 1 }
+  ],
+  "duration" : 0,
+  "output" : { "item" : "elunite-tier7head", "count" : 1 },
+  "groups" : [ "craftingaccelerator", "armours", "all" ]
+}

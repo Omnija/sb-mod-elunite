@@ -1,0 +1,21 @@
+{
+  "materialId" : 35252,
+  "materialName" : "griddetails",
+  "particleColor" : [49, 49, 49, 255],
+  "itemDrop" : "griddetails",
+  "description" : "A piece of Grid Wall Trimming.",
+  "shortdescription" : "Grid Trimming",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 2,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "griddetails.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 3190
+  }
+}

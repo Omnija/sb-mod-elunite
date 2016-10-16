@@ -1,12 +1,12 @@
 {
   "itemName" : "elunite-tier7head",
-  "price" : 3840,
+  "price" : 13840,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "headarmour",
-  "description" : "Hidden ancient transformation Samurai Helmet.",
-  "shortdescription" : "Hidden Samurai Helmet",
+  "description" : "Hidden transformation which occurs when putting 3 Superior Ranger Helmets close to each other.",
+  "shortdescription" : "Mecha Fusion Helmet",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -16,22 +16,22 @@
   "level" : 10,
   "leveledStatusEffects" : [
     {
-      "levelFunction" : "acceleratorArmorLevelPowerMultiplierMultiplier",
+      "levelFunction" : "separatorArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
       "baseMultiplier" : 1.15
     },
     {
-      "levelFunction" : "acceleratorArmorLevelProtectionMultiplier",
+      "levelFunction" : "separatorArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 0.3
+      "amount" : 0.5
     },
     {
-      "levelFunction" : "acceleratorArmorLevelMaxEnergyMultiplier",
+      "levelFunction" : "separatorArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
       "amount" : 3
     },
     {
-      "levelFunction" : "acceleratorArmorLevelMaxHealthMultiplier",
+      "levelFunction" : "separatorArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
       "amount" : 3
     }
