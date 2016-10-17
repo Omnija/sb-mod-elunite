@@ -1,21 +1,26 @@
+
 {
   "materialId" : 35251,
   "materialName" : "gridsupport",
-  "particleColor" : [49, 49, 49, 255],
+  "frames" : "gridsupport.png",
+  "particleColor" : [110, 110, 110, 255],
+  "variants" : 1,
   "itemDrop" : "gridsupport",
   "description" : "A strong grid support block.",
   "shortdescription" : "Grid Support Block",
+  "glitchDescription" : "Informed. Supports like this are often used in ship construction.",
+  "floranDescription" : "Ssship sstructural ssupport.",
+  "novakidDescription" : "Made for holdin' spaceships together.",
   "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
-  "drawBackground" : true,
   "health" : 8,
-  "category": "materials",
+  "category" : "materials",
 
-  "renderTemplate" : "/tiles/columntemplate.config",
+  "renderTemplate" : "/tiles/girdertemplate.config",
   "renderParameters" : {
     "texture" : "gridsupport.png",
     "variants" : 1,
     "lightTransparent" : false,
-    "occludesBelow" : true,
+    "occludesBelow" : false,
     "multiColored" : true,
     "zLevel" : 3340
   }

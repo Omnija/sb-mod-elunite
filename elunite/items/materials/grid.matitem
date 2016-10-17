@@ -5,6 +5,6 @@
   "rarity" : "Common",
   "inventoryIcon" : "grid.png",
   "description" : "A piece taken from the Grid",
-  "shortdescription" : "Grid Piece",
+  "shortdescription" : "Grid Block",
   "materialId" : 35250
 }

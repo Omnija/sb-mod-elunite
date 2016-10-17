@@ -1,0 +1,119 @@
+{
+  "objectName" : "gridtorch",
+  "colonyTags" : ["light"],
+  "printable" : false,
+  "rarity" : "Common",
+  "category" : "light",
+  "price" : 5,
+
+  "description" : "This grid torch... immitates the look of a torch light source",
+  "shortdescription" : "Grid Torch",
+  "race" : "elunite",
+
+  "maximumLiquidLevel" : 0.2,
+
+  "apexDescription" : "An excellent survival tool.",
+  "avianDescription" : "gridtorches are essential.",
+  "floranDescription" : "gridtorch ssscare Floran, but Floran musst masster gridtorch.",
+  "glitchDescription" : "Sentimental. gridtorches are indispensable.",
+  "humanDescription" : "A gridtorch to light the way.",
+  "hylotlDescription" : "The humble gridtorch, invaluable out in the wild.",
+  "novakidDescription" : "A gridtorch. Can't live without 'em!",
+
+  "lightColor" : [179, 149, 107],
+
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.075,
+  "flickerIntensityVariance" : 0.025,
+
+  "inventoryIcon" : "gridtorchicon.png",
+  "orientations" : [
+    {
+      "image" : "gridtorch.png:<color>.<frame>",
+      "imagePosition" : [1, 0],
+      
+      "animationParts" : {
+        "bg" : "gridtorch.png",
+        "fg" : "gridtorchlit.png"
+      },
+      "animationPosition" : [1, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "fgAnchors" : [ [0, -1] ],
+
+      "direction" : "right"
+    },
+
+    {
+      "image" : "gridtorchleft.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      
+      "animationParts" : {
+        "bg" : "gridtorchleft.png",
+        "fg" : "gridtorchleftlit.png"
+      },
+      "animationPosition" : [0, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "fgAnchors" : [ [-1, 0] ],
+
+      "direction" : "right"
+    },
+
+    {
+      "image" : "gridtorchright.png:<color>.<frame>",
+      "imagePosition" : [2, 0],
+      
+      "animationParts" : {
+        "bg" : "gridtorchright.png",
+        "fg" : "gridtorchrightlit.png"
+      },
+      "animationPosition" : [2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "fgAnchors" : [ [1, 0] ],
+
+      "direction" : "right"
+    },
+
+    {
+      "image" : "gridtorch.png:<color>.<frame>",
+      "imagePosition" : [1, 0],
+      
+      "animationParts" : {
+        "bg" : "gridtorch.png",
+        "fg" : "gridtorchlit.png"
+      },
+      "animationPosition" : [1, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "bgAnchors" : [ [0, 0] ],
+
+      "direction" : "right"
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/torch.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+
+  "animation" : "gridtorch.animation",
+  "animationParts" : {
+    "bg" : "gridtorch.png",
+    "fg" : "gridtorchlit.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/torch_on1.ogg", "/sfx/objects/torch_on2.ogg" ],
+      "off" : [ "/sfx/objects/torch_off1.ogg", "/sfx/objects/torch_off2.ogg", "/sfx/objects/torch_off3.ogg" ]
+    }
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  // "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+}

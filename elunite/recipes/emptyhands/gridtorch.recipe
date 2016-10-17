@@ -1,0 +1,10 @@
+{
+  "input" : [  
+    { "item" : "money", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "gridtorch",
+    "count" : 4
+  },
+  "groups" : [ "plain", "lights", "all" ]
+}

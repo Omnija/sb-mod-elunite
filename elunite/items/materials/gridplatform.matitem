@@ -1,0 +1,12 @@
+{
+  "itemName" : "gridplatform",
+  "price" : 0,
+  "category" : "platform",
+  "rarity" : "Common",
+  "inventoryIcon" : "gridplatformicon.png",
+  "description" : "Grid platform for lighting the way.",
+  "shortdescription" : "Grid Platform",
+
+  "materialId" : 35253,
+  "learnBlueprintsOnPickup" : [ "gridplatform" ]
+}

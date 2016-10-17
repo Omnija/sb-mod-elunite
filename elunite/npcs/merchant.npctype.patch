@@ -6,14 +6,19 @@
       [0, [
           {
             "chest": [
-              { "name": "circuitry2chest", "parameters": { "colorIndex": [ 6 ] } }
+              { "name": "circuitry2chest", "parameters": { "colorIndex": [ 3, 6, 5, 8  ] } }
             ],
 	        "legs": [
-	          { "name": "circuitry2legs", "parameters": { "colorIndex": [ 6 ] } }
+	          { "name": "circuitry2legs", "parameters": { "colorIndex": [ 3, 6, 5, 8 ] } }
             ]
           }
         ]
       ]
     ]
+  },
+    {
+    "op": "add",
+    "path": "/matchColorIndices",
+    "value": true
   }
 ]

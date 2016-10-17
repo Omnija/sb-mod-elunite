@@ -6,13 +6,13 @@
       [0, [
           {
             "chest": [
-              { "name": "elunite-tier4chest", "parameters": { "colorIndex": [ 7 ] } }
+              { "name": "elunite-tier4chest", "parameters": { "colorIndex": [ 3, 7, 8 ] } }
             ],
 	        "legs": [
-	          { "name": "elunite-tier4pants", "parameters": { "colorIndex": [ 7 ] } }
+	          { "name": "elunite-tier4pants", "parameters": { "colorIndex": [ 3, 7, 8 ] } }
             ],
 			"head": [
-	          { "name": "elunite-tier4head", "parameters": { "colorIndex": [ 7 ] } }
+	          { "name": "elunite-tier4head", "parameters": { "colorIndex": [ 3, 7, 8 ] } }
             ],
 			"primary" : [
               "npcspear",
@@ -29,5 +29,10 @@
         ]
       ]
     ]
+  },
+    {
+    "op": "add",
+    "path": "/matchColorIndices",
+    "value": true
   }
 ]

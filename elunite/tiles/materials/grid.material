@@ -4,7 +4,7 @@
   "particleColor" : [49, 49, 49, 255],
   "itemDrop" : "gridmaterial",
   "description" : "A piece taken from the Grid.",
-  "shortdescription" : "Grid Piece",
+  "shortdescription" : "Grid Block",
   "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
   "health" : 2,
   "category" : "materials",
@@ -14,7 +14,7 @@
     "texture" : "grid.png",
     "variants" : 5,
     "lightTransparent" : false,
-    "occludesBelow" : true,
+    "occludesBelow" : false,
     "multiColored" : true,
     "zLevel" : 2710
   }

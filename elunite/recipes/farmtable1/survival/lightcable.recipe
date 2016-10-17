@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 1 },
+    { "item" : "wire", "count" : 1 },
+    { "item" : "climbingrope", "count" : 1 }
+  ],
+  "output" : { "item" : "lightcable", "count" : 1 },
+  "groups" : [ "craftingfarm", "survival" ]
+}

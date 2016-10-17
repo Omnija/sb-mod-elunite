@@ -1,0 +1,20 @@
+{
+  "materialId" : 35253,
+  "materialName" : "gridplatform",
+  "collisionKind" : "platform",
+  "itemDrop" : "gridplatform",
+  "description" : "Grid platform for lighting the way.",
+  "shortdescription" : "Grid Platform",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "category" : "Supports",
+
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "gridplatform.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

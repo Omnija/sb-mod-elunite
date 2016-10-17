@@ -21,9 +21,19 @@
 	  { "item" : "elunite-flag" },
 	  { "item" : "elunite-flag-male" },
       { "item" : "elunite-flag-female" },
+      { "item" : "gridtorch" },
 	  
 // Furniture Table
       { "item" : "elunite-storagelocker" },
+	  
+// Furniture Table (Materials)
+      { "item" : "gridmaterial" },
+	  { "item" : "gridsupport" },
+	  { "item" : "griddetails" },
+	  { "item" : "gridplatform" },
+	  
+//Farmer's Table
+      { "item" : "lightcable" },
 	  
 // Spinning Wheel (Clothing)
 	  { "item" : "circuitry0chest" },
@@ -98,6 +108,7 @@
       { "item" : "elunite-tier6spants" },
       { "item" : "elunite-tier6separatordisc" },
 	  
+// Mystic Fusion
 	  { "item" : "elunite-tier7head" },
       { "item" : "elunite-tier7chest" },
       { "item" : "elunite-tier7pants" },
@@ -109,7 +120,6 @@
       { "item" : "violiumshortsword" },
       { "item" : "violiumbroadsword" }
 
-	  //Mystic Fussion
 	  
     ]
   },
