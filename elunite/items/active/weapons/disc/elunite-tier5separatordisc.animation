@@ -11,7 +11,7 @@
     },
 
     "parts" : {
-      "chakram" : {
+      "boomerang" : {
         "properties" : {
           "centered" : true,
           "offset" : [0.375, 0.0],
@@ -41,6 +41,6 @@
   },
 
   "sounds" : {
-    "throw" : [ ]
+    "throw" : [ "/sfx/melee/swing_dagger.ogg" ]
   }
 }

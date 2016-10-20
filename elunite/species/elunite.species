@@ -25,15 +25,21 @@
 	  
 // Furniture Table
       { "item" : "elunite-storagelocker" },
+      { "item" : "griddoor" },
 	  
 // Furniture Table (Materials)
       { "item" : "gridmaterial" },
 	  { "item" : "gridsupport" },
 	  { "item" : "griddetails" },
 	  { "item" : "gridplatform" },
+	  { "item" : "gridpillar" },
+	  
 	  
 //Farmer's Table
+	  
+//Farmer's Table (Utilities)
       { "item" : "lightcable" },
+      { "item" : "lightparasol" },
 	  
 // Spinning Wheel (Clothing)
 	  { "item" : "circuitry0chest" },
@@ -108,10 +114,11 @@
       { "item" : "elunite-tier6spants" },
       { "item" : "elunite-tier6separatordisc" },
 	  
-// Mystic Fusion
+// Hidden Fusion
 	  { "item" : "elunite-tier7head" },
       { "item" : "elunite-tier7chest" },
       { "item" : "elunite-tier7pants" },
+      { "item" : "elunite-fusionkatana" },
 	  
 	  { "item" : "aegisaltpistol" },
       { "item" : "aegisaltbow" },

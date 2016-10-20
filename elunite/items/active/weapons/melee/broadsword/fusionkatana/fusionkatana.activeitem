@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "description" : "Hidden transformation which occurs when putting 3 Disc Weapons close to each other.",
-  "shortdescription" : "Fusion Katana",
+  "shortdescription" : "Mecha Fusion Katana",
   "tooltipKind" : "base",
   "category" : "broadsword",
   "twoHanded" : true,
@@ -53,7 +53,7 @@
     }
   },
 
-  "altAbilityType" : "kunaiblast",
+  "altAbilityType" : "discblast",
 
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }

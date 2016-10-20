@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 1 },
+    { "item" : "wire", "count" : 2 },
+	{ "item" : "glassmaterial", "count" : 5 }
+  ],
+  "output" : { "item" : "lightparasol", "count" : 1 },
+  "groups" : [ "craftingfarm", "survival" ]
+}

@@ -1,0 +1,11 @@
+{
+  "itemName" : "gridpillar",
+  "price" : 5,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "gridpillar.png",
+  "description" : "A strong grid pillar to hold up the grid",
+  "shortdescription" : "Grid Pillar Block",
+
+  "materialId" : 35254
+}

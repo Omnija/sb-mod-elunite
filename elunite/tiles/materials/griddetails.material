@@ -6,7 +6,7 @@
   "description" : "A piece of Grid Wall Trimming.",
   "shortdescription" : "Grid Trimming",
   "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
-  "health" : 2,
+  "health" : 8,
   "category" : "materials",
 
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
@@ -15,7 +15,7 @@
     "variants" : 1,
     "lightTransparent" : false,
     "multiColored" : true,
-    "occludesBelow" : false,
+    "occludesBelow" : true,
     "zLevel" : 3190
   }
 }

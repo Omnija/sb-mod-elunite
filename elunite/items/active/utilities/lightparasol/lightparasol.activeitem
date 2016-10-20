@@ -1,0 +1,29 @@
+{
+  "itemName" : "lightparasol",
+  "price" : 500,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "tool",
+  "description" : "Hold on to your baton, and open to gently float while falling.",
+  "shortdescription" : "Light Parasol",
+  "tooltipKind" : "base",
+  "twoHanded" : false,
+
+  "inventoryIcon" : "lightparasol.png:open",
+
+  "animation" : "lightparasol.animation",
+  "animationParts" : { },
+  "animationCustom" : { },
+
+  "scripts" : ["lightparasol.lua"],
+
+  "idleRotation" : -45,
+  "activeRotation" : 65,
+  "switchTime" : 0.3,
+  "fallingParameters" : {
+    "airForce" : 30,
+    "runSpeed" : 14,
+    "walkSpeed" : 14
+  },
+  "maxFallSpeed" : -4
+}

@@ -1,0 +1,22 @@
+{
+  "materialId" : 35254,
+  "materialName" : "gridpillar",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "gridpillar",
+  "description" : "A strong grid pillar to hold up the grid",
+  "shortdescription" : "Grid Pillar Block",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "drawBackground" : true,
+  "health" : 8,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/columntemplate.config",
+  "renderParameters" : {
+    "texture" : "gridpillar.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 3340
+  }
+}

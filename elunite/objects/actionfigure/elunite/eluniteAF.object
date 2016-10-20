@@ -1,0 +1,34 @@
+{
+  "objectName" : "eluniteaf",
+  "colonyTags" : ["elunite"],
+  "race" : "elunite",
+  "rarity" : "Legendary",
+  "category" : "actionFigure",
+
+  "price" : 5000,
+  "printable" : false,
+  "description" : "The label reads, \"The prototype of an Elunite. I wonder what happened after?.\"",
+  "shortdescription" : "Elunite Figurine",
+
+
+  "inventoryIcon" : "eluniteaficon.png",
+  "orientations" : [
+    {
+      "image" : "eluniteaf.png:<color>",
+      "imagePosition" : [-4, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "eluniteaf.png:<color>",
+      "imagePosition" : [-4, 0],
+      "direction" : "right",
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

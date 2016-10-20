@@ -27,20 +27,20 @@
     {
       "levelFunction" : "separatorArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 3
+      "amount" : 5
     },
     {
       "levelFunction" : "separatorArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 3
+      "amount" : 5
     }
   ],
 
   "itemTags" : [ "tier7armour" ],
 
    "colorOptions" : [
-    // RED
-    { "6F2919" : "59110D", "A85636" : "831A14", "E0975C" : "B1221B", "FFCA8A" : "C9281F" },
+    // WHITE
+     { "6F2919" : "908f8e", "A85636" : "a7a6a5", "E0975C" : "ffffff", "FFCA8A" : "d9d9d8" },
     // BLACK
      { "6F2919" : "1a1a1a", "A85636" : "323232", "E0975C" : "4d4d4d", "FFCA8A" : "666666" },
     // GREY

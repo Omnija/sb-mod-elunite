@@ -14,28 +14,28 @@
   "inventoryIcon" : "elunite-tier3disc.png",
   "animation" : "elunite-tier3disc.animation",
   "animationParts" : {
-    "chakram" : "elunite-tier3disc.png"
+    "boomerang" : "elunite-tier3disc.png"
   },
-  "animationCustom" : {
+  "animationCustom" : {     
     "sounds" : {
       "throw" : [ "/sfx/melee/laser_weapon_swing2.ogg" ]
     }
   },
-  "scripts" : ["/items/active/weapons/boomerang/boomerang.lua"],
+  "scripts" : ["discweapon.lua"],
   "fireOffset" : [1.25, 0.5],
+  
 
   "cooldownTime" : 0.6,
 
   "projectileType" : "elunite-tier3disc",
   "projectileParameters" : {
-    "knockback" : 10,
     "power" : 8.0,
-    "damageRepeatTimeout" : 0.5,
+    "knockback" : 20,
 
-    "returnOnHit" : false,
+    "ignoreTerrain" : false,
+    "controlForce" : 80,
     "pickupDistance" : 1.0,
-
-    "maxDistance" : 10
+    "snapDistance" : 4.0
   },
 
   "stances" : {

@@ -6,7 +6,7 @@
   "description" : "A piece taken from the Grid.",
   "shortdescription" : "Grid Block",
   "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
-  "health" : 2,
+  "health" : 8,
   "category" : "materials",
 
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
@@ -14,8 +14,8 @@
     "texture" : "grid.png",
     "variants" : 5,
     "lightTransparent" : false,
-    "occludesBelow" : false,
     "multiColored" : true,
-    "zLevel" : 2710
+    "occludesBelow" : true,
+    "zLevel" : 2630
   }
 }

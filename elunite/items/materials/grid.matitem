@@ -3,8 +3,10 @@
   "price" : 0,
   "category" : "block",
   "rarity" : "Common",
-  "inventoryIcon" : "grid.png",
+  "inventoryIcon" : "gridmaterial.png",
   "description" : "A piece taken from the Grid",
   "shortdescription" : "Grid Block",
-  "materialId" : 35250
+  "materialId" : 35250,
+  "colonyTags" : ["elunite"],
+  "race" : "elunite"
 }
