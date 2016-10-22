@@ -14,13 +14,13 @@
   "shortdescription" : "S.A.I.L",
   "race" : "elunite",
 
-  "apexDescription" : "I can talk to Sail through this console.",
-  "avianDescription" : "I can use this station to talk to Sail.",
-  "floranDescription" : "Floran use thisss magic panel to talk to Sail!",
-  "glitchDescription" : "Happy. This station allows me to talk to Sail.",
-  "eluniteDescription" : "This station allows me to communicate with Sail.",
-  "hylotlDescription" : "This console allows me to communicate with Sail.",
-  "novakidDescription" : "This here station let's me talk with Sail.",
+  "apexDescription" : "I can talk to S.A.I.L through this console.",
+  "avianDescription" : "I can use this station to talk to S.A.I.L.",
+  "floranDescription" : "Floran use thisss magic panel to talk to S.A.I.L!",
+  "glitchDescription" : "Happy. This station allows me to talk to S.A.I.L.",
+  "eluniteDescription" : "This station allows me to communicate with S.A.I.L.",
+  "hylotlDescription" : "This console allows me to communicate with S.A.I.L.",
+  "novakidDescription" : "This here station let's me talk with S.A.I.L.",
 
   "inventoryIcon" : "elunitetechstationicon.png",
   "orientations" : [
@@ -44,7 +44,7 @@
     "/objects/spawner/techstation.lua"
   ],
   "scriptDelta" : 20,
-  "shipPetType" : "",
+  "shipPetType" : "beta",
   "spawnOffset" : [2, -1],
 
   "chatPortrait" : "/ai/portraits/eluniteportrait.png:yell.1",

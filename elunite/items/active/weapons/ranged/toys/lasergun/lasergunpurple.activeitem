@@ -1,0 +1,91 @@
+{
+  "itemName" : "lasergunpurple",
+  "price" : 500,
+  "inventoryIcon" : "lasergunpurple.png",
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "Grid? Colours? Laser TAG!",
+  "shortdescription" : "Lasergun Purple",
+  "level" : 1,
+  "category" : "toy",
+  "itemTags" : ["toy"],
+  "lightPosition" : [4, 0],
+  "lightColor" : [85, 136, 212],
+  "beamLevel" : 5,
+  "beamAmbience" : 0.4,
+
+  "twoHanded" : true,
+
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : {
+    "butt" : "",
+    "middle" : "lasergunpurple.png",
+    "barrel" : "",
+    "muzzleFlash" : ""
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : ["/sfx/gun/lightningcoil1.ogg", "/sfx/gun/lightningcoil2.ogg", "/sfx/gun/lightningcoil3.ogg"]
+    },
+    "lights" : {
+      "muzzleFlash" : {
+        "color" : [85, 136, 212]
+      }
+    }
+  },
+
+  "baseOffset" : [0.5, 0.3],
+  "muzzleOffset" : [3.5, 0.3],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : 0.18,
+    "baseDps" : 0,
+    "energyUsage" : 0,
+    "inaccuracy" : 0.02,
+
+    "projectileCount" : 1,
+    "fireType" : "auto",
+
+    "projectileType" : "lasertagpurple",
+    "projectileParameters" : {
+      "speed" : 100
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 3,
+        "weaponRotation" : 3,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.15,
+        "armRotation" : 3,
+        "weaponRotation" : 3,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  },
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

@@ -1,9 +1,0 @@
-{
-  "name" : "green",
-  "category" : "cybug",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "green.png"
-  }
-}

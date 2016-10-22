@@ -1,0 +1,33 @@
+[
+  {
+    "op": "add",
+    "path": "/items/elunite",
+    "value": [
+      [0, [
+          {
+            "chest": [
+              { "name": "elunite-costume2chest", "parameters": { "colorIndex": [ 4, 5  ] } }
+            ],
+	        "legs": [
+	          { "name": "elunite-costume2pants", "parameters": { "colorIndex": [ 4, 5 ] } }
+            ],
+	        "head": [
+	          { "name": "elunite-costume2head", "parameters": { "colorIndex": [ 4, 5 ] } }
+            ],
+			"primary" : [
+              "npcassaultrifle"
+            ],
+            "sheathedprimary" : [
+              "npcbroadsword"
+            ]
+          }
+        ]
+      ]
+    ]
+  },
+    {
+    "op": "add",
+    "path": "/matchColorIndices",
+    "value": true
+  }
+]

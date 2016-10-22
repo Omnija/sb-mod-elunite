@@ -44,6 +44,7 @@
 // Spinning Wheel (Clothing)
 	  { "item" : "circuitry0chest" },
 	  { "item" : "circuitry0legs" },
+	  { "item" : "circuitry1head" },
 	  { "item" : "circuitry1chest" },
 	  { "item" : "circuitry1legs" },
 	  { "item" : "circuitry2chest" },
@@ -58,6 +59,14 @@
 	  { "item" : "elunite-costume2head" },
 	  { "item" : "elunite-costume2chest" },
 	  { "item" : "elunite-costume2pants" },	 
+	  
+// Anvil (Toys)
+	  { "item" : "lasergunblue" },
+	  { "item" : "lasergungreen" },
+	  { "item" : "lasergunred" },
+	  { "item" : "lasergunorange" },
+	  { "item" : "lasergunpurple" },
+	  { "item" : "lasergunyellow" },
 	  
 // Anvil
 	  { "item" : "elunite-tier1head" },

@@ -1,0 +1,23 @@
+{
+  "projectileName" : "lasertagpurple",
+  "image" : "lasertagpurple.png",
+  "animationCycle" : 0.2,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 4,
+  "lightColor" : [85, 136, 212],
+  "power" : 5.0,
+  "speed" : 20,
+  "pointLight" : true,
+  "piercing" : false,
+  "damageKind" : "default",
+    "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/paintexplosionpurple/paintexplosionpurple.config"
+    }
+  ],
+  "damageTeam" : { "type" : "indiscriminate" },
+  "statusEffects" : [
+    "colorpurple"
+  ]
+}

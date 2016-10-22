@@ -6,10 +6,13 @@
       [0, [
           {
             "chest": [
-              { "name": "circuitry1chest", "parameters": { "colorIndex": [ 3, 7, 8, 9, 10 ] } }
+              { "name": "circuitry1chest", "parameters": { "colorIndex": [ 3, 4, 5, 7, 8 ] } }
             ],
 	        "legs": [
-	          { "name": "circuitry1legs", "parameters": { "colorIndex": [ 3, 7, 8, 9, 10 ] } }
+	          { "name": "circuitry1legs", "parameters": { "colorIndex": [ 3, 4, 5, 7, 8 ] } }
+            ],
+	        "head": [
+	          { "name": "circuitry1head", "parameters": { "colorIndex": [ 3, 4, 5, 7, 8 ] } }
             ]
           }
         ]

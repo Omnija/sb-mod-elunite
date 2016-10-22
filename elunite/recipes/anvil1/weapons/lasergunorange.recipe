@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 6 },
+    { "item" : "clay", "count" : 10 },
+    { "item" : "orangedye", "count" : 2 }
+  ],
+  "output" : { "item" : "lasergunorange", "count" : 1 },
+  "groups" : [ "craftinganvil", "weapons", "all" ]
+}

@@ -1,0 +1,23 @@
+{
+  "projectileName" : "lasertagred",
+  "image" : "lasertagred.png",
+  "animationCycle" : 0.2,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 4,
+  "lightColor" : [200, 40, 31],
+  "power" : 5.0,
+  "speed" : 20,
+  "pointLight" : true,
+  "piercing" : false,
+  "damageKind" : "default",
+    "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/paintexplosionred/paintexplosionred.config"
+    }
+  ],
+  "damageTeam" : { "type" : "indiscriminate" },
+  "statusEffects" : [
+    "colorred"
+  ]
+}
