@@ -4,7 +4,7 @@
   "animationCycle" : 0.2,
   "damageKindImage" : "icon.png",
   "frameNumber" : 4,
-  "lightColor" : [85, 136, 212],
+  "lightColor" : [229, 202, 0],
   "power" : 5.0,
   "speed" : 20,
   "pointLight" : true,

@@ -1,11 +1,11 @@
 {
-  "itemName" : "lasergunorange",
+  "itemName" : "nerfgunred",
   "price" : 500,
-  "inventoryIcon" : "lasergunorange.png",
+  "inventoryIcon" : "nerfgunred.png",
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "Grid? Colours? Laser TAG!",
-  "shortdescription" : "Lasergun Orange",
+  "description" : "Shoot me if you can, because you can't hurt me.",
+  "shortdescription" : "Nerf Gun Red",
   "level" : 1,
   "category" : "toy",
   "itemTags" : ["elunite"],
@@ -15,23 +15,23 @@
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {
     "butt" : "",
-    "middle" : "lasergunorange.png",
+    "middle" : "nerfgunred.png",
     "barrel" : "",
     "muzzleFlash" : ""
   },
   "animationCustom" : {
     "sounds" : {
-      "fire" : ["/sfx/gun/lightningcoil1.ogg", "/sfx/gun/lightningcoil2.ogg", "/sfx/gun/lightningcoil3.ogg"]
+      "fire" : ["/sfx/gun/paintgun1.ogg", "/sfx/gun/paintgun2.ogg", "/sfx/gun/paintgun3.ogg", "/sfx/gun/paintgun4.ogg", "/sfx/gun/paintgun5.ogg"]
     },
     "lights" : {
       "muzzleFlash" : {
-        "color" : [249, 133, 25]
+
       }
     }
   },
 
   "baseOffset" : [0.65, 0.2],
-  "muzzleOffset" : [3.3, 0.4],
+  "muzzleOffset" : [0.8, 0.4],
 
   "scripts" : ["/items/active/weapons/ranged/gun.lua"],
 
@@ -41,7 +41,7 @@
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
 
-    "fireTime" : 0.18,
+    "fireTime" : 1.0,
     "baseDps" : 0,
     "energyUsage" : 0,
     "inaccuracy" : 0.02,
@@ -49,9 +49,9 @@
     "projectileCount" : 1,
     "fireType" : "auto",
 
-    "projectileType" : "lasertagorange",
+    "projectileType" : "nerfbulletred",
     "projectileParameters" : {
-      "speed" : 100
+      "speed" : 50
     },
     "stances" : {
       "idle" : {
@@ -63,7 +63,7 @@
         "allowFlip" : true
       },
       "fire" : {
-        "duration" : 0.5,
+        "duration" : 0,
         "armRotation" : 3,
         "weaponRotation" : 3,
         "twoHanded" : true,

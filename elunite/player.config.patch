@@ -8,6 +8,16 @@
     "op": "add",
     "path": "/defaultCodexes/elunite",
     "value": [ "protectorate1", "protectorate2" ]
-  }
+  },
+  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "nerfgunred" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "nerfgunblue" }
+	}
 ]
 
