@@ -26,6 +26,8 @@
 // Furniture Table
       { "item" : "elunite-storagelocker" },
       { "item" : "griddoor" },
+      { "item" : "discAF" },
+      { "item" : "eluniteAF" },
 	  
 // Furniture Table (Materials)
       { "item" : "gridmaterial" },

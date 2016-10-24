@@ -1,0 +1,9 @@
+[ 
+ {"op":"add","path":"/interactData/items/-","value":
+{"item":"lightcyclecontrollerblue"}},
+ {"op":"add","path":"/interactData/items/-","value":
+{"item":"lightcyclecontrollerred"}},
+ {"op":"add","path":"/interactData/items/-","value":
+{"item":"lightcyclecontrolleryellow"}}
+
+]

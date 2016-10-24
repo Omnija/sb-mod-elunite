@@ -1,0 +1,34 @@
+{
+  "itemName" : "lightcyclecontrolleryellow",
+  "level" : 1,
+  "price" : 125,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create a yellow light cycle from a Del-Ton ball",
+  "shortdescription" : "Yellow Light Cycle Controller",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "yellow.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "lightcycleyellow",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/lightcycle/lightcyclewarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "lightcyclecontrolleryellow.png"
+  },
+
+  "inventoryIcon" : "lightcyclecontrolleryellow.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/lightcyclecontrolleryellow.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/lightcyclecontrolleryellow.png:full"
+
+}

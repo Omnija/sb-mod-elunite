@@ -1,0 +1,34 @@
+{
+  "itemName" : "lightcyclecontrollerred",
+  "level" : 1,
+  "price" : 125,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create a red light cycle from a Del-Ton ball",
+  "shortdescription" : "Red Light Cycle Controller",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "red.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "lightcyclered",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/lightcycle/lightcyclewarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "lightcyclecontrollerred.png"
+  },
+
+  "inventoryIcon" : "lightcyclecontrollerred.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/lightcyclecontrollerred.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/lightcyclecontrollerred.png:full"
+
+}

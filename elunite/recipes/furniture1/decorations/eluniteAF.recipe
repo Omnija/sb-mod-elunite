@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "eluniteAF",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}
