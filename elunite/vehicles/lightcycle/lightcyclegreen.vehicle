@@ -1,5 +1,5 @@
 {
-  "name" : "lightcycle",
+  "name" : "lightcyclegreen",
   "script" : "lightcycle.lua",
   "boundBox" : [-5, -5, 5, 5],
   "slaveControlTimeout" : 2.0,
@@ -8,6 +8,10 @@
   "animation" : "lightcycle.animation",
 
   "animationCustom" : {
+  
+     "globalTagDefaults" : {
+        "colour" : "green"
+      },
 
     "particleEmitters" : {
       "damageShards" : {
@@ -23,13 +27,7 @@
         "transformationGroups" : ["flip", "rotation"],
         "active" : false,
         "emissionRate" : 0.0,
-        "particles" : [
-                       { "particle" : "hoverbikekhakiwreck1"},
-                       { "particle" : "hoverbikekhakiwreck2"},
-                       { "particle" : "hoverbikewreck3"},
-                       { "particle" : "hoverbikekhakiwreck4"},
-                       { "particle" : "hoverbikewreck5"},
-                       { "particle" : "hoverbikekhakiwreck6"}]
+        "particles" : []
       }
     }
   },
@@ -71,7 +69,7 @@
 
   //Health and damage
   "protection" : 50,
-  "maxHealth" : 1000,
+  "maxHealth" : 50,
 
   "damageStateNames" : ["undamaged","scratched","dented","wrecked"],
 

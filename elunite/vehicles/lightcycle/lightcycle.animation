@@ -153,8 +153,8 @@
           "centered" : true,
           "zLevel" : 1,
           "transformationGroups" : ["flip", "rotation"],
-          "drivingSeatPosition" : [0, 1.5],
-          "passengerSeatPosition" : [-2, 1.5]
+          "drivingSeatPosition" : [1.5, 1.0],
+          "passengerSeatPosition" : [0, 1.5]
         },
 
         "partStates" : {
@@ -208,12 +208,12 @@
 
             "warpInPart1" : {
               "properties" : {
-                "image" : "lightcyclewarp.png:warpInPart1.<frame>"
+                "image" : "lightcycle<colour>warp.png:warpInPart1.<frame>"
               }
             },
             "warpInPart2" : {
               "properties" : {
-                "image" : "lightcyclewarp.png:warpInPart2.<frame>"
+                "image" : "lightcycle<colour>warp.png:warpInPart2.<frame>"
               }
             },
 
@@ -225,12 +225,12 @@
 
             "warpOutPart1" : {
               "properties" : {
-                "image" : "lightcyclewarp.png:warpOutPart1.<frame>"
+                "image" : "lightcycle<colour>warp.png:warpOutPart1.<frame>"
               }
             },
             "warpOutPart2" : {
               "properties" : {
-                "image" : "lightcyclewarp.png:warpOutPart2.<frame>"
+                "image" : "lightcycle<colour>warp.png:warpOutPart2.<frame>"
               }
             },
 
@@ -304,9 +304,9 @@
           "rearThruster" : {
             "on" : {
               "properties" : {
-                "image" : "/animations/hoverbikethruster/backthruster.png:thrust.<rearThrusterFrame>",
+                "image" : "/animations/lightcycleribbon/lightcycle<colour>ribbon.png:ribbon.<rearThrusterFrame>",
 
-                "offset" : [-2.5, -0.5]
+                "offset" : [-5.0, -0.4]
               }
             }
           }

@@ -1,0 +1,7 @@
+{
+  "frames" : "lightcycleblueribbon.png",
+  "variants" : 1,
+  "frameNumber" : 6,
+  "animationCycle" : 50.0,
+  "offset" : [0, 0]
+}
