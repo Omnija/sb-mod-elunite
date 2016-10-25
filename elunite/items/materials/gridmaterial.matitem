@@ -1,6 +1,6 @@
 {
   "itemName" : "gridmaterial",
-  "price" : 0,
+  "price" : 5,
   "category" : "block",
   "rarity" : "Common",
   "inventoryIcon" : "gridmaterial.png",

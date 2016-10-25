@@ -3,7 +3,8 @@ Emotes
 Codex
 Ship
 Improvements
-	-Light Cycle Animations and Sprite
+	-Light Cycle Animations/Sprite/mechanics
+	-Fusion Sword Projectiles
 
 	
 ship transparency 135

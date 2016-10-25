@@ -16,9 +16,9 @@
 
   "animation" : "lightcable.animation",
 
-  "fireOffset" : [0, 0.3],
-  "ropeOffset" : [-1.75, 0.3],
-  "ropeVisualOffset" : [1.0, 0.1],
+  "fireOffset" : [0, 0.0],
+  "ropeOffset" : [-1.75, 0.0],
+  "ropeVisualOffset" : [1.0, 0.0],
 
   "consumeOnUse" : false,
 

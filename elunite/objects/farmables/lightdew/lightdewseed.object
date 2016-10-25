@@ -1,0 +1,48 @@
+{
+  "objectName" : "lightdewseed",
+  "colonyTags" : ["nature"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "An enhanced new method using organic matter to grow energy.",
+  "shortdescription" : "Light Dew Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 30,
+
+  "inventoryIcon" : "lightdewseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "lightdewseed.png:default.2.0",
+
+
+  "orientations" : [
+    {
+      "dualImage" : "lightdewseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [0, 0] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [1170, 1230]
+    },
+    {
+      "duration" : [1170, 1230]
+    },
+    {
+      "alts" : 5,
+      "harvestPool" : "lightdewHarvest"
+    }
+  ],
+
+  "maxImmersion" : 0.5
+}

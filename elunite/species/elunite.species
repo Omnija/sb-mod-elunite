@@ -42,6 +42,10 @@
 //Farmer's Table (Utilities)
       { "item" : "lightcable" },
       { "item" : "lightparasol" },
+	
+//Farmer's Table (Survival)
+      { "item" : "detron" },
+      { "item" : "detronmara" },
 	  
 // Spinning Wheel (Clothing)
 	  { "item" : "circuitry0chest" },

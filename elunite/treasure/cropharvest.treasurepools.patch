@@ -1,0 +1,20 @@
+[
+  {
+    "op": "add",
+    "path": "/lightdewHarvest",
+    "value": [
+      [
+        0,
+        {
+          "pool": [
+            {"weight": 0.01, "item": "lightdewseed"},
+            {"weight": 0.01, "item": "liquidhealing"}
+          ],
+          "poolRounds": [
+            [0.6, 2]
+          ]
+        }
+      ]
+    ]
+  }
+]

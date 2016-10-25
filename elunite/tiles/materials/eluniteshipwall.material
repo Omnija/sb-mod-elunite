@@ -1,0 +1,24 @@
+{
+  "materialId" : 35255,
+  "materialName" : "eluniteshipwall",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "orcanashipwall",
+  "description" : "A sleek metal wall panel.",
+  "shortdescription" : "Wall Panel",
+  "glitchDescription" : "Impressed. These removable panels are smooth and strong.",
+  "floranDescription" : "Metal panel makess ssmooth wall.",
+  "novakidDescription" : "A panel made outta metal.",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "eluniteshipwall.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 2630
+  }
+}
