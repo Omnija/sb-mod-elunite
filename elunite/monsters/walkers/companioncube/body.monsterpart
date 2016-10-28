@@ -1,0 +1,9 @@
+{
+  "name" : "companioncube",
+  "category" : "companioncube",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "companioncube.png"
+  }
+}

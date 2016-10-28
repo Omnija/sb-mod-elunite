@@ -86,6 +86,7 @@
 	  { "item" : "elunite-tier2chest" },
       { "item" : "elunite-tier2pants" },
 	  { "item" : "elunite-tier2disc" },
+	  { "item" : "lightshield" },
       
 // Anvil3
 	  { "item" : "elunite-tier3head" },

@@ -1,0 +1,41 @@
+{
+  "itemName" : "nerfbowred",
+  "price" : 50,
+  "inventoryIcon" : "nerfbowredicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "tooltipKind" : "bow",
+  "category" : "toy",
+  "description" : "Tired of Nerf Guns? Then use a bow!",
+  "shortdescription" : "Nerf Bow Red",
+  "twoHanded" : true,
+  "itemTags" : ["weapon", "ranged", "bow"],
+
+  "radioMessagesOnPickup" : [ "pickupbow" ],
+
+  "level" : 1,
+
+  "animation" : "/items/active/weapons/ranged/toys/nerfbow/nerfbow.animation",
+  "animationParts" : {
+    "bow" : "nerfbowred.png"
+  },
+  "animationCustom" : {
+    "animatedParts" : { "parts" : { "bow" : { "properties" : {
+      "offset" : [0.25, 0]
+    }}}},
+    "sounds" : {
+      "draw" : [ "/sfx/gun/bow_draw1.ogg", "/sfx/gun/bow_draw2.ogg", "/sfx/gun/bow_draw3.ogg" ],
+      "release" : [ "/sfx/gun/bow_loose.ogg" ],
+      "perfectRelease" : [ "/sfx/gun/bow_loose_perfect.ogg" ]
+    }
+  },
+
+  "scripts" : ["/items/active/weapons/ranged/toys/nerfbow/nerfbow.lua"],
+
+  "primaryAbilityType" : "nerfshotred",
+  "primaryAbility" : {
+
+  },
+
+  "builder" : "/items/buildscripts/buildbow.lua"
+}

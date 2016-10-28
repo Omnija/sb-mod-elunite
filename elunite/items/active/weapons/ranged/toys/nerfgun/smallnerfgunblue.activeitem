@@ -1,0 +1,84 @@
+{
+  "itemName" : "smallnerfgunblue",
+  "price" : 500,
+  "inventoryIcon" : "smallnerfgunblue.png",
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "Something that small can't seriously hurt me!",
+  "shortdescription" : "Small Nerf Gun Blue",
+  "level" : 1,
+  "category" : "toy",
+  "itemTags" : ["elunite"],
+
+  "twoHanded" : false,
+
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : {
+    "butt" : "",
+    "middle" : "smallnerfgunblue.png",
+    "barrel" : "",
+    "muzzleFlash" : ""
+  },
+  "animationCustom" : {
+    "sounds" : {
+     "fire" : ["/sfx/gun/paintgun1.ogg", "/sfx/gun/paintgun2.ogg", "/sfx/gun/paintgun3.ogg", "/sfx/gun/paintgun4.ogg", "/sfx/gun/paintgun5.ogg"]
+    },
+    "lights" : {
+      "muzzleFlash" : {
+
+      }
+    }
+  },
+
+  "baseOffset" : [0.2, 0.1],
+  "muzzleOffset" : [0.8, 0.4],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : 1.5,
+    "baseDps" : 0,
+    "energyUsage" : 0,
+    "inaccuracy" : 0.05,
+
+    "projectileCount" : 1,
+    "fireType" : "auto",
+
+    "projectileType" : "nerfbulletblue",
+    "projectileParameters" : {
+      "speed" : 50
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 3,
+        "weaponRotation" : 3,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.15,
+        "armRotation" : 3,
+        "weaponRotation" : 3,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  },
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

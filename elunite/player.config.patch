@@ -9,6 +9,16 @@
     "path": "/defaultCodexes/elunite",
     "value": [ "protectorate1", "protectorate2" ]
   },
+   {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "smallnerfgunred" }
+	},
+	  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "smallnerfgunblue" }
+	},
   	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
@@ -18,6 +28,16 @@
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "nerfgunblue" }
+	},
+	  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "nerfbowred" }
+	},
+	  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "nerfbowblue" }
 	}
 ]
 
