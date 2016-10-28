@@ -14,17 +14,30 @@ Mod Dependency:
 You need an Extended Race Selection mod for this to work.
 
 Changelog:
-v1.0.1 (DEV)
-======
-Tier'd Armour Sets Completed
-Disc Weapons Re-Organize and Sets Completed
-Ship Upgrade Completed (Redesigned)
-Added Old Tier'd Armour As Costumes
-Added tail to wukong like set
-And Tons of Mystery Content
 
-Tier
-v1.0.0 (Updating)
+v1.0.1a (DEV)
+======
+
+
+v1.0.1 (Updating)
+======
+Full Tier'd Weapons
+Full Tier'd Armours
+Arsonal Of Toys (Nerf Guns, Laser Guns)
+Blocks
+Ship
+Ship Pet
+vehicles
+Clothing
+Costumes
+NPCS and Tenants
+Companion Cube Monster
+Shield
+Plants
+Tools
+Mystery Stuff
+
+v1.0.0 
 ======
 Race Redone to adapt to starbound v1.0 (Highly unstable & Highly Lacking Features)
 Re adapted sprites and did minor changes
