@@ -33,8 +33,11 @@
       { "item" : "gridmaterial" },
 	  { "item" : "gridsupport" },
 	  { "item" : "griddetails" },
+	  { "item" : "griddetails1" },
 	  { "item" : "gridplatform" },
+	  { "item" : "gridplatform1" },
 	  { "item" : "gridpillar" },
+	  { "item" : "gridpillar1" },
 	  
 	  
 //Farmer's Table

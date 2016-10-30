@@ -1,5 +1,5 @@
 {
-  "name" : "recognizer",
+  "name" : "recognizerblue",
   "script" : "recognizer.lua",
   "boundBox" : [-5, -5, 5, 5],
   "slaveControlTimeout" : 2.0,
@@ -8,6 +8,10 @@
   "animation" : "recognizer.animation",
 
   "animationCustom" : {
+  
+        "globalTagDefaults" : {
+        "colour" : "blue"
+      },
 
     "particleEmitters" : {
       "damageShards" : {

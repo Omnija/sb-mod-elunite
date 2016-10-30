@@ -1,0 +1,11 @@
+{
+  "itemName" : "griddetails1",
+  "price" : 5,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "griddetails1.png",
+  "description" : "Grid Bottom Trimming.",
+  "shortdescription" : "Grid Bottom Trimming",
+
+  "materialId" : 35256
+}

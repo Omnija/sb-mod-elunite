@@ -208,12 +208,12 @@
 
             "warpInPart1" : {
               "properties" : {
-                "image" : "recognizerwarp.png:warpInPart1.<frame>"
+                "image" : "recognizer<colour>warp.png:warpInPart1.<frame>"
               }
             },
             "warpInPart2" : {
               "properties" : {
-                "image" : "recognizerwarp.png:warpInPart2.<frame>"
+                "image" : "recognizer<colour>warp.png:warpInPart2.<frame>"
               }
             },
 
@@ -225,12 +225,12 @@
 
             "warpOutPart1" : {
               "properties" : {
-                "image" : "recognizerwarp.png:warpOutPart1.<frame>"
+                "image" : "recognizer<colour>warp.png:warpOutPart1.<frame>"
               }
             },
             "warpOutPart2" : {
               "properties" : {
-                "image" : "recognizerwarp.png:warpOutPart2.<frame>"
+                "image" : "recognizer<colour>warp.png:warpOutPart2.<frame>"
               }
             },
 

@@ -1,0 +1,12 @@
+{
+  "itemName" : "gridplatform1",
+  "price" : 0,
+  "category" : "platform",
+  "rarity" : "Common",
+  "inventoryIcon" : "gridplatformicon1.png",
+  "description" : "A study platform for the not so light.",
+  "shortdescription" : "Grid Sturdy Platform",
+
+  "materialId" : 35257,
+  "learnBlueprintsOnPickup" : [ "gridplatform1" ]
+}

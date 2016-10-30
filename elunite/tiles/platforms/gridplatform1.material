@@ -1,0 +1,20 @@
+{
+  "materialId" : 35257,
+  "materialName" : "gridplatform1",
+  "collisionKind" : "platform",
+  "itemDrop" : "gridplatform11",
+  "description" : "A study platform for the not so light.",
+  "shortdescription" : "Grid Sturdy Platform",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "category" : "Supports",
+
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "gridplatform1.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

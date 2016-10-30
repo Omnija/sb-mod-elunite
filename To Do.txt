@@ -1,7 +1,6 @@
 Quests
 Emotes
 Codex
-Ship
 Improvements
 	-Light Cycle Animations/Sprite/mechanics
 	-Fusion Sword Projectiles

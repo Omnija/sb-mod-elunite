@@ -17,6 +17,8 @@ Changelog:
 
 v1.0.1a (DEV)
 ======
+More Blocks
+More Vehicles
 
 
 v1.0.1 (Updating)

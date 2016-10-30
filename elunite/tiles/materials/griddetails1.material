@@ -1,0 +1,21 @@
+{
+  "materialId" : 35256,
+  "materialName" : "griddetails1",
+  "particleColor" : [49, 49, 49, 255],
+  "itemDrop" : "griddetails1",
+  "description" : "Grid Bottom Trimming.",
+  "shortdescription" : "Grid Bottom Trimming",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "griddetails1.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 3190
+  }
+}
