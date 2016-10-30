@@ -1,0 +1,24 @@
+
+{
+  "materialId" : 35259,
+  "materialName" : "gridsupport1",
+  "frames" : "gridsupport1.png",
+  "particleColor" : [110, 110, 110, 255],
+  "variants" : 1,
+  "itemDrop" : "gridsupport1",
+  "description" : "A sturdy grid support block.",
+  "shortdescription" : "Grid Sturdy Block",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/girdertemplate.config",
+  "renderParameters" : {
+    "texture" : "gridsupport1.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 3340
+  }
+}

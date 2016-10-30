@@ -1,0 +1,11 @@
+{
+  "itemName" : "gridsupport1",
+  "price" : 5,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "gridsupport1.png",
+  "description" : "A sturdy grid support block",
+  "shortdescription" : "Grid Sturdy Support",
+
+  "materialId" : 35259
+}

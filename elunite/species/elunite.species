@@ -32,6 +32,7 @@
 // Furniture Table (Materials)
       { "item" : "gridmaterial" },
 	  { "item" : "gridsupport" },
+	  { "item" : "gridsupport1" },
 	  { "item" : "griddetails" },
 	  { "item" : "griddetails1" },
 	  { "item" : "gridplatform" },
