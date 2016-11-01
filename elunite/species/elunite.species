@@ -60,8 +60,10 @@
 	  { "item" : "circuitry1head" },
 	  { "item" : "circuitry1chest" },
 	  { "item" : "circuitry1legs" },
+	  { "item" : "circuitry2head" },
 	  { "item" : "circuitry2chest" },
 	  { "item" : "circuitry2legs" },
+	  { "item" : "circuitry3head" },
 	  { "item" : "circuitry3chest" },
 	  { "item" : "circuitry3legs" },
 	  

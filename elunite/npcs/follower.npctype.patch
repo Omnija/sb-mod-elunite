@@ -6,13 +6,13 @@
       [0, [
           {
             "chest": [
-              { "name": "elunite-tier1chest", "parameters": { "colorIndex": [ 3, 4, 5, 7, 8  ] } }
+              { "name": "elunite-tier3chest", "parameters": { "colorIndex": [ 3, 4, 5, 7, 8  ] } }
             ],
 	        "legs": [
-	          { "name": "elunite-tier1pants", "parameters": { "colorIndex": [ 3, 4, 5, 7, 8 ] } }
+	          { "name": "elunite-tier3pants", "parameters": { "colorIndex": [ 3, 4, 5, 7, 8 ] } }
             ],
 	        "head": [
-	          { "name": "elunite-tier1head", "parameters": { "colorIndex": [ 3, 4, 5, 7, 8 ] } }
+	          { "name": "elunite-tier3head", "parameters": { "colorIndex": [ 3, 4, 5, 7, 8 ] } }
             ],
 			"primary" : [
               "npcassaultrifle"

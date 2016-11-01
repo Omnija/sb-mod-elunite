@@ -17,9 +17,12 @@ Changelog:
 
 v1.0.1a (DEV)
 ======
+More Hats
 More Blocks
 More Objects
 More Vehicles
+Fixing Colony Tags
+Light Cycle Tweaks
 
 
 v1.0.1 (Updating)
