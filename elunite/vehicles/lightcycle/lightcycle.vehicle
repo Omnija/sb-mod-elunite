@@ -59,7 +59,7 @@
   "angleApproachFactor" : 0.025,
   "maxGroundSearchDistance" : 10,
   "maxAngle" : 45,
-  "hoverTargetDistance" : 1,
+  "hoverTargetDistance" : 1.5,
   "hoverVelocityFactor" : 250,
   "hoverControlForce" : 650,
   "targetHorizontalVelocity" : 250,

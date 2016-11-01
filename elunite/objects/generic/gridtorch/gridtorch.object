@@ -1,6 +1,6 @@
 {
   "objectName" : "gridtorch",
-  "colonyTags" : ["light"],
+  "colonyTags" : ["elunite", "light"],
   "printable" : false,
   "rarity" : "Common",
   "category" : "light",

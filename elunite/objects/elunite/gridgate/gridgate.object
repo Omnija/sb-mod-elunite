@@ -1,28 +1,32 @@
 {
-  "objectName" : "griddoor",
+  "objectName" : "gridgate",
   "colonyTags" : ["elunite", "door"],
   "printable" : false,
   "rarity" : "Common",
 
   "category" : "door",
-  "price" : 150,
-  "description" : "A Grid Door? Where did this come from?",
-  "shortdescription" : "Grid Door",
+  "price" : 10,
+  "description" : "A grid fence to keep viruses out of the plantation.",
+  "shortdescription" : "Grid Gate",
   "race" : "elunite",
 
-  "inventoryIcon" : "griddooricon.png",
+  "apexDescription" : "A gate.",
+  "avianDescription" : "A gate. Easy to hop over.",
+  "floranDescription" : "fence door.",
+  "glitchDescription" : "Neutral. This is a gate.",
+  "humanDescription" : "A good gate.",
+  "hylotlDescription" : "A little gate",
+  "novakidDescription" : "A gate.",
 
-  "tooltipKind" : "door",
-  "largeImage" : "griddoor.png:right",
-
+  "inventoryIcon" : "gridgateicon.png",
   "orientations" : [
     {
-      "dualImage" : "griddoor.png:<color>",
+      "dualImage" : "gridgate.png:closed",
       "imagePosition" : [-16, 0],
       "renderLayer" : "Object+5",
-	  
+
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom", "top" ]
+      "anchors" : [ "bottom" ]
     }
   ],
 
@@ -42,12 +46,11 @@
       }
     }
   },
-  
   "animationParts" : {
-    "door" : "griddoor.png"
+    "door" : "gridgate.png"
   },
   "animationPosition" : [-16, 0],
 
-  "inputNodes" : [ [0, 4] ],
+  "inputNodes" : [ [0, 2] ],
   "outputNodes" : [ [0, 0] ]
 }

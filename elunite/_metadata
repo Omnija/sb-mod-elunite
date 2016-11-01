@@ -1,7 +1,9 @@
 {
-  "author" : "Omnija & Sotaeko",
-  "description" : "A race of highly advanced programs which manifested from old abandoned hardware. They took shape of beings, due to the Users who programmed them.",
+  "version" : "1.0.1",
   "friendlyName" : "Elunite Race",
+  "link" : "steam://url/CommunityFilePage/788890408",
+  "steamContentId" : "788890408",
   "name" : "Elunite",
-  "version" : "1.0.1"
+  "description" : "A race of highly advanced programs which manifested from old abandoned hardware. They took shape of beings, due to the Users who programmed them.",
+  "author" : "Omnija & Sotaeko"
 }

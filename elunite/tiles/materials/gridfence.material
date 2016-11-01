@@ -1,0 +1,26 @@
+{
+  "materialId" : 35260,
+  "materialName" : "gridfence",
+  "particleColor" : [137, 124, 76, 255],
+  "itemDrop" : "gridfence",
+  "description" : "A grid beam fence.",
+  "shortdescription" : "Grid Fence",
+  "glitchDescription" : "Pleased. This fence is quite sturdy.",
+  "floranDescription" : "Sssturdy fence.",
+  "novakidDescription" : "Nothin' like a fence.",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 2,
+  "category" : "materials",
+  "damageTable" : "/tiles/flammableDamage.config",
+  "blocksLiquidFlow" : false,
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "gridfence.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "multiColored" : true,
+    "occludesBelow" : false,
+    "zLevel" : 520
+  }
+}

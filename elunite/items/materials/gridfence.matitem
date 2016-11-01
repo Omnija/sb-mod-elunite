@@ -1,0 +1,14 @@
+{
+  "itemName" : "gridfence",
+  "price" : 10,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "gridfence.png",
+  "description" : "A grid beam fence.",
+  "shortdescription" : "Grid Fence",
+  "glitchdescription" : "Pleased. This fence is quite sturdy.",
+  "florandescription" : "Sssturdy fence.",
+  "novakiddescription" : "Nothin' like a sturdy fence.",
+
+  "materialId" : 35260
+}

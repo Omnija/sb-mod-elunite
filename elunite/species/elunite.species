@@ -28,6 +28,9 @@
       { "item" : "griddoor" },
       { "item" : "discAF" },
       { "item" : "eluniteAF" },
+      { "item" : "flynnsign" },
+      { "item" : "tronsign" },
+      { "item" : "hometronsign" },
 	  
 // Furniture Table (Materials)
       { "item" : "gridmaterial" },
