@@ -1,0 +1,34 @@
+{
+  "itemName" : "recognizercontrolleryellow",
+  "level" : 1,
+  "price" : 5000,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create a yellow recognizer from a glitched handle.",
+  "shortdescription" : "Yellow Recognizer Controller",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "recognizeryellow.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "recognizeryellow",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/recognizer/recognizerwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "recognizercontrolleryellow.png"
+  },
+
+  "inventoryIcon" : "recognizercontrolleryellow.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/recognizercontrolleryellow.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/recognizercontrolleryellow.png:full"
+
+}

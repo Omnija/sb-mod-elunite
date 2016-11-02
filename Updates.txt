@@ -22,6 +22,7 @@ Correcting
 + Broken Pixels
 + Colony Tags
 + Light Cycle (Tweaks)
++ Mara Detron (9 Slots)
 
 Implementing
 + Hats

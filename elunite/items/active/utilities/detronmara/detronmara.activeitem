@@ -4,7 +4,7 @@
   "inventoryIcon" : "detronmara.png:0",
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "Holds up to 6 friendly creatures in stasis in order to safely relocate them.",
+  "description" : "Holds up to 9 friendly creatures in stasis in order to safely relocate them.",
   "shortdescription" : "Detron Mara Relocator",
   "level" : 1,
   "category" : "Tool",
@@ -30,7 +30,7 @@
     "scripts" : ["/items/active/utilities/detronmara/relocate.lua"],
     "class" : "Relocate",
 
-    "maxStorage" : 6,
+    "maxStorage" : 9,
 
     "maxRange" : 20,
     "cooldownTime" : 0.5,

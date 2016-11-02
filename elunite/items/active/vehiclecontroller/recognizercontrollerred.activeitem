@@ -1,0 +1,34 @@
+{
+  "itemName" : "recognizercontrollerred",
+  "level" : 1,
+  "price" : 5000,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create a red recognizer from a glitched handle.",
+  "shortdescription" : "Red Recognizer Controller",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "recognizerred.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "recognizerred",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/recognizer/recognizerwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "recognizercontrollerred.png"
+  },
+
+  "inventoryIcon" : "recognizercontrollerred.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/recognizercontrollerred.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/recognizercontrollerred.png:full"
+
+}

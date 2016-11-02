@@ -6,6 +6,14 @@
  {"op":"add","path":"/interactData/items/-","value":
 {"item":"lightcyclecontrollerred"}},
  {"op":"add","path":"/interactData/items/-","value":
-{"item":"lightcyclecontrolleryellow"}}
+{"item":"lightcyclecontrolleryellow"}},
+ {"op":"add","path":"/interactData/items/-","value":
+{"item":"recognizercontrollerblue"}},
+ {"op":"add","path":"/interactData/items/-","value":
+{"item":"recognizercontrollergreen"}},
+ {"op":"add","path":"/interactData/items/-","value":
+{"item":"recognizercontrollerred"}},
+ {"op":"add","path":"/interactData/items/-","value":
+{"item":"recognizercontrolleryellow"}}
 
 ]

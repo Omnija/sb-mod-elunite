@@ -15,7 +15,7 @@
   "animationScripts" : ["vehiclecursor.lua"],
   "filled" : true,
   "tooltipKind" : "vehicle",
-  "largeImage" : "blue.png",
+  "largeImage" : "lightcycleblue.png",
 
   "respawnTime" : 1.0,
 

@@ -1,0 +1,34 @@
+{
+  "itemName" : "recognizercontrollergreen",
+  "level" : 1,
+  "price" : 5000,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create a green recognizer from a glitched handle.",
+  "shortdescription" : "Green Recognizer Controller",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "recognizergreen.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "recognizergreen",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/recognizer/recognizerwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "recognizercontrollergreen.png"
+  },
+
+  "inventoryIcon" : "recognizercontrollergreen.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/recognizercontrollergreen.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/recognizercontrollergreen.png:full"
+
+}

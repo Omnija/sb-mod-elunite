@@ -1,0 +1,34 @@
+{
+  "itemName" : "recognizercontrollerblue",
+  "level" : 1,
+  "price" : 5000,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create a blue recognizer from a glitched handle.",
+  "shortdescription" : "Blue Recognizer Controller",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "recognizerblue.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "recognizerblue",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/recognizer/recognizerwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "recognizercontrollerblue.png"
+  },
+
+  "inventoryIcon" : "recognizercontrollerblue.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/recognizercontrollerblue.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/recognizercontrollerblue.png:full"
+
+}
