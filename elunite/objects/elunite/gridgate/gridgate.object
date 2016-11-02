@@ -1,6 +1,6 @@
 {
   "objectName" : "gridgate",
-  "colonyTags" : ["elunite", "door"],
+  "colonyTags" : ["elunite","door"],
   "printable" : false,
   "rarity" : "Common",
 

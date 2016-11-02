@@ -1,6 +1,6 @@
 {
   "objectName" : "eluniteAF",
-  "colonyTags" : ["elunite"],
+  "colonyTags" : ["elunite","pretty"],
   "race" : "elunite",
   "rarity" : "Legendary",
   "category" : "actionFigure",

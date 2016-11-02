@@ -15,14 +15,23 @@ You need an Extended Race Selection mod for this to work.
 
 Changelog:
 
-v1.0.1a (DEV)
+v1.0.2 (DEV)
 ======
-More Hats
-More Blocks
-More Objects
-More Vehicles
-Fixing Colony Tags
-Light Cycle Tweaks
+
+Correcting
++ Broken Pixels
++ Colony Tags
++ Light Cycle (Tweaks)
+
+Implementing
++ Hats
++ Blocks
++ Objects
++ Storage
++ Vehicles
++ Materials
++ Decorations
+
 
 
 v1.0.1 (Updating)
