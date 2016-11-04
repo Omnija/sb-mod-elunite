@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "silverbar", "count" : 2 },
+	{ "item" : "durasteelbar", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "corpuslocker",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture2", "objects", "storage", "all" ]
+}

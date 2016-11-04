@@ -1,0 +1,40 @@
+{
+  "objectName" : "corpuswalllocker",
+  "colonyTags" : ["elunite","elunitevillage","pretty","storage","commerce"],
+  "rarity" : "Uncommon",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "printable" : true,
+  "category" : "storage",
+  "price" : 700,
+  "lightColor" : [20, 29, 33],
+  "health" : 1.5,
+
+  "description" : "A Warframe Corpus Wall Locker? Looks like a secret door?",
+  "shortdescription" : "Corpus Wall Locker",
+  "race" : "elunite",
+
+  "inventoryIcon" : "corpuswalllockericon.png",
+  "orientations" : [
+    {
+      "image" : "corpuswalllocker.png:<color>.<key>",
+	  "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [0, 0],
+      "frames" : 3,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background", "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/locker_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/locker_close.ogg" ],
+  "slotCount" : 144,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

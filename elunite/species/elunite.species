@@ -26,12 +26,16 @@
 // Furniture Table
       { "item" : "elunite-storagelocker" },
       { "item" : "griddoor" },
+      { "item" : "gridgate" },
       { "item" : "discAF" },
       { "item" : "eluniteAF" },
       { "item" : "flynnsign" },
       { "item" : "tronsign" },
       { "item" : "hometronsign" },
       { "item" : "gridchest" },
+	 
+      { "item" : "corpuslocker" },
+      { "item" : "corpuswalllocker" },
 	  
 // Furniture Table (Materials)
       { "item" : "gridmaterial" },
@@ -43,6 +47,7 @@
 	  { "item" : "gridplatform1" },
 	  { "item" : "gridpillar" },
 	  { "item" : "gridpillar1" },
+      { "item" : "gridfence" },
 	  
 	  
 //Farmer's Table

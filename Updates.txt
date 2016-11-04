@@ -33,8 +33,6 @@ Implementing
 + Materials
 + Decorations
 
-
-
 v1.0.1 (Updating)
 ======
 Full Tier'd Weapons
@@ -47,7 +45,7 @@ vehicles
 Clothing
 Costumes
 NPCS and Tenants
-Companion Cube Monster
+Companion Cube Monster ( /spawnmonster companioncube 1 )
 Shield
 Plants
 Tools
