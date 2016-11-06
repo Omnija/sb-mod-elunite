@@ -40,12 +40,67 @@
 	 {
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridbed" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridlamp" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridlamp1" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridlamp2" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridlamppost" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridchair" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridtable" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridpainting" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridpainting1" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "griddoor" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "griddoor1" }
 	},
 	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "gridgate" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridgate1" }
 	},
 	{
 		"op" : "add",
@@ -76,6 +131,16 @@
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "gridchest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridchest1" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridchest2" }
 	},
 	{
 		"op" : "add",

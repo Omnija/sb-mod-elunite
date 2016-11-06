@@ -4,7 +4,7 @@
     { "item" : "cobblestonematerial", "count" : 10 }
   ],
   "output" : {
-    "item" : "griddoor",
+    "item" : "griddoor1",
     "count" : 1
   },
   "groups" : [ "craftingfurniture", "doors", "all" ]

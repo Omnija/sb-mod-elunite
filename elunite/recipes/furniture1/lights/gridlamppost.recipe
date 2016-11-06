@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 2 },
+    { "item" : "torch", "count" : 2 },
+    { "item" : "glassmaterial", "count" : 2 }
+  ],
+  "output" : { "item" : "gridlamppost", "count" : 1 },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

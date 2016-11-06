@@ -1,9 +1,9 @@
 {
   "input" : [
-    { "item" : "ironbar", "count" : 4 }
+    { "item" : "ironbar", "count" : 10 }
   ],
   "output" : {
-    "item" : "gridchest",
+    "item" : "gridchest2",
     "count" : 1
   },
   "groups" : [ "craftingfurniture", "objects", "storage", "all" ]
