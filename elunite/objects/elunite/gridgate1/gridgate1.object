@@ -1,0 +1,50 @@
+{
+  "objectName" : "gridgate1",
+  "colonyTags" : ["elunite","outdoor","door"],
+  "printable" : false,
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 10,
+  "description" : "What a small door, wait that's a gate?",
+  "shortdescription" : "Small Grid Gate",
+  "race" : "elunite",
+
+
+
+  "inventoryIcon" : "gridgate1icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "gridgate1.png:closed",
+      "imagePosition" : [-16, 0],
+      "renderLayer" : "Object+5",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/woodendoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/woodendoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "gridgate1.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "inputNodes" : [ [0, 2] ],
+  "outputNodes" : [ [0, 0] ]
+}

@@ -1,6 +1,6 @@
 {
   "objectName" : "gridchest1",
-  "colonyTags" : ["storage"],
+  "colonyTags" : ["elunite","storage"],
   "rarity" : "Common",
   "objectType" : "container",
   "tooltipKind" : "container",
@@ -9,7 +9,7 @@
   "price" : 70,
   "description" : "A small grid chest.",
   "shortdescription" : "Small Grid Chest",
-  "race" : "generic",
+  "race" : "elunite",
   "health" : 1.5,
 
   "apexDescription" : "A chest! Let's look inside.",

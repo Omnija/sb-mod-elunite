@@ -1,0 +1,46 @@
+{
+  "objectName" : "gridchest2",
+  "colonyTags" : ["elunite","storage"],
+  "rarity" : "uncommon",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "race" : "elunite",
+  "health" : 1.5,
+
+  "category" : "storage",
+  "price" : 0,
+  "printable" : false,
+  "description" : "A large grid chest",
+  "shortdescription" : "Large Grid Chest",
+
+
+  "inventoryIcon" : "gridchest2icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "gridchest2.png:<color>.<key>", "fullbright" : true }, { "image" : "gridchest2lit.png:<color>.<key>" } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "gridchest2.png:<color>.<key>", "fullbright" : true }, { "image" : "gridchest2lit.png:<color>.<key>" } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/chest_small_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/chest_small_close.ogg" ],
+  "slotCount" : 144,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

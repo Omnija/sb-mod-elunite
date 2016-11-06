@@ -21,7 +21,7 @@ v1.0.3 (DEV)
 Implementing
 + New Pet (Elulight) aka the Pixar Lamp
 + Objects
-+ Furniture
++ Tons of Furniture
 + Blueprint patch for all races
 
 v1.0.2
