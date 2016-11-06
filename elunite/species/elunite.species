@@ -33,6 +33,8 @@
       { "item" : "tronsign" },
       { "item" : "hometronsign" },
       { "item" : "gridchest" },
+	  
+      { "item" : "arcadetron" },
 	 
       { "item" : "corpuslocker" },
       { "item" : "corpuswalllocker" },
@@ -72,6 +74,7 @@
 	  { "item" : "circuitry3head" },
 	  { "item" : "circuitry3chest" },
 	  { "item" : "circuitry3legs" },
+	  { "item" : "circuitry4head" },
 	  
 //Spinning Wheel (Costumes)
 	  { "item" : "elunite-costume1head" },
@@ -88,6 +91,12 @@
 	  { "item" : "lasergunorange" },
 	  { "item" : "lasergunpurple" },
 	  { "item" : "lasergunyellow" },
+	  { "item" : "smallnerfgunred" },
+	  { "item" : "smallnerfgunblue" },
+	  { "item" : "nerfgunred" },
+	  { "item" : "nerfgunblue" },
+	  { "item" : "nerfbowred" },
+	  { "item" : "nerfbowblue" },
 	  
 // Anvil
 	  { "item" : "elunite-tier1head" },

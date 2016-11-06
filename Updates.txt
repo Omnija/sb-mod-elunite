@@ -15,7 +15,16 @@ You need an Extended Race Selection mod for this to work.
 
 Changelog:
 
-v1.0.2 (DEV)
+v1.0.3 (DEV)
+======
+
+Implementing
++ New Pet (Elulight) aka the Pixar Lamp
++ Objects
++ Furniture
++ Blueprint patch for all races
+
+v1.0.2
 ======
 
 Correcting
@@ -33,7 +42,7 @@ Implementing
 + Materials
 + Decorations
 
-v1.0.1 (Updating)
+v1.0.1
 ======
 Full Tier'd Weapons
 Full Tier'd Armours

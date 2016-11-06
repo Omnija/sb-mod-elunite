@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "wire", "count" : 4 },
+    { "item" : "glass", "count" : 4 },
+    { "item" : "darkwoodmaterial", "count" : 20 },
+    { "item" : "stickofram", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "arcadetron",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}
