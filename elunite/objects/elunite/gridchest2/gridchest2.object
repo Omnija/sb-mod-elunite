@@ -1,7 +1,7 @@
 {
   "objectName" : "gridchest2",
   "colonyTags" : ["elunite","storage"],
-  "rarity" : "uncommon",
+  "rarity" : "common",
   "objectType" : "container",
   "tooltipKind" : "container",
   "race" : "elunite",

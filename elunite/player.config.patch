@@ -85,6 +85,16 @@
 	 {
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridstool" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridtoilet" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "griddoor" }
 	},
 	 {

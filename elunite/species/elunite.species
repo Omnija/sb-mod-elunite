@@ -39,6 +39,8 @@
       { "item" : "gridgate1" },
       { "item" : "gridpainting" },
       { "item" : "gridpainting1" },
+      { "item" : "gridstool" },
+      { "item" : "gridtoilet" },
       { "item" : "discAF" },
       { "item" : "eluniteAF" },
       { "item" : "flynnsign" },

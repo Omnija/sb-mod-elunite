@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "ironbar", "count" : 2 }
+    { "item" : "ironbar", "count" : 3 }
   ],
   "output" : {
     "item" : "gridchest1",

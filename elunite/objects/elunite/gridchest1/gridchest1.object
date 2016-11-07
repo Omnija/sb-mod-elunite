@@ -7,8 +7,8 @@
 
   "category" : "storage",
   "price" : 70,
-  "description" : "A small grid chest.",
-  "shortdescription" : "Small Grid Chest",
+  "description" : "A standard grid chest.",
+  "shortdescription" : "Standard Grid Chest",
   "race" : "elunite",
   "health" : 1.5,
 
@@ -33,7 +33,7 @@
 
   "openSounds" : [ "/sfx/objects/chest_small_open.ogg" ],
   "closeSounds" : [ "/sfx/objects/chest_small_close.ogg" ],
-  "slotCount" : 32,
+  "slotCount" : 64,
   "uiConfig" : "/interface/chests/chest<slots>.config",
   "frameCooldown" : 5,
   "autoCloseCooldown" : 3600
