@@ -1,0 +1,9 @@
+{
+  "name" : "blue",
+  "category" : "minimal",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "blue.png"
+  }
+}

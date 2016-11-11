@@ -1,0 +1,9 @@
+{
+  "name" : "orange",
+  "category" : "minimal",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "orange.png"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 2 }
+  ],
+  "output" : { "item" : "gridbench", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

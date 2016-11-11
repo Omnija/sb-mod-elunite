@@ -1,9 +1,0 @@
-{
-  "name" : "orange",
-  "category" : "beta",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "orange.png"
-  }
-}

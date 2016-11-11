@@ -6,8 +6,8 @@
 
   "category" : "door",
   "price" : 15,
-  "description" : "A grid door.",
-  "shortdescription" : "Grid Door",
+  "description" : "A black grid door.",
+  "shortdescription" : "Black Grid Door",
   "race" : "elunite",
 
 
@@ -35,11 +35,11 @@
   "animationCustom" : {
     "sounds" : {
       "open" : {
-        "pool" : [ "/sfx/objects/woodendoor1_open.ogg" ],
+        "pool" : [ "/sfx/objects/woodendoor_open.ogg" ],
         "rangeMultiplier" : 0.5
       },
       "close" : {
-        "pool" : [ "/sfx/objects/woodendoor1_close.ogg" ],
+        "pool" : [ "/sfx/objects/woodendoor_close.ogg" ],
         "rangeMultiplier" : 0.5
       }
     }

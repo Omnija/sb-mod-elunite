@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 1 }
+  ],
+  "output" : { "item" : "gridoven", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

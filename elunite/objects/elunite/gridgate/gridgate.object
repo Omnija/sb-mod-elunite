@@ -6,7 +6,7 @@
 
   "category" : "door",
   "price" : 10,
-  "description" : "A grid fence to keep viruses out of the plantation.",
+  "description" : "A grid gate door to keep viruses out of the plantation.",
   "shortdescription" : "Grid Gate",
   "race" : "elunite",
 

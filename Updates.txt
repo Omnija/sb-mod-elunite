@@ -19,10 +19,16 @@ v1.0.3 (DEV)
 ======
 
 Implementing
-+ New Pet (Elulight) aka the Pixar Lamp
++ New Pet (Nano Man) 
++ New Pet (Elulight) (Hidden)
+- Old Pet Removed
 + Objects
-+ Tons of Furniture
++ Furniture
+(Working on White Set and Planning Black Set (some added))
 + Blueprint patch for all races
+
+Correcting
++Modifed Detrons Sprite
 
 v1.0.2
 ======

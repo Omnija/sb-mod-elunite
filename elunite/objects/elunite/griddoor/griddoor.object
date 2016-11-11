@@ -6,8 +6,8 @@
 
   "category" : "door",
   "price" : 150,
-  "description" : "A sturdy grid door.",
-  "shortdescription" : "Grid Sturdy Door",
+  "description" : "A grid door.",
+  "shortdescription" : "Grid Door",
   "race" : "elunite",
 
   "inventoryIcon" : "griddooricon.png",

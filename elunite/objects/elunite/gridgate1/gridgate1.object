@@ -6,8 +6,8 @@
 
   "category" : "door",
   "price" : 10,
-  "description" : "What a small door, wait that's a gate?",
-  "shortdescription" : "Small Grid Gate",
+  "description" : "A black grid gate to keep intruders out.",
+  "shortdescription" : "Black Grid Gate",
   "race" : "elunite",
 
 

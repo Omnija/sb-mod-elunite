@@ -1,12 +1,12 @@
 {
   "objectName" : "gridlamp2",
-  "colonyTags" : ["light"],
+  "colonyTags" : ["elunite","light"],
   "rarity" : "Common",
   "description" : "A grid ceiling lamp.",
   "shortdescription" : "Grid Ceiling Lamp",
-  "race" : "generic",
+  "race" : "elunite",
 
-  "apexDescription" : "A small wooden ceiling lamp.",
+  "apexDescription" : "A small grid ceiling lamp.",
   "avianDescription" : "A ceiling lamp that adds warmth to any room.",
   "floranDescription" : "Sssweet hanging lamp.",
   "glitchDescription" : "Pleased. An adorable ceiling lamp.", 
@@ -22,7 +22,7 @@
   "orientations" : [
     {
       "image" : "gridlamp2.png:<color>.<frame>",
-      "imagePosition" : [-2, 0],
+      "imagePosition" : [-2, -4],
       "frames" : 1,
       "animationCycle" : 0.3,
 

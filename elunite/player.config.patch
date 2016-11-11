@@ -70,7 +70,32 @@
 	 {
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridbench" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "gridtable" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridfridge" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridfridge1" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridoven" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridoven1" }
 	},
 	 {
 		"op" : "add",
