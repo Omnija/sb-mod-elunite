@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "clyde",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "ball.png"
+  }
+}

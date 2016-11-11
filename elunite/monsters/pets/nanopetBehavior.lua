@@ -168,7 +168,13 @@ end
 
 function petBehavior.reactToMonster(entityId)
   local entityName = world.monsterType(entityId)
-  if entityName == "petball" then
+	if entityName == "blinky" then
+    petBehavior.queueAction("play", {pounceTarget = entityId})
+	elseif entityName == "pinky" then
+    petBehavior.queueAction("play", {pounceTarget = entityId})
+	elseif entityName == "inky" then
+    petBehavior.queueAction("play", {pounceTarget = entityId})
+	elseif entityName == "clyde" then
     petBehavior.queueAction("play", {pounceTarget = entityId})
   end
 end

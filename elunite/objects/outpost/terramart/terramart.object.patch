@@ -1,5 +1,13 @@
 [ 
  {"op":"add","path":"/interactData/items/-","value":
+{"item":"blinky"}},
+ {"op":"add","path":"/interactData/items/-","value":
+{"item":"pinky"}},
+ {"op":"add","path":"/interactData/items/-","value":
+{"item":"inky"}},
+ {"op":"add","path":"/interactData/items/-","value":
+{"item":"clyde"}},
+ {"op":"add","path":"/interactData/items/-","value":
 {"item":"nanohouse"}},
  {"op":"add","path":"/interactData/items/-","value":
 {"item":"nanotable"}}

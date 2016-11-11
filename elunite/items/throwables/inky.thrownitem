@@ -1,0 +1,30 @@
+{
+  "itemName" : "inky",
+  "rarity" : "Common",
+  "category" : "throwableItem",
+  "inventoryIcon" : "inky.png",
+  "image" : "inky.png",
+  "shortdescription" : "Inky Nano Toy",
+  "description" : "I'd bet my nano would love Inky.",
+  "price" : 100,
+
+  "ammoUsage" : 1,
+
+  "edgeTrigger" : true,
+  "windupTime" : 0.0,
+  "cooldown" : 0.4,
+
+  "projectileType" : "inky",
+  "projectileConfig" : {
+    "speed" : 25,
+    "power" : 0,
+    "periodicActions" : [
+      {
+        "time" : 0,
+        "repeat" : false,
+        "action" : "sound",
+        "options" : [ "/sfx/projectiles/throw_item_small.ogg" ]
+      }
+    ]
+  }
+}

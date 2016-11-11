@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "pinky",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "ball.png"
+  }
+}

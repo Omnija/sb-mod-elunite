@@ -9,19 +9,16 @@
   "dropPools" : [ ],
 
   "baseParameters" : {
-    "persistent" : false,
+    "persistent" : true,
     "damageTeamType" : "ghostly",
 
     "scripts" : [
       "/monsters/pets/groundPet.lua",
       "/scripts/pathing.lua",
-      "/monsters/tenant.lua",
       "/scripts/stateMachine.lua",
       "/scripts/util.lua",
       "/scripts/vec2.lua",
 
-      "/monsters/returnHomeState.lua",
-      "/monsters/grumbleState.lua",
       "/monsters/pets/idleState.lua",
       "/monsters/pets/wanderState.lua",
 
@@ -37,7 +34,7 @@
 
     "petBehavior" : "petBehavior",
 
-    "anchorName" : "elunitetechstation",
+    "anchorName" : "techstation",
     "petResources" : {
       "sleepy" : 10,
       "hunger" : 60,
@@ -52,7 +49,7 @@
     },
 
     "actionParams" : {
-      "hungerStarvingLevel" : 80, 
+      "hungerStarvingLevel" : 80,
       "beg" : {
         "minScore" : 50,
         "cooldown" : 5,
@@ -89,10 +86,6 @@
         "cooldown" : 3
       }
     },
-	
-    "tenant" : {
-      "emoteCooldownTimeRange" : [1.0, 2.0]
-    },
 
     "pathing" : {
       "canOpenDoors" : false
@@ -107,6 +100,9 @@
       "wanderTime" : [5, 10],
       "changeDirectionTime" : [5, 10],
       "changeDirectionWait" : [1, 3]
+    },
+
+    "follow" : {
     },
 
     "pounce" : {
@@ -129,7 +125,7 @@
       "airForce" : 50.0
     },
 
-    "bodyMaterialKind" : "robotic",
+    "bodyMaterialKind" : "organic",
 
     "knockoutTime" : 0,
     "knockoutEffect" : "blink",
@@ -146,7 +142,7 @@
 
     "statusSettings" : {
       "statusProperties" : {
-        "targetMaterialKind" : "robotic"
+        "targetMaterialKind" : "organic"
       },
 
       "appliesEnvironmentStatusEffects" : false,
