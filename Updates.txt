@@ -19,7 +19,8 @@ v1.0.3 (DEV)
 ======
 
 Implementing
-+ New Pet (Nano Man) 
++ New Pet (Nano Man)
++ Nano Man Food Table and Housing
 + New Pet (Elulight) (Hidden)
 - Old Pet Removed
 + Objects

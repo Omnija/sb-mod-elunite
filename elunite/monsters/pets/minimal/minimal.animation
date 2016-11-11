@@ -21,7 +21,7 @@
           },
           "walk" : {
             "frames" : 4,
-            "cycle" : 0.6,
+            "cycle" : 0.3,
             "mode" : "loop"
           },
           "jumping" : {

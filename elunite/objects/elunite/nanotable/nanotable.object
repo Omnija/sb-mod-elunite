@@ -1,0 +1,65 @@
+{
+  "objectName" : "nanotable",
+  "colonyTags" : ["misc"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+
+  "category" : "storage",
+  "price" : 50,
+  "description" : "A nano's food table. Leave your nano something tasty for when you're not around!",
+  "shortdescription" : "Nano Table",
+  "race" : "generic",
+  "printable" : false,
+  "health" : 1.5,
+
+  "apexDescription" : "Food can be left in this bowl for pets.",
+  "avianDescription" : "If I leave food inside this bowl my pet will know it's for them.",
+  "floranDescription" : "Pet bowl holdss food insside.",
+  "glitchDescription" : "Responsible. Keeping my pets well fed will make them grow strong and happy.",
+  "humanDescription" : "This bowl is just the right size for my pets favourite foods.",
+  "hylotlDescription" : "This small bowl can hold food inside for pets.",
+  "novakidDescription" : "This little trough is for feedin' pets.",
+
+  "inventoryIcon" : "nanotableicon.png",
+  "orientations" : [
+    {
+      "image" : "nanotable.png:<color>.<key>",
+      "imagePosition" : [0, 0],
+      "animationPosition" : [4, 4],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0] ],
+      "anchors" : [ "bottom" ],
+      "directions" : ["right"]
+    },
+    {
+      "image" : "nanotable.png:<color>.<key>",
+      "imagePosition" : [0, 0],
+      "animationPosition" : [4, 4],
+      "direction" : "right",
+
+      "spaces" : [ [0, 0] ],
+      "anchors" : [ "bottom" ],
+      "directions" : ["right"]
+    }
+  ],
+
+  "animation" : "nanotable.animation",
+  "animationParts" : {
+    "nanotable" : "nanotable.png"
+  },
+
+  "scripts" : [
+    "nanotable.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "openSounds" : [ "/sfx/objects/chest_small_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/chest_small_close.ogg" ],
+  "slotCount" : 1,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

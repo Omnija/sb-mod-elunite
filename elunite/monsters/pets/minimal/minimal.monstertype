@@ -15,14 +15,17 @@
     "scripts" : [
       "/monsters/pets/groundPet.lua",
       "/scripts/pathing.lua",
+      "/monsters/tenant.lua",
       "/scripts/stateMachine.lua",
       "/scripts/util.lua",
       "/scripts/vec2.lua",
 
-	  "/monsters/pets/idleState.lua",
+      "/monsters/returnHomeState.lua",
+      "/monsters/grumbleState.lua",
+      "/monsters/pets/idleState.lua",
       "/monsters/pets/wanderState.lua",
 
-      "/monsters/pets/petBehavior.lua",
+      "/monsters/pets/nanopetBehavior.lua",
       "/monsters/pets/actions/followAction.lua",
       "/monsters/pets/actions/inspectAction.lua",
       "/monsters/pets/actions/eatAction.lua",
@@ -87,7 +90,11 @@
       }
     },
 	
-	"pathing" : {
+    "tenant" : {
+      "emoteCooldownTimeRange" : [1.0, 2.0]
+    },
+
+    "pathing" : {
       "canOpenDoors" : false
     },
 
@@ -101,7 +108,7 @@
       "changeDirectionTime" : [5, 10],
       "changeDirectionWait" : [1, 3]
     },
-	
+
     "pounce" : {
       "maxRange" : 10,
       "minRange" : 5
@@ -143,7 +150,7 @@
       },
 
       "appliesEnvironmentStatusEffects" : false,
-	  "appliesWeatherStatusEffects" : false,
+      "appliesWeatherStatusEffects" : false,
       "minimumLiquidStatusEffectPercentage" : 0.1,
 
       "primaryScriptSources" : [
@@ -173,7 +180,7 @@
       },
 
       "resources" : {
-		"stunned" : {
+        "stunned" : {
           "deltaValue" : -1.0,
           "initialValue" : 0.0
         },
