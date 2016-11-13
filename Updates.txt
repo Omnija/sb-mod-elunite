@@ -15,7 +15,17 @@ You need an Extended Race Selection mod for this to work.
 
 Changelog:
 
-v1.0.3 (DEV)
+v1.0.4 (DEV)
+======
+
+Implementing
++ Nano Furniture Set (miniaturized Elunite furniture)
+
+Correcting
++ Sprites
++ Descriptions and Names
+
+v1.0.3
 ======
 
 Implementing

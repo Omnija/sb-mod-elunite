@@ -4,6 +4,7 @@ Codex
 Improvements
 	-Light Cycle Animations/Sprite/mechanics
 	-Fusion Sword Projectiles
+	-Ship touchups and possibly a new layout
 
 	
 ship transparency 135

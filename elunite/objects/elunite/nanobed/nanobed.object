@@ -1,0 +1,59 @@
+{
+  "objectName" : "nanobed",
+  "colonyTags" : ["elunite","misc"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A comfy nano bed, which the nano won't use..",
+  "shortdescription" : "Nano Bed",
+  "race" : "elunite",
+  "category" : "furniture",
+  "price" : 45,
+
+  "apexDescription" : "A simple grid bed, nice and comfortable.",
+  "avianDescription" : "A grid frame and a comfortable mattress. What more could you need?",
+  "floranDescription" : "Floran rarely ssleep in ssuch nice bed.",
+  "glitchDescription" : "Drowsy. My power levels are low. This bed looks inviting.",
+  "humanDescription" : "Your basic, comfy bed.",
+  "hylotlDescription" : "A good place to close one's eyes.",
+  "novakidDescription" : "A decent place to get some shut-eye.",
+
+  "inventoryIcon" : "nanobedicon.png",
+  "orientations" : [
+    {
+      "image" : "nanobed.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [4, 8] // Left
+      ],
+
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "nanobed.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-18, 8]
+      ],
+
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/elunite/nanobed/nanobedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}
