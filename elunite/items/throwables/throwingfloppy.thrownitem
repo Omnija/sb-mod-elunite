@@ -1,0 +1,32 @@
+{
+  "itemName" : "throwingfloppy",
+  "rarity" : "Common",
+  "category" : "throwableItem",
+  "inventoryIcon" : "throwingfloppy.png",
+  "image" : "throwingfloppy.png",
+  "shortdescription" : "Throwing Floppy Disk",
+  "description" : "Chuck that old hardware at the retail sellers, we demand blue-ray.",
+
+  "ammoUsage" : 1,
+
+  "edgeTrigger" : true,
+  "windupTime" : 0.0,
+  "cooldown" : 0.15,
+
+  "projectileType" : "throwingfloppy",
+  "projectileConfig" : {
+    "speed" : 75,
+    "power" : 8,
+    "knockback" : 10,
+
+    "persistentAudio" : "/sfx/projectiles/throwingstar_loop.ogg",
+    "periodicActions" : [
+      {
+        "time" : 0,
+        "repeat" : false,
+        "action" : "sound",
+        "options" : [ "/sfx/projectiles/throw_item_small.ogg" ]
+      }
+    ]
+  }
+}

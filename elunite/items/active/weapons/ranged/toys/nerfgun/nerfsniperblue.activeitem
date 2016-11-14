@@ -1,0 +1,84 @@
+{
+  "itemName" : "nerfsniperblue",
+  "price" : 1500,
+  "inventoryIcon" : "nerfsniperblue.png",
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Shoot me if you can, because you can't hurt me.",
+  "shortdescription" : "Nerf Sniper Blue",
+  "level" : 1,
+  "tooltipKind" : "gun",
+  "category" : "toy",
+  "itemTags" : ["weapon","ranged","rifle"],
+  "twoHanded" : true,
+
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : {
+    "butt" : "",
+    "middle" : "nerfsniperblue.png",
+    "barrel" : "",
+    "muzzleFlash" : ""
+  },
+  "animationCustom" : {
+    "sounds" : {
+	"fire" : ["/sfx/gun/paintgun1.ogg", "/sfx/gun/paintgun2.ogg", "/sfx/gun/paintgun3.ogg", "/sfx/gun/paintgun4.ogg", "/sfx/gun/paintgun5.ogg"]
+    }
+  },
+
+  "baseOffset" : [0.7, 0.3],
+  "muzzleOffset" : [3.5, 0.3],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : 1.5,
+    "baseDps" : 0,
+    "energyUsage" : 0,
+    "inaccuracy" : 0.0,
+
+    "projectileCount" : 1,
+    "fireType" : "auto",
+
+    "projectileType" : "nerfbulletblue",
+    "projectileParameters" : {
+      "knockback" : 80,
+	  "speed" : 70
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.25,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  },
+
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

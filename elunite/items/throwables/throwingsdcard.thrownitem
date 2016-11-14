@@ -1,0 +1,32 @@
+{
+  "itemName" : "throwingsdcard",
+  "rarity" : "Common",
+  "category" : "throwableItem",
+  "inventoryIcon" : "throwingsdcard.png",
+  "image" : "throwingsdcard.png",
+  "shortdescription" : "Throwing SD Card",
+  "description" : "Chuck that micro sd card at your friend for ruining it.",
+
+  "ammoUsage" : 1,
+
+  "edgeTrigger" : true,
+  "windupTime" : 0.0,
+  "cooldown" : 0.15,
+
+  "projectileType" : "throwingsdcard",
+  "projectileConfig" : {
+    "speed" : 75,
+    "power" : 8,
+    "knockback" : 10,
+
+    "persistentAudio" : "/sfx/projectiles/throwingstar_loop.ogg",
+    "periodicActions" : [
+      {
+        "time" : 0,
+        "repeat" : false,
+        "action" : "sound",
+        "options" : [ "/sfx/projectiles/throw_item_small.ogg" ]
+      }
+    ]
+  }
+}

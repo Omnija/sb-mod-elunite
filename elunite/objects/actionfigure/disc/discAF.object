@@ -4,7 +4,7 @@
   "race" : "elunite",
   "rarity" : "Legendary",
   "category" : "actionFigure",
-
+  "collectablesOnPickup" : { "actionfigures" : "discAF" },
   "price" : 5000,
   "printable" : false,
   "description" : "The label reads, \"The original light disc. I wonder who created it? \"",

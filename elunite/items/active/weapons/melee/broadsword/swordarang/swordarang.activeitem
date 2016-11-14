@@ -1,0 +1,59 @@
+{
+  "itemName" : "swordarang",
+  "price" : 10960,
+  "level" : 10,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Throw your weapon to hopefully kill your enemies?",
+  "shortdescription" : "Swordarang",
+  "tooltipKind" : "base",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon", "melee", "broadsword"],
+
+  "inventoryIcon" : "swordarangicon.png",
+
+  "animation" : "/items/active/weapons/melee/broadsword/swordarang/swordarang.animation",
+  "animationParts" : {
+    "blade" : "",
+    "handle" : "handle.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/laser_weapon_swing1.ogg", "/sfx/melee/laser_weapon_swing2.ogg", "/sfx/melee/laser_weapon_swing3.ogg" ],
+      "fire2" : [ "/sfx/melee/laser_weapon_swing1.ogg", "/sfx/melee/laser_weapon_swing2.ogg", "/sfx/melee/laser_weapon_swing3.ogg" ],
+      "fire3" : [ "/sfx/melee/laser_weapon_swing1.ogg", "/sfx/melee/laser_weapon_swing2.ogg", "/sfx/melee/laser_weapon_swing3.ogg" ]
+    }
+  },
+
+  "scripts" : ["/items/active/weapons/melee/energymeleeweapon.lua"],
+
+  "activeTime" : 3.0,
+
+  "elementalType" : "physical",
+
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.83,
+    "baseDps" : 12.0,
+
+    "stances" : {
+      "fire1" : {
+        "duration" : 0.05
+      },
+      "wait1" : {
+        "duration" : 0.1
+      },
+      "fire2" : {
+        "duration" : 0.1
+      },
+      "wait2" : {
+        "duration" : 0.1
+      }
+    }
+  },
+
+  "altAbilityType" : "swordthrow",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

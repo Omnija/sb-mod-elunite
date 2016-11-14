@@ -4,7 +4,7 @@
     "charCreationTooltip" : {
       "title" : "Elunite",
       "subTitle" : "001",
-      "description" : "A race of highly advanced programs which manefested from abandoned hardware. They took shape of beings, due to the Users who programed them."
+      "description" : "A race of highly advanced programs which manifested from abandoned hardware. They took shape of beings, due to the Users who programmed them."
   },
   
   "nameGen" : [ "/species/elunite-namegenmale.config:names", "/species/elunite-namegenfemale.config:names" ],
@@ -117,6 +117,8 @@
 	  { "item" : "nerfgunblue" },
 	  { "item" : "nerfbowred" },
 	  { "item" : "nerfbowblue" },
+	  { "item" : "nerfsniperblue" },
+	  { "item" : "nerfsniperred" },
 	  
 // Anvil
 	  { "item" : "elunite-tier1head" },

@@ -20,6 +20,9 @@ v1.0.4 (DEV)
 
 Implementing
 + Nano Furniture Set (miniaturized Elunite furniture)
++ Throwable Weapons
++ Nerf Sniper Rifle
++ Collectables Trophies
 
 Correcting
 + Sprites

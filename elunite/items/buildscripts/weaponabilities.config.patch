@@ -1,5 +1,6 @@
 [
   { "op" : "add", "path" : "/discblast", "value" : "/items/active/weapons/melee/abilities/discblast/discblast.weaponability" },
+  { "op" : "add", "path" : "/swordthrow", "value" : "/items/active/weapons/melee/abilities/swordthrow/swordthrow.weaponability" },
   { "op" : "add", "path" : "/nerfshotblue", "value" : "/items/active/weapons/ranged/toys/abilities/nerfshotblue.weaponability" },
   { "op" : "add", "path" : "/nerfshotred", "value" : "/items/active/weapons/ranged/toys/abilities/nerfshotred.weaponability" }
 ]

@@ -419,6 +419,16 @@
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "nerfbowblue" }
 	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "nerfsniperblue" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "nerfsniperred" }
+	},
 	
   // Anvil
 	{

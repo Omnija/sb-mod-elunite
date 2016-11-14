@@ -1,0 +1,34 @@
+{
+  "objectName" : "floppydiskAF",
+  "colonyTags" : ["elunite","pretty"],
+  "race" : "elunite",
+  "rarity" : "Legendary",
+  "category" : "actionFigure",
+  "collectablesOnPickup" : { "actionfigures" : "floppydiskAF" },
+  "price" : 5000,
+  "printable" : false,
+  "description" : "The label reads, \"The prototype Elunite Respawn Disk. I guess it still exists?.\"",
+  "shortdescription" : "Floppy Disk Figurine",
+
+
+  "inventoryIcon" : "floppydiskAFicon.png",
+  "orientations" : [
+    {
+      "image" : "floppydiskAF.png:<color>",
+      "imagePosition" : [-4, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "floppydiskAF.png:<color>",
+      "imagePosition" : [-4, 0],
+      "direction" : "right",
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

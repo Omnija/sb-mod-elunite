@@ -1,0 +1,58 @@
+[
+  {
+    "op": "add",
+    "path": "/collectables/eluniteAF",
+    "value": {
+      "order": 100,
+      "item": "eluniteAF"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/discAF",
+    "value": {
+      "order": 101,
+      "item": "discAF"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/floppydiskAF",
+    "value": {
+      "order": 102,
+      "item": "floppydiskAF"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nanoAF",
+    "value": {
+      "order": 103,
+      "item": "nanoAF"
+    }
+  },
+    {
+    "op": "add",
+    "path": "/collectables/wormAF",
+    "value": {
+      "order": 104,
+      "item": "wormAF"
+    }
+  },
+      {
+    "op": "add",
+    "path": "/collectables/parasiteAF",
+    "value": {
+      "order": 105,
+      "item": "parasiteAF"
+    }
+  },
+        {
+    "op": "add",
+    "path": "/collectables/horseAF",
+    "value": {
+      "order": 106,
+      "item": "horseAF"
+    }
+  }
+]

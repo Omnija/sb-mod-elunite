@@ -1,0 +1,34 @@
+{
+  "objectName" : "wormAF",
+  "colonyTags" : ["elunite","pretty"],
+  "race" : "elunite",
+  "rarity" : "Legendary",
+  "category" : "actionFigure",
+  "collectablesOnPickup" : { "actionfigures" : "wormAF" },
+  "price" : 5000,
+  "printable" : false,
+  "description" : "The label reads, \"Virus worms infects and deletes programs. Good thing it's not real.\"",
+  "shortdescription" : "Virus Worm Figurine",
+
+
+  "inventoryIcon" : "wormAFicon.png",
+  "orientations" : [
+    {
+      "image" : "wormAF.png:<color>",
+      "imagePosition" : [-4, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "wormAF.png:<color>",
+      "imagePosition" : [-4, 0],
+      "direction" : "right",
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

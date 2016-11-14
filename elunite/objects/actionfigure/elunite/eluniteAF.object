@@ -4,7 +4,7 @@
   "race" : "elunite",
   "rarity" : "Legendary",
   "category" : "actionFigure",
-
+  "collectablesOnPickup" : { "actionfigures" : "eluniteAF" },
   "price" : 5000,
   "printable" : false,
   "description" : "The label reads, \"The prototype of an Elunite. I wonder what happened after?.\"",
