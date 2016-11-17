@@ -1,6 +1,6 @@
 {
   "objectName" : "nanotable",
-  "colonyTags" : ["misc"],
+  "colonyTags" : ["elunite","misc"],
   "rarity" : "Common",
   "objectType" : "container",
   "tooltipKind" : "container",
@@ -9,7 +9,7 @@
   "price" : 50,
   "description" : "A nano's food table. Leave your nano something tasty for when you're not around!",
   "shortdescription" : "Nano Table",
-  "race" : "generic",
+  "race" : "elunite",
   "printable" : false,
   "health" : 1.5,
 

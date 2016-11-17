@@ -1,0 +1,11 @@
+{
+  "name" : "shrink",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "shrink.lua"
+  ],
+
+  "animationConfig" : "shrink.animation"
+}

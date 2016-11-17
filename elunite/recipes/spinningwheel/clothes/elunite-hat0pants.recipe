@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "snowball", "count" : 10 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "elunite-hat0pants", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

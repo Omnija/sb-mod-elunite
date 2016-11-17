@@ -1,12 +1,12 @@
 {
-  "itemName" : "elunite-hat0",
+  "itemName" : "elunite-hat0head",
   "price" : 480,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "headarmour",
-  "description" : "Someone said to wear a tobaggan, so i did.",
-  "shortdescription" : "Tobaggan Hat",
+  "description" : "SNOWMAN? Where's my TOBOGGAN?",
+  "shortdescription" : "Snowman's Toboggan Hat",
   "tooltipKind" : "armor",
 
 

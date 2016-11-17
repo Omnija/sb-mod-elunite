@@ -1,0 +1,63 @@
+{
+  "objectName" : "nanolamp",
+  "colonyTags" : ["elunite","light"],
+  "rarity" : "Common",
+  "description" : "A Nano Table Lamp, which the nano won't use.",
+  "shortdescription" : "Nano Table Lamp",
+  "race" : "elunite",
+
+  "apexDescription" : "A small grid lamp.",
+  "avianDescription" : "A tiny grid light powered by electricity.",
+  "floranDescription" : "Sssweet lamp glowss warmly.",
+  "glitchDescription" : "Pleased. A simple table lamp.",
+  "humanDescription" : "A nice little lamp.",
+  "hylotlDescription" : "A charming lamp.",
+  "novakidDescription" : "This lamp is cute.",
+
+  "lightColor" : [153, 153, 122],
+  "pointLight" : true,
+  "pointBeam" : 2,
+  "beamAmbience" : 1.0,
+
+  "inventoryIcon" : "nanolampicon.png",
+  "orientations" : [
+    {
+      "image" : "nanolamp.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "direction" : "left",
+      "flipImages" : true,
+      "lightPosition" : [0, 5],
+      "beamAngle" : 270,
+      "animationPosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "nanolamp.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "direction" : "right",
+      "lightPosition" : [0, 5],
+      "beamAngle" : 270,
+      "animationPosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "nanolamp.animation",
+  "animationParts" : {
+    "bg" : "nanolamp.png",
+    "fg" : "nanolamplit.png"
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "interactive" : true,
+
+  "inputNodes" : [ [0, 5] ]
+}

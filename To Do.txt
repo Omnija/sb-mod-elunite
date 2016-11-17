@@ -1,10 +1,12 @@
 Quests
+	-A method of obtaining trophies
 Emotes
 Codex
 Improvements
 	-Light Cycle Animations/Sprite/mechanics
 	-Fusion Sword Projectiles
 	-Ship touchups and possibly a new layout
+	-Rework grid torches
 
 	
 ship transparency 135

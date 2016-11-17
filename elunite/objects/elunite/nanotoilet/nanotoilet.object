@@ -1,0 +1,52 @@
+{
+  "objectName" : "nanotoilet",
+  "colonyTags" : ["elunite","misc"],
+  "rarity" : "Common",
+  "description" : "A nano toilet that a nano won't use.",
+  "shortdescription" : "Nano Toilet",
+  "race" : "elunite",
+  "category" : "furniture",
+  "price" : 35,
+
+  "apexDescription" : "A toilet made of wood... Not very hygienic.",
+  "avianDescription" : "A device to catch droppings.",
+  "floranDescription" : "Floran prefer to go in the foresst.",
+  "glitchDescription" : "Disgusted. Full of germs.",
+  "humanDescription" : "A grid toilet... Yuck.",
+  "hylotlDescription" : "The Hylotl do not use such devices.",
+  "novakidDescription" : "Wonder where it goes...",
+
+   "inventoryIcon" : "nanotoileticon.png",
+  
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "orientations" : [
+    {
+      "image" : "nanotoilet.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-3, 17] // Left
+      ],
+
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "nanotoilet.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [7, 17]
+      ],
+
+      "anchors" : [ "bottom" ]
+    }
+  ]
+
+}

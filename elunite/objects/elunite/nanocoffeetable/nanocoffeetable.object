@@ -1,0 +1,35 @@
+{
+  "objectName" : "nanocoffeetable",
+  "colonyTags" : ["elunite","commerce"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A nano coffee table that the nano won't use.",
+  "shortdescription" : "Nano Coffee Table",
+  "race" : "elunite",
+  "category" : "furniture",
+  "price" : 15,
+
+  "apexDescription" : "A very simple wooden table.",
+  "avianDescription" : "The simplest of tables.",
+  "floranDescription" : "Sssimple wood table.",
+  "glitchDescription" : "Bored. A very simple table.",
+  "humanDescription" : "Not much to say about this table.",
+  "hylotlDescription" : "A table, very simple in every way.",
+  "novakidDescription" : "Just a table.",
+
+  "inventoryIcon" : "nanocoffeetableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "nanocoffeetable.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

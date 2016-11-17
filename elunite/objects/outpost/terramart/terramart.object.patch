@@ -10,12 +10,20 @@
  {"op":"add","path":"/interactData/items/-","value":
 {"item":"nanobed"}},
  {"op":"add","path":"/interactData/items/-","value":
+{"item":"nanolamp"}},
+ {"op":"add","path":"/interactData/items/-","value":
+{"item":"nanochest"}},
+ {"op":"add","path":"/interactData/items/-","value":
 {"item":"nanochair"}},
  {"op":"add","path":"/interactData/items/-","value":
 {"item":"nanobench"}},
  {"op":"add","path":"/interactData/items/-","value":
+{"item":"nanotoilet"}},
+ {"op":"add","path":"/interactData/items/-","value":
 {"item":"nanohouse"}},
  {"op":"add","path":"/interactData/items/-","value":
-{"item":"nanotable"}}
+{"item":"nanotable"}},
+ {"op":"add","path":"/interactData/items/-","value":
+{"item":"nanocoffeetable"}}
 
 ]

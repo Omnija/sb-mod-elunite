@@ -46,8 +46,6 @@
       { "item" : "gridpainting1" },
       { "item" : "gridstool" },
       { "item" : "gridtoilet" },
-      { "item" : "discAF" },
-      { "item" : "eluniteAF" },
       { "item" : "flynnsign" },
       { "item" : "tronsign" },
       { "item" : "hometronsign" },
@@ -103,6 +101,11 @@
 	  { "item" : "elunite-costume2head" },
 	  { "item" : "elunite-costume2chest" },
 	  { "item" : "elunite-costume2pants" },	 
+	  
+// Spinning Wheel (Unrelated Elunite Costumes)
+	  { "item" : "elunite-hat0head" },
+	  { "item" : "elunite-hat0chest" },
+	  { "item" : "elunite-hat0pants" },	
 	  
 // Anvil (Toys)
 	  { "item" : "lasergunblue" },

@@ -141,16 +141,6 @@
 	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
-	"value" : { "item" : "discAF" }
-	},
-	{
-		"op" : "add",
-		"path" : "/defaultBlueprints/tier1/-",
-	"value" : { "item" : "eluniteAF" }
-	},
-	{
-		"op" : "add",
-		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "flynnsign" }
 	},
 	{
@@ -340,23 +330,46 @@
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "elunite-costume1chest" }
-	}, {
+	}, 
+	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "elunite-costume1pants" }
-	}, {
+	}, 
+	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "elunite-costume2head" }
-	}, {
+	}, 
+	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "elunite-costume2chest" }
-	}, {
+	}, 
+	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "elunite-costume2pants" }
 	},
+	
+//Spinning Wheel (Unrelated Elunite Costumes)
+
+	{
+	    "op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-hat0head" }
+	}, 
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-hat0chest" }
+	}, 
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-hat0pants" }
+	},
+	
 	
   // Anvil (Toys)
 	{

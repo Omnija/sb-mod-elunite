@@ -1,0 +1,18 @@
+{
+  "frameGrid" : {
+    "size" : [21, 3],
+    "dimensions" : [1, 6],
+    
+     "names" : [
+    			  [ "ribbon.1"],
+				  [ "ribbon.2"],
+				  [ "ribbon.3"],
+				  [ "ribbon.4"],
+				  [ "ribbon.5"],
+				  [ "ribbon.6"]
+    ]
+  },
+    "aliases" : {
+    "default" : "ribbon.1"
+  }
+}
