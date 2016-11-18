@@ -24,7 +24,7 @@ Implementing
 + Throwable Weapons (Made but not obtainable  (did for fun)
 + Nerf Sniper Rifle
 + Collectables Trophies (Made but not obtainable (need to create quests)
-+ Snowman Costume
++ Snowman Costume (Where's my toboggan)
 
 Correcting
 + Sprites

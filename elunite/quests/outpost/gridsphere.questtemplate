@@ -1,0 +1,27 @@
+{
+  "id" : "gridsphere",
+  "prerequisites" : [ "techscientist6" ],
+  "title" : "^#1693d5;Grid Sphere",
+  "text" : "With this transformation, you can race and get to places faster.",
+  "completionText" : "Zippidy DOOO DAH! ^orange;down^reset;!",
+  "moneyRange" : [220, 320],
+  "rewards" : [ ],
+  "speaker" : "questGiver",
+  
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+
+    "portraits" : {
+      "questStarted" : "questGiver",
+      "questComplete" : "questGiver"
+    },
+
+    "requireTurnIn" : false,
+
+    "conditions" : [ ],
+    "showTech" : [
+      "gridsphere"
+    ]
+  }
+}
