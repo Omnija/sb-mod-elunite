@@ -9,7 +9,7 @@
   "shortdescription" : "Arcturus Disc",
   "tooltipKind" : "base",
   "twoHanded" : false,
-  "itemTags" : ["weapon"],
+  "itemTags" : ["weapon", "chakram"],
 
   "inventoryIcon" : "elunite-tier3disc.png",
   "animation" : "elunite-tier3disc.animation",

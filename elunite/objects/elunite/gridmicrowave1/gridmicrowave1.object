@@ -1,0 +1,59 @@
+{
+  "objectName" : "gridmicrowave1",
+  "colonyTags" : ["elunite","elunitevillage","cooking","electronic"],
+  "rarity" : "Common",
+  "category" : "crafting",
+  "price" : 70,
+  "description" : "Since when do Elunite's need to cook?!",
+  "shortdescription" : "Black Grid Microwave",
+  "race" : "elunite",
+
+  "lightColor" : [153, 151, 116],
+
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingcampfire.config",
+    "filter" : [ "campfire" ],
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " gridmicrowave1",
+        "subtitle" : " Cooking convenience"
+      }
+    }
+  },
+
+  "apexDescription" : "A device for quickly cooking food.",
+  "avianDescription" : "A bit like an oven, but quicker.",
+  "floranDescription" : "Machine for heating sssnacks. Floran used one before.",
+  "glitchDescription" : "Uncomfortable. gridmicrowave1s can be somewhat damaging to Glitch circuitry.",
+  "humanDescription" : "I once gridmicrowave1d a salad. It wasn't too bad, actually!",
+  "hylotlDescription" : "A method of cooking for those who do not care about the quality of their preparation.",
+  "novakidDescription" : "Not sure what this machine does... But it smells like somethin' died in there.",
+
+  "inventoryIcon" : "gridmicrowave1icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "gridmicrowave1.png:<color>.<frame>", "fullbright" : true }, { "image" : "gridmicrowave1lit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, 0],
+      "direction" : "left",
+      "flipImages" : true,
+      "frames" : 4,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "imageLayers" : [ { "image" : "gridmicrowave1.png:<color>.<frame>", "fullbright" : true }, { "image" : "gridmicrowave1lit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+      "frames" : 4,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

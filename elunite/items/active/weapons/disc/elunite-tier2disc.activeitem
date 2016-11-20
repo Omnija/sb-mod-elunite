@@ -9,7 +9,7 @@
   "shortdescription" : "Hoshi Disc",
   "tooltipKind" : "base",
   "twoHanded" : false,
-  "itemTags" : ["weapon"],
+  "itemTags" : ["weapon", "chakram"],
 
   "inventoryIcon" : "elunite-tier2disc.png",
   "animation" : "elunite-tier2disc.animation",

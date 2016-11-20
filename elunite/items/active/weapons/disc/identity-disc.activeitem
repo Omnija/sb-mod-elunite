@@ -9,7 +9,7 @@
   "shortdescription" : "Identity Disc",
   "tooltipKind" : "base",
   "twoHanded" : false,
-  "itemTags" : ["weapon"],
+  "itemTags" : ["weapon", "chakram"],
 
   "inventoryIcon" : "identity-disc.png",
   "animation" : "identity-disc.animation",

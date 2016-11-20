@@ -9,7 +9,7 @@
   "shortdescription" : "Annulus Disc",
   "tooltipKind" : "base",
   "twoHanded" : false,
-  "itemTags" : ["weapon"],
+  "itemTags" : ["weapon", "chakram"],
 
   "inventoryIcon" : "elunite-tier1disc.png",
   "animation" : "elunite-tier1disc.animation",

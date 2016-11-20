@@ -9,7 +9,7 @@
   "shortdescription" : "Triskelion Disc",
   "tooltipKind" : "base",
   "twoHanded" : false,
-  "itemTags" : ["weapon"],
+  "itemTags" : ["weapon", "chakram"],
 
   "inventoryIcon" : "elunite-tier5separatordisc.png",
   "animation" : "elunite-tier5separatordisc.animation",

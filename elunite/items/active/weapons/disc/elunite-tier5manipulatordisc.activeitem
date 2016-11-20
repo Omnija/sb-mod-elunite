@@ -9,7 +9,7 @@
   "shortdescription" : "Dimensional Disc",
   "tooltipKind" : "base",
   "twoHanded" : false,
-  "itemTags" : ["weapon"],
+  "itemTags" : ["weapon", "chakram"],
 
   "inventoryIcon" : "elunite-tier5manipulatordisc.png",
   "animation" : "elunite-tier5manipulatordisc.animation",

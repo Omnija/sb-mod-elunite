@@ -17,39 +17,6 @@ function init()
   else
     setStance("idle")
   end
-  --*************************************    
-  -- FU/FR ADDONS  (permission from Sayter given to include)
-  --*************************************  
-   if self.blockCount == nil then
-     self.blockCount = 0
-     self.blockCount2 = 0
-   end
-        if world.entitySpecies(activeItem.ownerEntityId()) == "elunite" then  
-        -- elunite get bonus defense and +12.5% damage with each chakram or boomerang
-              --main hand
-        local heldItem = world.entityHandItem(activeItem.ownerEntityId(), "primary")
-        if heldItem ~= nil then
-            if isChakram(heldItem) or isBoomerang(heldItem) then
-                          self.blockCount = self.blockCount + 0.125
-                          status.setPersistentEffects("bonusdmg", {
-                         {stat = "powerMultiplier", amount = self.blockCount},
-                         {stat = "protection", amount = 2}
-                         })    
-            end
-        end  
- 
-        -- alt hand
-        heldItem = world.entityHandItem(activeItem.ownerEntityId(), "alt")
-        if heldItem ~= nil then
-            if isChakram(heldItem) or isBoomerang(heldItem) then
-                          self.blockCount = self.blockCount + 0.125
-                          status.setPersistentEffects("bonusdmg", {
-               {stat = "powerMultiplier", amount = self.blockCount},
-               {stat = "protection", amount = 2}
-               })  
-            end
-        end    
-    end  
 end
 
 function update(dt, fireMode, shiftHeld)
@@ -73,9 +40,6 @@ function update(dt, fireMode, shiftHeld)
 end
 
 function uninit()
-
-  status.clearPersistentEffects("bonusdmg")
-  self.blockCount = 0
 
 end
 
@@ -119,21 +83,4 @@ function checkProjectiles()
     end
     storage.projectileIds = #newProjectileIds > 0 and newProjectileIds or nil
   end
-end
-
--- **********************************
--- FR BONUSES (permission from Sayter given to include)
--- **********************************
-function isChakram(name)
-    if root.itemHasTag(name, "chakram") then
-        return true
-    end
-    return false
-end
- 
-function isBoomerang(name)
-    if root.itemHasTag(name, "boomerang") then
-        return true
-    end
-    return false
 end

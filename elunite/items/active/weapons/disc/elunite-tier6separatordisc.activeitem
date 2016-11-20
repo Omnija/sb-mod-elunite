@@ -9,7 +9,7 @@
   "shortdescription" : "Scutum Disc",
   "tooltipKind" : "base",
   "twoHanded" : false,
-  "itemTags" : ["weapon"],
+  "itemTags" : ["weapon", "chakram"],
 
   "inventoryIcon" : "elunite-tier6separatordisc.png",
   "animation" : "elunite-tier6separatordisc.animation",

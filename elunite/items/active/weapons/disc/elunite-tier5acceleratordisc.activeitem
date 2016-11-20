@@ -9,7 +9,7 @@
   "shortdescription" : "Shuriken Disc",
   "tooltipKind" : "base",
   "twoHanded" : false,
-  "itemTags" : ["weapon"],
+  "itemTags" : ["weapon", "chakram"],
 
   "inventoryIcon" : "elunite-tier5acceleratordisc.png",
   "animation" : "elunite-tier5acceleratordisc.animation",
