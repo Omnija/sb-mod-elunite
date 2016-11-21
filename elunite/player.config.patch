@@ -11,6 +11,7 @@
   },
   
   // Empty Hands
+  
      {
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
@@ -38,6 +39,7 @@
 	},
 	
   //Furniture Table
+  
 	 {
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
@@ -185,6 +187,7 @@
 	},
   
   // Furniture Table (Materials)
+  
 	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
@@ -235,9 +238,11 @@
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "gridfence" }
 	},
+	
   //Farmer's Table
   
   //Farmer's Table(Utilities)
+  
 	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
@@ -248,7 +253,9 @@
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "lightparasol" }
 	},
+	
   //Farmer's Table (Survival)
+  
 	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
@@ -259,7 +266,9 @@
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "detronmara" }
 	},
+	
   //Spinning Wheel (Clothing)
+  
 	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
@@ -320,8 +329,10 @@
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "circuitry4head" }
 	},
-  //Spinning Wheel (Costumes)
-    {
+	
+  // Spinning Wheel (Costumes)
+  
+	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "elunite-costume1head" }
@@ -352,7 +363,7 @@
 	"value" : { "item" : "elunite-costume2pants" }
 	},
 	
-//Spinning Wheel (Unrelated Elunite Costumes)
+	// Spinning Wheel (Unrelated Elunite Costumes)
 
 	{
 	    "op" : "add",
@@ -372,6 +383,7 @@
 	
 	
   // Anvil (Toys)
+  
 	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
@@ -444,6 +456,7 @@
 	},
 	
   // Anvil
+  
 	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
@@ -466,6 +479,7 @@
 	},
 	
   // Anvil2	 
+  
 	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
@@ -493,6 +507,7 @@
 	},
   
   // Anvil3
+  
 	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
@@ -535,6 +550,7 @@
 	},
 	
   // Accelerator, Manipulator and Seperator (5 and 6)
+  
 	{
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",
@@ -655,7 +671,9 @@
 		"path" : "/defaultBlueprints/tier1/-",
 	"value" : { "item" : "elunite-tier6separatordisc" }
 	},
+	
   // Hidden Fusion
+  
    {
 		"op" : "add",
 		"path" : "/defaultBlueprints/tier1/-",

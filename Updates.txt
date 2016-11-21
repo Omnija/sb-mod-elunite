@@ -18,6 +18,10 @@ Changelog:
 v1.0.5 (DEV)
 ======
 
+Implementing
++ Ship Locker and TechStation
+
+Correcting
 
 v1.0.4
 ======

@@ -25,8 +25,8 @@
     {
       "imageLayers" : [ { "image" : "eluniteshiplocker.png:<color>.<frame>", "fullbright" : true }, { "image" : "eluniteshiplockerlit.png:<color>.<frame>" } ],
       "imagePosition" : [-16, -8],
-      "frames" : 8,
-      "animationCycle" : 1.0,
+      "frames" : 15,
+      "animationCycle" : 2.0,
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]
     }

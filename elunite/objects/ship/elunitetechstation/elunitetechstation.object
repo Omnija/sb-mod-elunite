@@ -26,8 +26,8 @@
   "orientations" : [
     {
       "imageLayers" : [ { "image" : "elunitetechstation.png:<color>.<frame>", "fullbright" : true }, { "image" : "elunitetechstationlit.png:<color>.<frame>" } ],
-      "imagePosition" : [-16, -8],
-      "frames" : 32,
+      "imagePosition" : [-16, -12],
+      "frames" : 5,
       "animationCycle" : 3.0,
 
       "spaceScan" : 0.1,
