@@ -10,3 +10,9 @@ Improvements
 
 	
 ship transparency 135
+
+    "openright.1" : "righttwist1",
+    "openright.2" : "righttwist2",
+    "openright.3" : "rightstop",
+    "openright.4" : "halfright",
+    "openright.5" : "right",

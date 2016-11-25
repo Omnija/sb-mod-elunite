@@ -5,7 +5,7 @@
   "rarity" : "Common",
   "objectType" : "container",
   "description" : "Accepts Liquid Erchius as fuel for the ship's FTL dive.",
-  "shortdescription" : "FTL Fuel Hatch",
+  "shortdescription" : "Hatch Bot",
   "race" : "elunite",
   "lightColor" : [61, 88, 102],
 
@@ -23,8 +23,8 @@
       "imageLayers" : [ { "image" : "elunitefuelhatch.png:<color>.<frame>", "fullbright" : true }, { "image" : "elunitefuelhatchlit.png:<color>.<frame>" } ],
 
       "imagePosition" : [-8, -16],
-      "frames" : 4,
-      "animationCycle" : 0.7,
+      "frames" : 10,
+      "animationCycle" : 3.0,
 
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]

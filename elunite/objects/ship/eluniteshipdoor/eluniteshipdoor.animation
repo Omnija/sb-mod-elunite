@@ -1,0 +1,81 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "doorState" : {
+        "default" : "closed",
+        "states" : {
+          "open" : {
+						"frames" : 5,
+            "cycle" : 0.5
+					},
+          "closing" : {
+            "frames" : 5,
+            "cycle" : 0.5,
+            "mode" : "transition",
+            "transition" : "closed"
+          },
+          "closed" : {
+            "frames" : 1
+          },
+          "locking" : {
+            "frames" : 5,
+            "cycle" : 0.5,
+            "mode" : "transition",
+            "transition" : "locked"
+          },
+          "locked" : {
+            "frames" : 1
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "door" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "doorState" : {
+            "open" : {
+              "properties" : {
+                "image" : "<partImage>:opening.<frame>"
+              }
+            },
+
+            "closing" : {
+              "properties" : {
+                "image" : "<partImage>:closing.<frame>"
+              }
+            },
+
+            "closed" : {
+              "properties" : {
+                "image" : "<partImage>:closed"
+              }
+            },
+
+            "locking" : {
+              "properties" : {
+                "image" : "<partImage>:closing.<frame>"
+              }
+            },
+
+            "locked" : {
+              "properties" : {
+                "image" : "<partImage>:closed"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "open" : [],
+    "close" : [],
+    "locked" : [ "/sfx/interface/clickon_error.ogg" ]
+  }
+}

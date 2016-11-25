@@ -19,7 +19,7 @@ v1.0.5 (DEV)
 ======
 
 Implementing
-+ Ship Locker and TechStation
++ Ship Object Replacements (Techstation, Doors, Storage)
 
 Correcting
 

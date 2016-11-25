@@ -23,7 +23,7 @@
     {
       "image" : "eluniteshiplockerTier0.png:<color>.<frame>",
       "imagePosition" : [-16, -8],
-      "frames" : 8,
+      "frames" : 4,
       "animationCycle" : 1,
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]
