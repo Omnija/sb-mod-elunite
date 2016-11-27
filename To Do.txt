@@ -5,14 +5,8 @@ Codex
 Improvements
 	-Light Cycle Animations/Sprite/mechanics
 	-Fusion Sword Projectiles
-	-Ship touchups and possibly a new layout
+	-Ship (Currently being OverHauled)
 	-Rework grid torches
 
 	
 ship transparency 135
-
-    "openright.1" : "righttwist1",
-    "openright.2" : "righttwist2",
-    "openright.3" : "rightstop",
-    "openright.4" : "halfright",
-    "openright.5" : "right",

@@ -19,9 +19,11 @@ v1.0.5 (DEV)
 ======
 
 Implementing
-+ Ship Object Replacements (Techstation, Doors, Storage)
++ Ship Object Replacements
++ Ship Overhaul
 
 Correcting
++ Stuff
 
 v1.0.4
 ======
