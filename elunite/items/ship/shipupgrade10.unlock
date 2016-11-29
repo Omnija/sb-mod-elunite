@@ -1,0 +1,12 @@
+{
+  "itemName" : "shipT10",
+  "rarity" : "Legendary",
+  "category" : "Upgrade Component",
+  "inventoryIcon" : "upgradeT10.png",
+  "image" : "upgradeT10.png",
+
+  "shortdescription" : "Thing",
+  "description" : "Does things",
+
+  "shipUpgrade" : 10
+}

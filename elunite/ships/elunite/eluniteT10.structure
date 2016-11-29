@@ -3,22 +3,22 @@
     "shipUpgrades" : {
       "capabilities" : ["teleport", "planetTravel", "systemTravel"],
       "maxFuel" : 1000,
-      "crewSize" : 12
+      "crewSize" : 16
     }
   },
 
   "backgroundOverlays" : [
     {
-      "image" : "eluniteT8.png",
-      "position" : [7, -7],
+      "image" : "eluniteT10.png",
+      "position" : [7, -8.8],
       "fullbright" : true
     },
     {
-      "image" : "eluniteT8lit.png",
-      "position" : [7, -7]
+      "image" : "eluniteT10lit.png",
+      "position" : [7, -8.8]
     }
   ],
 
   "blockKey" : "blockKey.config:blockKey",
-  "blockImage" : "eluniteT8blocks.png"
+  "blockImage" : "eluniteT10blocks.png"
 }

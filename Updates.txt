@@ -20,14 +20,15 @@ v1.0.5 (DEV)
 
 Implementing
 + Ship Object Replacements
-+ Ship Overhaul
-+ Lightsabers (Known Jedi's)
++ Ship Overhaul ( T1 to 10 )
++ Lightsabers (From Starwars)
++ shipT9 and shipT10 (Admin upgrade objects)
 
 Correcting
 + Stuff
 
 Note
-Ahsoka lightsaber (1 handed to have 2)
+Ahsoka lightsaber needs editing (1 handed to have 2 + 1 yellow blade)
 
 v1.0.4
 ======
