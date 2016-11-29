@@ -10,12 +10,12 @@
   "backgroundOverlays" : [
     {
       "image" : "eluniteT5.png",
-      "position" : [68, 42],
+      "position" : [12.63, -3.5],
       "fullbright" : true
     },
     {
       "image" : "eluniteT5lit.png",
-      "position" : [68, 42]
+      "position" : [12.63, -3.5]
     }
   ],
 
