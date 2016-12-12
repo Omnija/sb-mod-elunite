@@ -1,0 +1,51 @@
+{
+  "itemName" : "doublelightsaber0",
+  "price" : 960,
+  "level" : 8,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Custom Double beamed Lightsaber!",
+  "shortdescription" : "Double Lightsaber #0",
+  "tooltipKind" : "sword",
+  "category" : "Lightsaber",
+  "twoHanded" : true,
+  "itemTags" : ["weapon", "melee", "broadsword", "lightsaber"],
+
+  "inventoryIcon" : "doublelightsaber0icon.png",
+
+  "animation" : "/items/active/weapons/melee/broadsword/yellowenergybroadsword.animation",
+  "animationParts" : {
+    "handle" : "doublehandl0e.png",
+    "handleFullbright" : "handlefullbright.png",
+    "blade" : "doubleblade.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/laser_weapon_swing1.ogg", "/sfx/melee/laser_weapon_swing2.ogg", "/sfx/melee/laser_weapon_swing3.ogg" ],
+      "fire2" : [ "/sfx/melee/laser_weapon_swing1.ogg", "/sfx/melee/laser_weapon_swing2.ogg", "/sfx/melee/laser_weapon_swing3.ogg" ],
+      "fire3" : [ "/sfx/melee/laser_weapon_swing1.ogg", "/sfx/melee/laser_weapon_swing2.ogg", "/sfx/melee/laser_weapon_swing3.ogg" ]
+    }
+  },
+
+  "scripts" : ["/items/active/weapons/melee/energymeleeweapon.lua"],
+
+  "activeTime" : 3.0,
+
+  "elementalType" : "physical",
+
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.83,
+    "baseDps" : 11.5,
+
+    "stances" : {
+      "windup1" : {
+        "duration" : 0.15
+      }
+    }
+  },
+
+  "altAbilityType" : "yellowflipslash",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

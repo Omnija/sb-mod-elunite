@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "solariumstar", "count" : 5 },
+    { "item" : "titaniumbar", "count" : 1 }
+  ],
+  "output" : { "item" : "kiadilightsaber", "count" : 1 },
+  "groups" : [ "craftingmanipulator", "weapons", "all" ]
+}
+

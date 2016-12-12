@@ -1,15 +1,15 @@
 {
   "itemName" : "anakinlightsaber",
   "price" : 960,
-  "level" : 6,
+  "level" : 8,
   "maxStack" : 1,
   "rarity" : "Legendary",
   "description" : "Anakin Skywalker's Jedi Lightsaber!",
   "shortdescription" : "Anakin's Lightsaber",
   "tooltipKind" : "sword",
-  "category" : "broadsword",
+  "category" : "Lightsaber",
   "twoHanded" : true,
-  "itemTags" : ["weapon", "melee", "broadsword"],
+  "itemTags" : ["weapon", "melee", "broadsword", "lightsaber"],
 
   "inventoryIcon" : "anakinlightsabericon.png",
 

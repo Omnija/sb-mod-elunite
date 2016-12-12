@@ -1,0 +1,43 @@
+{
+  "itemName" : "elunite-costume3head",
+  "price" : 480,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headarmour",
+  "description" : "Protective Cycle Helmet, suited just for you.",
+  "shortdescription" : "Speeder Helm",
+  "tooltipKind" : "armor",
+
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+   "colorOptions" : [
+    // RED
+    { "601119" : "59110D", "932625" : "831A14", "D93A3A" : "B1221B", "FFCA8A" : "C9281F" },
+    // BLACK
+     { "601119" : "1a1a1a", "932625" : "323232", "D93A3A" : "4d4d4d", "FFCA8A" : "666666" },
+    // GREY
+     { "601119" : "595959", "932625" : "666666", "D93A3A" : "808080", "FFCA8A" : "999999" },
+    // WHITE
+     { "601119" : "908f8e", "932625" : "a7a6a5", "D93A3A" : "c0bfbf", "FFCA8A" : "d9d9d8" },
+	// RED
+     { "601119" : "59110D", "932625" : "831A14", "D93A3A" : "B1221B", "FFCA8A" : "C9281F" },
+    // ORANGE
+     { "601119" : "904500", "932625" : "b35600", "D93A3A" : "e66f00", "FFCA8A" : "ff881a" },
+    // YELLOW
+     { "601119" : "9a8800", "932625" : "b39e00", "D93A3A" : "e6cb00", "FFCA8A" : "ffe100" },
+    // GREEN
+     { "601119" : "1f5c1f", "932625" : "267326", "D93A3A" : "339933", "FFCA8A" : "40bf40" },
+    // BLUE
+     { "601119" : "0a476d", "932625" : "0d5b8c", "D93A3A" : "117abb", "FFCA8A" : "1698e9" },
+    // PURPLE
+     { "601119" : "6d2c68", "932625" : "8f3988", "D93A3A" : "a4419c", "FFCA8A" : "be5bb5" },
+    // PINK
+     { "601119" : "78545f", "932625" : "956876", "D93A3A" : "ab8792", "FFCA8A" : "c0a5ad" },
+    // BROWN
+	 { "601119" : "4d2b00", "932625" : "663a00", "D93A3A" : "995700", "FFCA8A" : "cc7400" }
+  ]
+}

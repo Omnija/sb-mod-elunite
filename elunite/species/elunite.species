@@ -179,6 +179,27 @@
       { "item" : "elunite-tier6spants" },
       { "item" : "elunite-tier6separatordisc" },
 	  
+// Accelerator (Green), Manipulator (Blue) and Seperator (Red) & Dual Bladed
+	  { "item" : "ahsokalightsaber" },
+	  { "item" : "lukelightsaber" },
+      { "item" : "quigonlightsaber" },
+      { "item" : "yodalightsaber" },
+      
+	  { "item" : "anakinlightsaber" },
+	  { "item" : "kiadilightsaber" },
+      { "item" : "obiwanlightsaber" },
+      { "item" : "ezralightsaber" },
+	  
+	  { "item" : "dookulightsaber" },
+	  { "item" : "vaderlightsaber" },
+      { "item" : "sidiouslightsaber" },
+      { "item" : "kylolightsaber" },
+	  
+	  { "item" : "maullightsaber" },
+	  { "item" : "opresslightsaber" },
+      { "item" : "grievouslightsaber" },
+      { "item" : "inquisitorlightsaber" },
+	  
 // Hidden Fusion
 	  { "item" : "elunite-tier7head" },
       { "item" : "elunite-tier7chest" },

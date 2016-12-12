@@ -1,15 +1,15 @@
 {
   "itemName" : "kylolightsaber",
   "price" : 960,
-  "level" : 6,
+  "level" : 8,
   "maxStack" : 1,
   "rarity" : "Legendary",
   "description" : "Kylo Ren's Sith Lightsaber!",
   "shortdescription" : "Kylo's Lightsaber",
   "tooltipKind" : "sword",
-  "category" : "toy",
+  "category" : "Lightsaber",
   "twoHanded" : true,
-  "itemTags" : ["weapon", "melee", "broadsword", "toy"],
+  "itemTags" : ["weapon", "melee", "broadsword", "lightsaber"],
 
   "inventoryIcon" : "kylolightsabericon.png",
 

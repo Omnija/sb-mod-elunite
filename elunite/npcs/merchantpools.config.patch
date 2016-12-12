@@ -66,6 +66,26 @@
     ]]
     ]
   },
+    {
+    "op": "add",
+    "path": "/eluniteweaponblueprints",
+    "value": [
+      [0, [
+      { "item" : { "name" : "doublelightsaber0" }, "rarity" : 2 },
+      { "item" : { "name" : "duallightsaber0" }, "rarity" : 2 },
+      { "item" : { "name" : "duallightsaber1" }, "rarity" : 2 },
+      { "item" : { "name" : "largelightsaber0" }, "rarity" : 2 },
+      { "item" : { "name" : "singlelightsaber0" }, "rarity" : 2 },
+      { "item" : { "name" : "singlelightsaber1" }, "rarity" : 2 },
+      { "item" : { "name" : "singlelightsaber2" }, "rarity" : 2 },
+      { "item" : { "name" : "singlelightsaber3" }, "rarity" : 2 },
+      { "item" : { "name" : "singlelightsaber4" }, "rarity" : 2 },
+      { "item" : { "name" : "singlelightsaber5" }, "rarity" : 2 },
+      { "item" : { "name" : "trilightsaber0" }, "rarity" : 2 }
+
+    ]]
+    ]
+  },
   {
     "op": "add",
     "path": "/eluniteclothes",

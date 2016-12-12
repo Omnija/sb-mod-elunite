@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "solariumstar", "count" : 5 },
+    { "item" : "titaniumbar", "count" : 1 }
+  ],
+  "output" : { "item" : "yodalightsaber", "count" : 1 },
+  "groups" : [ "craftingaccelerator", "weapons", "all" ]
+}

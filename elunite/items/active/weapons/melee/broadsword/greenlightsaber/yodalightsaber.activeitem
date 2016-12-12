@@ -1,15 +1,15 @@
 {
   "itemName" : "yodalightsaber",
   "price" : 960,
-  "level" : 6,
+  "level" : 8,
   "maxStack" : 1,
   "rarity" : "Legendary",
   "description" : "Master Yoda's Jedi Lightsaber!",
   "shortdescription" : "Yoda's Lightsaber",
   "tooltipKind" : "sword",
-  "category" : "broadsword",
+  "category" : "Lightsaber",
   "twoHanded" : true,
-  "itemTags" : ["weapon", "melee", "broadsword"],
+  "itemTags" : ["weapon", "melee", "broadsword", "lightsaber"],
 
   "inventoryIcon" : "yodalightsabericon.png",
 

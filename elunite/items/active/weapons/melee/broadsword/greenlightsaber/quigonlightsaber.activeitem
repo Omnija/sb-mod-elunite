@@ -1,15 +1,15 @@
 {
   "itemName" : "quigonlightsaber",
   "price" : 960,
-  "level" : 6,
+  "level" : 8,
   "maxStack" : 1,
   "rarity" : "Legendary",
   "description" : "Master Qui-Gon Jinn's Jedi Lightsaber!",
   "shortdescription" : "Qui-Gon's Lightsaber",
   "tooltipKind" : "sword",
-  "category" : "broadsword",
+  "category" : "Lightsaber",
   "twoHanded" : true,
-  "itemTags" : ["weapon", "melee", "broadsword"],
+  "itemTags" : ["weapon", "melee", "broadsword", "lightsaber"],
 
   "inventoryIcon" : "quigonlightsabericon.png",
 

@@ -1,15 +1,15 @@
 {
   "itemName" : "kiadilightsaber",
   "price" : 960,
-  "level" : 6,
+  "level" : 8,
   "maxStack" : 1,
   "rarity" : "Legendary",
   "description" : "Ki-Adi-Mundi's Jedi Lightsaber!",
   "shortdescription" : "Ki-Adi's Lightsaber",
   "tooltipKind" : "sword",
-  "category" : "broadsword",
+  "category" : "Lightsaber",
   "twoHanded" : true,
-  "itemTags" : ["weapon", "melee", "broadsword"],
+  "itemTags" : ["weapon", "melee", "broadsword", "lightsaber"],
 
   "inventoryIcon" : "kiadilightsabericon.png",
 

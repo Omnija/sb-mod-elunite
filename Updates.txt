@@ -15,7 +15,22 @@ You need an Extended Race Selection mod for this to work.
 
 Changelog:
 
-v1.0.5 (DEV)
+v1.0.6 (DEV)
+======
+
+Implementing
++ Dual Bladed Sith Lightsabers
++ Unique Yellow Edition Lightsabers
++ Costumes?
++ Ship Detailing
++ Chroma Squad Weapons
+
+
+Correcting
++ Lightsaber Tags
++ Fixing Hatch Fuel
+
+v1.0.5
 ======
 
 Implementing

@@ -4,6 +4,9 @@
   { "op" : "add", "path" : "/greenflipslash", "value" : "/items/active/weapons/melee/abilities/greenflipslash/greenflipslash.weaponability" },
   { "op" : "add", "path" : "/blueflipslash", "value" : "/items/active/weapons/melee/abilities/blueflipslash/blueflipslash.weaponability" },
   { "op" : "add", "path" : "/redflipslash", "value" : "/items/active/weapons/melee/abilities/redflipslash/redflipslash.weaponability" },
+  { "op" : "add", "path" : "/yellowflipslash", "value" : "/items/active/weapons/melee/abilities/yellowflipslash/yellowflipslash.weaponability" },
+  { "op" : "add", "path" : "/redspearspin", "value" : "/items/active/weapons/melee/abilities/redspearspin/redspearspin.weaponability" },
+  { "op" : "add", "path" : "/yellowspearspin", "value" : "/items/active/weapons/melee/abilities/yellowspearspin/yellowspearspin.weaponability" },
   { "op" : "add", "path" : "/nerfshotblue", "value" : "/items/active/weapons/ranged/toys/abilities/nerfshotblue.weaponability" },
   { "op" : "add", "path" : "/nerfshotred", "value" : "/items/active/weapons/ranged/toys/abilities/nerfshotred.weaponability" }
 ]

@@ -672,6 +672,98 @@
 	"value" : { "item" : "elunite-tier6separatordisc" }
 	},
 	
+  // Accelerator (6) Green Lightsabers
+  
+  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "ahsokalightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "lukelightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "quigonlightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "yodalightsaber" }
+	},
+	
+  // Manipulator (6) Blue Lightsabers
+  
+  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "anakinlightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "kiadilightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "obiwanlightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "ezralightsaber" }
+	},
+
+  // Seperator (6) Red Lightsabers
+  
+  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "kylolightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "vaderlightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "sidiouslightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "dookulightsaber" }
+	},
+	
+  // Seperator (6) Red Dual Bladed Lightsabers
+  
+  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "inquisitorlightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "opresslightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "grievouslightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "maullightsaber" }
+	},
+	
   // Hidden Fusion
   
    {
