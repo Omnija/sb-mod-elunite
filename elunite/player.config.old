@@ -1,0 +1,795 @@
+[
+  {
+    "op": "add",
+    "path": "/species/0",
+    "value": "elunite"
+  },
+  {
+    "op": "add",
+    "path": "/defaultCodexes/elunite",
+    "value": [ "protectorate1", "protectorate2" ]
+  },
+  
+  // Empty Hands
+  
+     {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "identity-disc" }
+	},
+     {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-flag" }
+	},
+     {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-flag-male" }
+	},
+     {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-flag-female" }
+	},
+     {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridtorch" }
+	},
+	
+  //Furniture Table
+  
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridbed" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridlamp" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridlamp1" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridlamp2" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridlamppost" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridchair" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridbench" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridtable" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridfridge" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridfridge1" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridoven" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridoven1" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridpainting" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridpainting1" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridstool" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridtoilet" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "griddoor" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "griddoor1" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridgate" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridgate1" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "flynnsign" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "tronsign" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "hometronsign" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridchest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridchest1" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridchest2" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "arcadetron" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "corpuslocker" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "corpuswalllocker" }
+	},
+  
+  // Furniture Table (Materials)
+  
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridmaterial" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridsupport" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridsupport1" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "griddetails" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "griddetails1" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridplatform" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridplatform1" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridpillar" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridpillar1" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "gridfence" }
+	},
+	
+  //Farmer's Table
+  
+  //Farmer's Table(Utilities)
+  
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "lightcable" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "lightparasol" }
+	},
+	
+  //Farmer's Table (Survival)
+  
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "detron" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "detronmara" }
+	},
+	
+  //Spinning Wheel (Clothing)
+  
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "circuitry0chest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "circuitry0legs" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "circuitry1head" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "circuitry1chest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "circuitry1legs" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "circuitry2head" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "circuitry2chest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "circuitry2legs" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "circuitry3head" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "circuitry3chest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "circuitry3legs" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "circuitry4head" }
+	},
+	
+  // Spinning Wheel (Costumes)
+  
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-costume1head" }
+	},
+	 {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-costume1chest" }
+	}, 
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-costume1pants" }
+	}, 
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-costume2head" }
+	}, 
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-costume2chest" }
+	}, 
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-costume2pants" }
+	},
+	
+	// Spinning Wheel (Unrelated Elunite Costumes)
+
+	{
+	    "op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-hat0head" }
+	}, 
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-hat0chest" }
+	}, 
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-hat0pants" }
+	},
+	
+	
+  // Anvil (Toys)
+  
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "lasergunblue" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "lasergungreen" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "lasergunred" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "lasergunorange" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "lasergunpurple" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "lasergunyellow" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "smallnerfgunred" }
+	},
+	  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "smallnerfgunblue" }
+	},
+  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "nerfgunred" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "nerfgunblue" }
+	},
+	  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "nerfbowred" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "nerfbowblue" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "nerfsniperblue" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "nerfsniperred" }
+	},
+	
+  // Anvil
+  
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier1head" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier1chest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier1pants" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier1disc" }
+	},
+	
+  // Anvil2	 
+  
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier2head" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier2chest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier2pants" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier2disc" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "lightshield" }
+	},
+  
+  // Anvil3
+  
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier3head" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier3chest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier3pants" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier3disc" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier4head" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier4chest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier4pants" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier4disc" }
+	},
+	
+  // Accelerator, Manipulator and Seperator (5 and 6)
+  
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier5ahead" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier5achest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier5apants" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier5acceleratordisc" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier5mhead" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier5mchest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier5mpants" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier5manipulatordisc" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier5shead" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier5schest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier5spants" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier5separatordisc" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier6ahead" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier6achest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier6apants" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier6acceleratordisc" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier6mhead" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier6mchest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier6mpants" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier6manipulatordisc" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier6shead" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier6schest" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier6spants" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier6separatordisc" }
+	},
+	
+  // Accelerator (6) Green Lightsabers
+  
+  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "ahsokalightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "lukelightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "quigonlightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "yodalightsaber" }
+	},
+	
+  // Manipulator (6) Blue Lightsabers
+  
+  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "anakinlightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "kiadilightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "obiwanlightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "ezralightsaber" }
+	},
+
+  // Seperator (6) Red Lightsabers
+  
+  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "kylolightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "vaderlightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "sidiouslightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "dookulightsaber" }
+	},
+	
+  // Seperator (6) Red Dual Bladed Lightsabers
+  
+  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "inquisitorlightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "opresslightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "grievouslightsaber" }
+	},
+		{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "maullightsaber" }
+	},
+	
+  // Hidden Fusion
+  
+   {
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier7head" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier7chest" }
+	},
+  	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-tier7pants" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "elunite-fusionkatana" }
+	},
+	{
+		"op" : "add",
+		"path" : "/defaultBlueprints/tier1/-",
+	"value" : { "item" : "" }
+	}
+]
+

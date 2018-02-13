@@ -15,7 +15,21 @@ You need an Extended Race Selection mod for this to work.
 
 Changelog:
 
-v1.0.6 (DEV)
+v1.0.7 (DEV)
+======
+
++ Chroma Squad Weapons
++ Warframe Stuff Possibly?
+
+v1.0.6a
+======
+
+Correcting
++ Fixed Captains Chair 
++ Fixed Mech Warping issue
++ Fixed Broken Pet
+
+v1.0.6
 ======
 
 Implementing
@@ -23,7 +37,6 @@ Implementing
 + Unique Yellow Edition Lightsabers
 + Costumes?
 + Ship Detailing
-+ Chroma Squad Weapons
 
 
 Correcting

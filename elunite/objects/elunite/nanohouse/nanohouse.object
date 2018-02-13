@@ -1,6 +1,6 @@
 {
   "objectName" : "nanohouse",
-  "colonyTags" : ["misc"],
+  "colonyTags" : ["elunite","misc"],
   "rarity" : "Common",
 
   "category" : "storage",

@@ -28,8 +28,7 @@
       "/monsters/pets/actions/eatAction.lua",
       "/monsters/pets/actions/sleepAction.lua",
       "/monsters/pets/actions/begAction.lua",
-      "/monsters/pets/actions/pounceAction.lua",
-      "/monsters/pets/actions/starvingAction.lua"
+      "/monsters/pets/actions/pounceAction.lua"
     ],
 
     "petBehavior" : "petBehavior",

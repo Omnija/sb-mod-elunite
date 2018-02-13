@@ -5,6 +5,8 @@
   "description" : "A Nano Table Lamp, which the nano won't use.",
   "shortdescription" : "Nano Table Lamp",
   "race" : "elunite",
+  "category" : "furniture",
+  "price" : 10,
 
   "apexDescription" : "A small grid lamp.",
   "avianDescription" : "A tiny grid light powered by electricity.",

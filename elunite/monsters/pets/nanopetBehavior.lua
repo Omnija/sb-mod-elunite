@@ -20,8 +20,7 @@ function petBehavior.init()
     ["eat"] = "eatAction",
     ["beg"] = "begAction",
     ["play"] = "pounceAction",
-    ["sleep"] = "sleepAction",
-    ["starving"] = "starvingAction"
+    ["sleep"] = "sleepAction"
   }
 
   self.currentActionScore = 0
