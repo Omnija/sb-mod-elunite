@@ -1,0 +1,78 @@
+{
+  "objectName" : "fabricator",
+  "colonyTags" : ["crafting, elunite"],
+  "rarity" : "uncommon",
+  "price" : 1250,
+  "radioMessagesOnPickup" : [ ],
+  "printable" : false,
+  "description" : "Used to fabricate anything and everything from nothing.",
+  "shortdescription" : "^orange;Fabricator Box^white;",
+  "race" : "elunite",
+  "category" : "crafting",
+
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingfabricator.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Fabricator Box",
+        "subtitle" : "Fabricate cross over equipment.",
+        "icon" : {
+          "file" : "/interface/crafting/craftingfabricator.png"
+        }
+      }
+    },
+    "filter" : [ "craftingfabricator" ]
+  },
+  
+  "lightColor" : [62, 89, 89],
+
+  "flickerPeriod" : 0.5,
+  "flickerMinIntensity" : 0.9,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.0,
+  "flickerIntensityVariance" : 0,
+
+  "apexDescription" : "I can use this station to construct rails for easy transport.",
+  "avianDescription" : "This table will allow me to build rails which I can travel on.",
+  "floranDescription" : "Thiss table makes shiny rails for quick travel.",
+  "glitchDescription" : "Delighted. The rails crafted here will make movement much more efficient.",
+  "humanDescription" : "I can craft rails here! Perfect for getting around. And around, and around.",
+  "hylotlDescription" : "The rails I can construct here may be primitive, but their efficiency can't be questioned.",
+  "novakidDescription" : "Ridin' the rails - still works as good as it ever did for gettin' around.",
+  "eluniteDescription" : "An Elunite Fabricator, We shall develope the universes equipment",
+
+  "inventoryIcon" : "fabricatoricon.png",
+
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "fabricator.png:<color>.<frame>", "fullbright" : true }, { "image" : "fabricatorlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "frames" : 1,
+      "animationCycle" : 1.8,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+
+    {
+      "imageLayers" : [ { "image" : "fabricator.png:<color>.<frame>", "fullbright" : true }, { "image" : "fabricatorlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "right",
+
+      "frames" : 1,
+      "animationCycle" : 1.8,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+
+  ],
+
+  "npcToy" : {}
+}

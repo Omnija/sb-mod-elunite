@@ -1,0 +1,9 @@
+singlelightsaber0{
+  "input" : [
+    { "item" : "ironbar", "count" : 6 },
+    { "item" : "clay", "count" : 10 },
+    { "item" : "yellowdye", "count" : 2 }
+  ],
+  "output" : { "item" : "trilightsaber0", "count" : 1 },
+  "groups" : [ "craftingfabricator", "weapons", "all" ]
+}

@@ -18,6 +18,7 @@ Changelog:
 v1.0.7 (DEV)
 ======
 
++ Fabricator Box
 + Chroma Squad Weapons
 + Warframe Stuff Possibly?
 

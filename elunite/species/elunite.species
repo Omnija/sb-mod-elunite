@@ -23,6 +23,9 @@
       { "item" : "elunite-flag-female" },
       { "item" : "gridtorch" },
 	  
+// Inventors Table
+      { "item" : "craftingfabricator" },
+	  
 // Furniture Table
       { "item" : "elunite-storagelocker" },
       { "item" : "hometronsign" },
