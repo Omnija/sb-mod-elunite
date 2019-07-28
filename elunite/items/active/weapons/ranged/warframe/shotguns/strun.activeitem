@@ -1,0 +1,86 @@
+{
+  "itemName" : "strun",
+  "price" : 960,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "The Strun bears good damage per shot and decent status potential, capable of killing most light enemies in a single shot.",
+  "shortdescription" : "Strun",
+  "tooltipKind" : "gun",
+  "category" : "shotgun",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","ranged","shotgun"],
+  "level" : 2,
+
+  "inventoryIcon" : "strun.png",
+
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : {
+    "butt" : "",
+    "middle" : "strun.png",
+    "barrel" : "",
+    "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : ["/sfx/gun/shotgun1.ogg"]
+    }
+  },
+
+  "baseOffset" : [1.0, 0.30],
+  "muzzleOffset" : [0, 0.115],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : 1.2,
+    "baseDps" : 10.5,
+    "energyUsage" : 31.5,
+    "inaccuracy" : 0.13,
+
+    "projectileCount" : 8,
+    "fireType" : "auto",
+
+    "projectileType" : "standardbullet",
+    "projectileParameters" : {
+      "damageKind" : "shotgunbullet",
+      "knockback" : 30
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 8,
+        "weaponRotation" : 8,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.15,
+        "armRotation" : 8,
+        "weaponRotation" : 8,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  },
+
+  "altAbilityType" : "",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

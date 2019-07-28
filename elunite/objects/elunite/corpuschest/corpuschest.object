@@ -19,6 +19,7 @@
   "humanDescription" : "A chest! Let's open it up.",
   "hylotlDescription" : "There is little as exciting as an unopened chest.",
   "novakidDescription" : "It's always a thrill to find an unopened chest.",
+  "eluniteDescription" : "Break this container",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

@@ -18,9 +18,13 @@ Changelog:
 v1.0.7 (DEV)
 ======
 
++ Codex/Lore (1 to 8)
++ Sail Elunite
 + Fabricator Box
 + Chroma Squad Weapons
-+ Warframe Stuff Possibly?
++ Warframe Weapons and Cosmetics
++ Replacing Floppy Disc Relations
+
 
 v1.0.6a
 ======

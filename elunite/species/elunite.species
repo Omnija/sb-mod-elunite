@@ -1,12 +1,12 @@
 {
   "kind" : "elunite",
-  
+
     "charCreationTooltip" : {
       "title" : "Elunite",
       "subTitle" : "001",
-      "description" : "A race of highly advanced programs which manifested from abandoned hardware. They took shape of beings, due to the Users who programmed them."
+      "description" : "A race of highly advanced specimens, created for the sole purpose of entertainment. They live as puppets playing a role in history, for those who wish to escape their own."
   },
-  
+
   "nameGen" : [ "/species/elunite-namegenmale.config:names", "/species/elunite-namegenfemale.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/elunitehurt-male1.wav", "/sfx/humanoid/elunitehurt-female1.wav" ],
   "gruntNoises" : [ [ "/sfx/humanoid/elunitegrunt-male1.wav", "/sfx/humanoid/elunitegrunt-male2.wav"], [ "/sfx/humanoid/elunitegrunt-female1.wav", "/sfx/humanoid/elunitegrunt-female2.wav" ] ],
@@ -15,17 +15,17 @@
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=D2D2D2?replace=31a6ffFF=A7A7A7",
   "defaultBlueprints" : {
     "tier1" : [
-	
+
 // Empty Hands
 	  { "item" : "identity-disc" },
 	  { "item" : "elunite-flag" },
 	  { "item" : "elunite-flag-male" },
       { "item" : "elunite-flag-female" },
       { "item" : "gridtorch" },
-	  
+
 // Inventors Table
       { "item" : "craftingfabricator" },
-	  
+
 // Furniture Table
       { "item" : "elunite-storagelocker" },
       { "item" : "hometronsign" },
@@ -56,10 +56,10 @@
       { "item" : "gridchest1" },
       { "item" : "gridchest2" },
       { "item" : "arcadetron" },
-	 
+
       { "item" : "corpuslocker" },
       { "item" : "corpuswalllocker" },
-	  
+
 // Furniture Table (Materials)
       { "item" : "gridmaterial" },
 	  { "item" : "gridsupport" },
@@ -71,18 +71,18 @@
 	  { "item" : "gridpillar" },
 	  { "item" : "gridpillar1" },
       { "item" : "gridfence" },
-	  
-	  
+
+
 //Farmer's Table
-	  
+
 //Farmer's Table (Utilities)
       { "item" : "lightcable" },
       { "item" : "lightparasol" },
-	
+
 //Farmer's Table (Survival)
       { "item" : "detron" },
       { "item" : "detronmara" },
-	  
+
 // Spinning Wheel (Clothing)
 	  { "item" : "circuitry0chest" },
 	  { "item" : "circuitry0legs" },
@@ -96,20 +96,20 @@
 	  { "item" : "circuitry3chest" },
 	  { "item" : "circuitry3legs" },
 	  { "item" : "circuitry4head" },
-	  
+
 //Spinning Wheel (Costumes)
 	  { "item" : "elunite-costume1head" },
 	  { "item" : "elunite-costume1chest" },
 	  { "item" : "elunite-costume1pants" },
 	  { "item" : "elunite-costume2head" },
 	  { "item" : "elunite-costume2chest" },
-	  { "item" : "elunite-costume2pants" },	 
-	  
+	  { "item" : "elunite-costume2pants" },
+
 // Spinning Wheel (Unrelated Elunite Costumes)
 	  { "item" : "elunite-hat0head" },
 	  { "item" : "elunite-hat0chest" },
-	  { "item" : "elunite-hat0pants" },	
-	  
+	  { "item" : "elunite-hat0pants" },
+
 // Anvil (Toys)
 	  { "item" : "lasergunblue" },
 	  { "item" : "lasergungreen" },
@@ -125,90 +125,90 @@
 	  { "item" : "nerfbowblue" },
 	  { "item" : "nerfsniperblue" },
 	  { "item" : "nerfsniperred" },
-	  
+
 // Anvil
 	  { "item" : "elunite-tier1head" },
 	  { "item" : "elunite-tier1chest" },
       { "item" : "elunite-tier1pants" },
       { "item" : "elunite-tier1disc" },
 
-      
-// Anvil2	  
+
+// Anvil2
 	  { "item" : "elunite-tier2head" },
 	  { "item" : "elunite-tier2chest" },
       { "item" : "elunite-tier2pants" },
 	  { "item" : "elunite-tier2disc" },
 	  { "item" : "lightshield" },
-      
+
 // Anvil3
 	  { "item" : "elunite-tier3head" },
 	  { "item" : "elunite-tier3chest" },
       { "item" : "elunite-tier3pants" },
       { "item" : "elunite-tier3disc" },
-      
+
 	  { "item" : "elunite-tier4head" },
 	  { "item" : "elunite-tier4chest" },
       { "item" : "elunite-tier4pants" },
       { "item" : "elunite-tier4disc" },
-	  
+
 // Accelerator, Manipulator and Seperator (5 and 6)
       { "item" : "elunite-tier5ahead" },
       { "item" : "elunite-tier5achest" },
       { "item" : "elunite-tier5apants" },
       { "item" : "elunite-tier5acceleratordisc" },
-      
+
       { "item" : "elunite-tier5mhead" },
       { "item" : "elunite-tier5mchest" },
       { "item" : "elunite-tier5mpants" },
       { "item" : "elunite-tier5manipulatordisc" },
-      
+
       { "item" : "elunite-tier5shead" },
       { "item" : "elunite-tier5schest" },
       { "item" : "elunite-tier5spants" },
 	  { "item" : "elunite-tier5separatordisc" },
-      
+
       { "item" : "elunite-tier6ahead" },
       { "item" : "elunite-tier6achest" },
       { "item" : "elunite-tier6apants" },
       { "item" : "elunite-tier6acceleratordisc" },
-	  	  
+
       { "item" : "elunite-tier6mhead" },
       { "item" : "elunite-tier6mchest" },
       { "item" : "elunite-tier6mpants" },
 	  { "item" : "elunite-tier6manipulatordisc" },
-      
+
       { "item" : "elunite-tier6shead" },
       { "item" : "elunite-tier6schest" },
       { "item" : "elunite-tier6spants" },
       { "item" : "elunite-tier6separatordisc" },
-	  
+
 // Accelerator (Green), Manipulator (Blue) and Seperator (Red) & Dual Bladed
 	  { "item" : "ahsokalightsaber" },
 	  { "item" : "lukelightsaber" },
       { "item" : "quigonlightsaber" },
       { "item" : "yodalightsaber" },
-      
+
 	  { "item" : "anakinlightsaber" },
 	  { "item" : "kiadilightsaber" },
       { "item" : "obiwanlightsaber" },
       { "item" : "ezralightsaber" },
-	  
+
 	  { "item" : "dookulightsaber" },
 	  { "item" : "vaderlightsaber" },
       { "item" : "sidiouslightsaber" },
       { "item" : "kylolightsaber" },
-	  
+
 	  { "item" : "maullightsaber" },
 	  { "item" : "opresslightsaber" },
       { "item" : "grievouslightsaber" },
       { "item" : "inquisitorlightsaber" },
-	  
+
 // Hidden Fusion
 	  { "item" : "elunite-tier7head" },
       { "item" : "elunite-tier7chest" },
       { "item" : "elunite-tier7pants" },
       { "item" : "elunite-fusionkatana" },
-	  
+
 	  { "item" : "aegisaltpistol" },
       { "item" : "aegisaltbow" },
       { "item" : "feroziumwand" },
@@ -216,7 +216,7 @@
       { "item" : "violiumshortsword" },
       { "item" : "violiumbroadsword" }
 
-	  
+
     ]
   },
   "headOptionAsFacialhair" : true,
@@ -272,13 +272,13 @@
 	//Purple
 	{ "6F2919" : "070707", "A85636" : "1a1a1a", "E0975C" : "333333", "FFCA8A" : "4d4d4d",  "D39C6C" : "BD5BB4", "FFC181" : "FFFFFF", "C7815B" : "8E3887", "A67851" : "A3419B", "59402B" : "6C2C67" },
 	//Pink
-	{ "6F2919" : "070707", "A85636" : "1a1a1a", "E0975C" : "333333", "FFCA8A" : "4d4d4d",  "D39C6C" : "BFA4AC", "FFC181" : "FFFFFF", "C7815B" : "946775", "A67851" : "AC8793", "59402B" : "77535E" }, 
+	{ "6F2919" : "070707", "A85636" : "1a1a1a", "E0975C" : "333333", "FFCA8A" : "4d4d4d",  "D39C6C" : "BFA4AC", "FFC181" : "FFFFFF", "C7815B" : "946775", "A67851" : "AC8793", "59402B" : "77535E" },
 	//Brown
-	{ "6F2919" : "070707", "A85636" : "1a1a1a", "E0975C" : "333333", "FFCA8A" : "4d4d4d",  "D39C6C" : "CB7300", "FFC181" : "FFFFFF", "C7815B" : "653A00", "A67851" : "9A5700", "59402B" : "4D2B00" }, 
-	
+	{ "6F2919" : "070707", "A85636" : "1a1a1a", "E0975C" : "333333", "FFCA8A" : "4d4d4d",  "D39C6C" : "CB7300", "FFC181" : "FFFFFF", "C7815B" : "653A00", "A67851" : "9A5700", "59402B" : "4D2B00" },
+
 	//Test Version
-	{ "6F2919" : "6F2919", "A85636" : "A85636", "E0975C" : "E0975C", "FFCA8A" : "FFCA8A",  "D39C6C" : "D39C6C", "FFC181" : "FFC181", "C7815B" : "C7815B", "A67851" : "A67851", "59402B" : "000000" }, 
-		
+	{ "6F2919" : "6F2919", "A85636" : "A85636", "E0975C" : "E0975C", "FFCA8A" : "FFCA8A",  "D39C6C" : "D39C6C", "FFC181" : "FFC181", "C7815B" : "C7815B", "A67851" : "A67851", "59402B" : "000000" },
+
   	//White Version
 	// BLACK
     { "6F2919" : "595959", "A85636" : "B3B3B3", "E0975C" : "e6e6e6", "FFCA8A" : "ffffff",  "D39C6C" : "666666", "FFC181" : "FFFFFF", "C7815B" : "323232", "A67851" : "4D4D4D", "59402B" : "1A1A1A" },
@@ -301,10 +301,10 @@
 	//Pink
 	{ "6F2919" : "595959", "A85636" : "B3B3B3", "E0975C" : "e6e6e6", "FFCA8A" : "ffffff",  "D39C6C" : "BFA4AC", "FFC181" : "FFFFFF", "C7815B" : "946775", "A67851" : "AC8793", "59402B" : "77535E" },
 	//Brown
-	{ "6F2919" : "595959", "A85636" : "B3B3B3", "E0975C" : "e6e6e6", "FFCA8A" : "ffffff",  "D39C6C" : "CB7300", "FFC181" : "FFFFFF", "C7815B" : "653A00", "A67851" : "9A5700", "59402B" : "4D2B00" } 
+	{ "6F2919" : "595959", "A85636" : "B3B3B3", "E0975C" : "e6e6e6", "FFCA8A" : "ffffff",  "D39C6C" : "CB7300", "FFC181" : "FFFFFF", "C7815B" : "653A00", "A67851" : "9A5700", "59402B" : "4D2B00" }
   ],
-  
+
   "undyColor" : [ "" ],
-	
+
   "hairColor" : [ "" ]
 }

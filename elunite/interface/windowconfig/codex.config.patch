@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/paneLayout/speciesTabs/buttons/-",
+    "value": {
+      "position": [4, 5],
+      "baseImage": "/interface/codex/tab_elunite.png",
+      "baseImageChecked": "/interface/codex/tab_elunite_select.png",
+      "pressedOffset": [0, 0],
+      "data": { "species": "elunite" }
+    }
+  }
+]

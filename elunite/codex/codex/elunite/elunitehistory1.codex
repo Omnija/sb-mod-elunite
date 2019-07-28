@@ -1,0 +1,29 @@
+{
+  "id" : "elunitehistory1",
+  "species" : "elunite",
+  "title" : "Tall Tales from a Story Teller",
+  "description" : "A story tellers haven in a lost multiverse, we are Elunites",
+  "icon" : "elunitecover1.png",
+  "contentPages" : [
+  "In a multiverse where races are extincted and generations of history become forgotten. Some where, someone remembers and wants to share their visions of that story.
+
+  Lost scrolls, scriptures, books,  and hidden myths tell stories.. but not one like ours..",
+
+  "In a place where a stone can become comets, and ribble of water becomes a tsunami, tradition becomes lost and memories become forgotten.
+
+  We are created for this perfect story, we were assigned to play the perfect role... we are the envisions of what was lost.",
+
+  "I am an Inventor, a Visionist, I cannot accept this multiverse to disipate it's History...
+
+  I cannot allow this to happen.
+
+  Awake my children as their time has past, but yours has just begun, come play in their stories...",
+
+  "Some where, someone wants to share their Tall Tales and we are a pawns in this story."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}
