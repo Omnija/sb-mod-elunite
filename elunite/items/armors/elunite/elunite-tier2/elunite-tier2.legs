@@ -9,8 +9,8 @@
   "shortdescription" : "Improvised Trousers",
   "tooltipKind" : "armor",
 
-  "maleFrames" : "pants.png",
-  "femaleFrames" : "pants.png",
+  "maleFrames" : "pantsm.png",
+  "femaleFrames" : "pantsf.png",
 
   "level" : 2,
   "leveledStatusEffects" : [

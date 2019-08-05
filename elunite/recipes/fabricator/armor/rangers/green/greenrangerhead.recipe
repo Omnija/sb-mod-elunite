@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "elunite-tier2head", "count" : 1 },
+    { "item" : "greendye", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "greenranger-head", "count" : 1 },
+  "groups" : [ "craftingfabricator", "armours", "all" ]
+}

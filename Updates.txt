@@ -21,6 +21,8 @@ v1.0.7 (DEV)
 + Codex/Lore (1 to 8)
 + Sail Elunite
 + Fabricator Box
++ Power Ranger Craftable Helmets
++ Randomizable Power Ranger Weapons
 + Chroma Squad Weapons
 + Warframe Weapons and Cosmetics
 + Replacing Floppy Disc Relations

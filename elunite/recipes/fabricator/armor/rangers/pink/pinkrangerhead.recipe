@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "elunite-tier2head", "count" : 1 },
+    { "item" : "pinkdye", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "pinkranger-head", "count" : 1 },
+  "groups" : [ "craftingfabricator", "armours", "all" ]
+}
