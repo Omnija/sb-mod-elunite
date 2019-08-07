@@ -1,7 +1,7 @@
 {
   "itemName" : "identity-disc",
   "level" : 1,
-  "price" : 1500,
+  "price" : 25,
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "disc",

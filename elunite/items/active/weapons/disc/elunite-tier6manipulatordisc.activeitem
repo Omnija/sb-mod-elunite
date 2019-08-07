@@ -1,7 +1,7 @@
 {
   "itemName" : "elunite-tier6manipulatordisc",
-  "level" : 8,
-  "price" : 1500,
+  "level" : 6,
+  "price" : 3840,
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "disc",
@@ -16,14 +16,14 @@
   "animationParts" : {
     "boomerang" : "elunite-tier6manipulatordisc.png"
   },
-  "animationCustom" : {     
+  "animationCustom" : {
     "sounds" : {
       "throw" : [ "/sfx/melee/laser_weapon_swing2.ogg" ]
     }
   },
   "scripts" : ["discweapon.lua"],
   "fireOffset" : [1.25, 0.5],
-  
+
 
   "cooldownTime" : 0.6,
 

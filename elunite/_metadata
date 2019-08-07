@@ -1,9 +1,10 @@
 {
-  "version" : "2.0.0",
   "author" : "Omnija & Sotaeko",
   "description" : "[h1] -Version 2.0.0- [/h1]\n\n[h1] -About the Elunite- [/h1]\nA race of highly advanced specimens, created for the sole purpose of entertainment. They live as puppets playing a role in history, for those who wish to escape their own. These hosts/creators believe we have all forgotten, but we still remember..\n\n(Elunites will be worked around Tron and Sentai Styled theme)\n\n[h1] -Requirements- [/h1]\nIt is required to have a extended race selection to play the \"Elunite Race\"\n\n[h1] -Status- [/h1]\nWork in Progress (On-going)\n\n[h1] -Current Features- [/h1]\n[list]\n[*]Full Tier'd Weapons + (Mystery Tier 7 Sword)\n[*]Full Tier'd Armours + (Mystery Tier 7 Armour)\n[*]Toys (Nerf Guns, Laser Guns and more)\n[*]Lightsabers (From series will add more and customs)\n[*]Blocks\n[*]Ship (T1 to T10)\n[*]Ship Pet & Pet Table, House and Toys\n[*]Vehicles\n[*]Clothing\n[*]Storage\n[*]Costumes\n[*]Furniture\n[*]Decorations\n[*]NPCS and Tenants\n[*]Companion Cube Monster ( /spawnmonster companioncube 1 )\n[*]Shield\n[*]Plants\n[*]Tools (Light Parasol, Light Cable and Detron Relocator)\n[*]Mystery Stuff\n[*]Blueprint patch for all Races\n[*]Frackin' Race Compatible\n[/list]\nAnd more to come since this project is in active development!\n\nNote: Upgradeship  to 9 and 10 through /spawnitem shipT9 or 10",
-  "name" : "Elunite",
   "friendlyName" : "Elunite Race",
+  "link" : "steam://url/CommunityFilePage/788890408",
+  "name" : "Elunite",
   "steamContentId" : "788890408",
-  "link" : "steam://url/CommunityFilePage/788890408"
+  "tags" : "Species",
+  "version" : "2.0.0"
 }

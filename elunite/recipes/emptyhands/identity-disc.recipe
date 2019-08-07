@@ -1,6 +1,7 @@
 {
   "input" : [
-    { "item" : "coalore", "count" : 5 }
+    { "item" : "coalore", "count" : 5 },
+    { "item" : "cobblestonematerial", "count" : 5 }
   ],
   "output" : {
     "item" : "identity-disc",

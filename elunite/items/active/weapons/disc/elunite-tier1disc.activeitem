@@ -1,7 +1,7 @@
 {
   "itemName" : "elunite-tier1disc",
-  "level" : 2,
-  "price" : 1500,
+  "level" : 1,
+  "price" : 480,
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "disc",
@@ -16,14 +16,14 @@
   "animationParts" : {
     "boomerang" : "elunite-tier1disc.png"
   },
-  "animationCustom" : {     
+  "animationCustom" : {
     "sounds" : {
       "throw" : [ "/sfx/melee/laser_weapon_swing2.ogg" ]
     }
   },
   "scripts" : ["discweapon.lua"],
   "fireOffset" : [1.25, 0.5],
-  
+
 
   "cooldownTime" : 0.6,
 
