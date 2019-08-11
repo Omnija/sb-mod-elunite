@@ -5,38 +5,38 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "legarmour",
-  "description" : "Protective Cycle Pants, suited just for you.",
-  "shortdescription" : "Speeder Pants",
+  "description" : "Infected Elunite Corrupted Pants",
+  "shortdescription" : "Corrupted Elunite Pants",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pants.png",
   "femaleFrames" : "pants.png",
 
 
-   "colorOptions" : [
+  "colorOptions" : [
     // RED
-    { "601119" : "59110D", "932625" : "831A14", "D93A3A" : "B1221B", "FFCA8A" : "C9281F" },
+     { "6F2919" : "59110D", "A85636" : "831A14", "E0975C" : "B1221B", "FFCA8A" : "C9281F", "A46E06" : "262626", "E2C344" : "7A7A7A", "FFFFA7" : "ADADAD"  },
     // BLACK
-     { "601119" : "1a1a1a", "932625" : "323232", "D93A3A" : "4d4d4d", "FFCA8A" : "666666" },
+     { "6F2919" : "1a1a1a", "A85636" : "323232", "E0975C" : "4d4d4d", "FFCA8A" : "666666", "A46E06" : "262626", "E2C344" : "7B7B7B", "FFFFA7" : "B5B5B5" },
     // GREY
-     { "601119" : "595959", "932625" : "666666", "D93A3A" : "808080", "FFCA8A" : "999999" },
+     { "6F2919" : "595959", "A85636" : "666666", "E0975C" : "808080", "FFCA8A" : "999999", "A46E06" : "262626", "E2C344" : "7B7B7B", "FFFFA7" : "B5B5B5" },
     // WHITE
-     { "601119" : "908f8e", "932625" : "a7a6a5", "D93A3A" : "c0bfbf", "FFCA8A" : "d9d9d8" },
-	// RED
-     { "601119" : "59110D", "932625" : "831A14", "D93A3A" : "B1221B", "FFCA8A" : "C9281F" },
+     { "6F2919" : "908f8e", "A85636" : "a7a6a5", "E0975C" : "c0bfbf", "FFCA8A" : "d9d9d8", "A46E06" : "262626", "E2C344" : "7B7B7B", "FFFFA7" : "B5B5B5" },
+	  // RED
+     { "6F2919" : "59110D", "A85636" : "831A14", "E0975C" : "B1221B", "FFCA8A" : "C9281F", "A46E06" : "262626", "E2C344" : "7B7B7B", "FFFFA7" : "B5B5B5" },
     // ORANGE
-     { "601119" : "904500", "932625" : "b35600", "D93A3A" : "e66f00", "FFCA8A" : "ff881a" },
+     { "6F2919" : "904500", "A85636" : "b35600", "E0975C" : "e66f00", "FFCA8A" : "ff881a", "A46E06" : "262626", "E2C344" : "7B7B7B", "FFFFA7" : "B5B5B5" },
     // YELLOW
-     { "601119" : "9a8800", "932625" : "b39e00", "D93A3A" : "e6cb00", "FFCA8A" : "ffe100" },
+     { "6F2919" : "9a8800", "A85636" : "b39e00", "E0975C" : "e6cb00", "FFCA8A" : "ffe100", "A46E06" : "262626", "E2C344" : "7B7B7B", "FFFFA7" : "B5B5B5" },
     // GREEN
-     { "601119" : "1f5c1f", "932625" : "267326", "D93A3A" : "339933", "FFCA8A" : "40bf40" },
+     { "6F2919" : "1f5c1f", "A85636" : "267326", "E0975C" : "339933", "FFCA8A" : "40bf40", "A46E06" : "262626", "E2C344" : "7B7B7B", "FFFFA7" : "B5B5B5" },
     // BLUE
-     { "601119" : "0a476d", "932625" : "0d5b8c", "D93A3A" : "117abb", "FFCA8A" : "1698e9" },
+     { "6F2919" : "0a476d", "A85636" : "0d5b8c", "E0975C" : "117abb", "FFCA8A" : "1698e9", "A46E06" : "262626", "E2C344" : "7B7B7B", "FFFFA7" : "B5B5B5" },
     // PURPLE
-     { "601119" : "6d2c68", "932625" : "8f3988", "D93A3A" : "a4419c", "FFCA8A" : "be5bb5" },
+     { "6F2919" : "6d2c68", "A85636" : "8f3988", "E0975C" : "a4419c", "FFCA8A" : "be5bb5", "A46E06" : "262626", "E2C344" : "7B7B7B", "FFFFA7" : "B5B5B5" },
     // PINK
-     { "601119" : "78545f", "932625" : "956876", "D93A3A" : "ab8792", "FFCA8A" : "c0a5ad" },
+     { "6F2919" : "78545f", "A85636" : "956876", "E0975C" : "ab8792", "FFCA8A" : "c0a5ad", "A46E06" : "262626", "E2C344" : "7B7B7B", "FFFFA7" : "B5B5B5" },
     // BROWN
-	 { "601119" : "4d2b00", "932625" : "663a00", "D93A3A" : "995700", "FFCA8A" : "cc7400" }
-  ]
+	 { "6F2919" : "4d2b00", "A85636" : "663a00", "E0975C" : "995700", "FFCA8A" : "cc7400", "A46E06" : "262626", "E2C344" : "7B7B7B", "FFFFA7" : "B5B5B5" }
+	]
 }

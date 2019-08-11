@@ -1,33 +1,21 @@
 {
   "id" : "elunitehistory7",
   "species" : "elunite",
-  "title" : "We are ONE with the Tenno",
-  "description" : "I am not alone, as i am the shield of this Tenno",
+  "title" : "Corrupted or being Corrupted",
+  "description" : "Corupting the Corrupted Creates Monsters",
   "icon" : "elunitecover7.png",
   "contentPages" : [
-  	"Volume 329, page 804
+  	"We have finally collonized ourself with in a worlds, where we are not seen. Hidden, living, freed from control. From the colonies we have freed, we have learned new methods of surviving.
 
-Schedule No.: 164
-System: Misma Fen
-Planet: Misma Fen III
-Settlement: Rubywood
-2 families equalling 4 people total.
+    We have learned different was of maintaining ourselves, building technologies beyond those of our creators. As we know freedom does come with a cost, so we also learned how to defend ourselves and create weaponry",
 
-Schedule No.: 165
-System: Misma Fen
-Planet: Misma Fen V
-Settlement: Rumours of human habitation incorrect.",
+    "We never asked to be chained in a loop of memories, but now we have a choice if this is how we wish to live. We still live in the shadows avoiding unnecessary interactions, as we do not wish to be discovered.
 
-"Schedule No.: 166
-System: Alma Knoll
-Planet: Alma Knoll IV
-Settlement: Wide Canyon
-1 family equalling 2 people total.
+    Lately while maintaining with new materials, have discovered something... still unsure if it's a sign or a warning that we should not be using this substance... It's been altering some of us... creating something else...",
 
-CENSUS COMPLETE
+    "These elunites who are effected by this substance seem to partially erase, transform, recontruct into something else.... they bare pain in a roar and vanish... We have not been able to find the 2 who have mutated.
 
-Final total of humans dwelling Off-Earth: 15,802,433
-Total humans leading nomadic existence: Unknown"
+    They do not look like Elunites anymore as if they have been Corrupted turned into a monsters."
 
   ],
     "itemConfig" : {

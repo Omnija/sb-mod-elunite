@@ -15,7 +15,7 @@ You need an Extended Race Selection mod for this to work.
 
 Changelog:
 
-v1.0.7 (DEV)
+v2.0.0(DEV)
 ======
 
 + Codex/Lore (1 to 8)
@@ -26,6 +26,9 @@ v1.0.7 (DEV)
 + Chroma Squad Weapons
 + Warframe Weapons and Cosmetics
 + Replacing Floppy Disc Relations
++ Updated Lightsaber sprites
++ Updated Ship Locker and Tech Sprites
++ Partially added Corrupted Costume
 
 
 v1.0.6a
