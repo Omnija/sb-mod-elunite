@@ -1,7 +1,7 @@
 # Elunite Race Mod
 
 
-![Elunite Sprite](#docs/elunite.png)
+![Elunite Sprite](/#docs/elunite.png?raw=true "Title")
 
 ### Description: 
 Elunites will be worked around Tron/Sentai Styled themed and Cross-overs
