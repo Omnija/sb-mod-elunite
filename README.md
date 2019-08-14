@@ -1,7 +1,7 @@
 # Elunite Race Mod
 
 
-![Elunite Sprite](https://community.playstarbound.com/attachments/elunite-png.215031/?temp_hash=6c63254fc15f74b900204e419eb32469)
+![Elunite Sprite](/#docs/elunite.png)
 
 ### Description: 
 Elunites will be worked around Tron/Sentai Styled themed and Cross-overs
