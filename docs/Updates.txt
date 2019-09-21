@@ -29,7 +29,8 @@ v2.0.0(DEV)
 + Updated Lightsaber sprites
 + Updated Ship Locker and Tech Sprites
 + Partially added Corrupted Costume
-
++ Custom Mech Dropship
++ 
 
 v1.0.6a
 ======
