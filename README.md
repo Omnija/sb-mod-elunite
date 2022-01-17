@@ -1,5 +1,4 @@
 # Elunite Race Mod
-
 ![Elunite Sprite](/docs/elunite.png)
 
 ### Description:
@@ -17,12 +16,9 @@ Move the elunite.pak or folder into your Starbound/mods/ folder.
 ### Mod Dependency:
 You need an Extended Race Selection mod for this to work.
 
-### Modders
-Author: Omnija
-Assistant: Sotaeko
+### Maintained by
+Omnija & Sotaeko 
 
 ## Notes
-
-
 Please report any bugs, feedback and suggestion you have to the discussion page!
 http://community.playstarbound.com/index.php?threads/elunite-race-mod.80547/
