@@ -12,7 +12,7 @@
   "gruntNoises" : [ [ "/sfx/humanoid/elunitegrunt-male1.wav", "/sfx/humanoid/elunitegrunt-male2.wav"], [ "/sfx/humanoid/elunitegrunt-female1.wav", "/sfx/humanoid/elunitegrunt-female2.wav" ] ],
   "charGenTextLabels" : [ "REPURPOSE", "MODS", "SHIRT", "PANTS", "", "CIRCUITS", "SHIRT COLOUR", "PANTS COLOUR", "ELUNITE", "PROGRAM" ],
   "skull" : "/humanoid/elunite/dead.png",
-  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=D2D2D2?replace=31a6ffFF=A7A7A7",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=934000?replace=31a6ffFF=AF4E00",
   "defaultBlueprints" : {
     "tier1" : [
 
@@ -228,7 +228,7 @@
       "name" : "male",
       "image" : "/interface/title/elunite-male-sign.png",
       "characterImage" : "/interface/title/elunite-male.png",
-	  "hairGroup" : "mods",
+	  "hairGroup" : "hair",
       "hair" : [ "male0", "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11" ],
       "shirt" : [ "circuitry0chest", "circuitry1chest", "circuitry2chest", "circuitry3chest" ],
       "pants" : [ "circuitry0legs", "circuitry1legs", "circuitry2legs", "circuitry3legs" ],
@@ -241,7 +241,7 @@
       "name" : "female",
       "image" : "/interface/title/elunite-female-sign.png",
       "characterImage" : "/interface/title/elunite-female.png",
-	  "hairGroup" : "mods",
+	  "hairGroup" : "hair",
       "hair" : [ "fem0", "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10" ],
       "shirt" : [ "circuitry0chest", "circuitry1chest", "circuitry2chest", "circuitry3chest" ],
       "pants" : [ "circuitry0legs", "circuitry1legs", "circuitry2legs", "circuitry3legs" ],

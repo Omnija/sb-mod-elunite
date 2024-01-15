@@ -1,6 +1,6 @@
 {
   "itemName" : "gridfence",
-  "price" : 10,
+  "price" : 0,
   "category" : "block",
   "rarity" : "Common",
   "inventoryIcon" : "gridfence.png",
@@ -9,6 +9,7 @@
   "glitchdescription" : "Pleased. This fence is quite sturdy.",
   "florandescription" : "Sssturdy fence.",
   "novakiddescription" : "Nothin' like a sturdy fence.",
-
+  "colonyTags" : ["elunite"],
+  "race" : "elunite",
   "materialId" : 35260
 }

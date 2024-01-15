@@ -1,11 +1,12 @@
 {
   "itemName" : "gridsupport1",
-  "price" : 5,
+  "price" : 0,
   "category" : "block",
   "rarity" : "Common",
   "inventoryIcon" : "gridsupport1.png",
   "description" : "A sturdy grid support block",
   "shortdescription" : "Grid Sturdy Support",
-
+  "colonyTags" : ["elunite"],
+  "race" : "elunite",
   "materialId" : 35259
 }

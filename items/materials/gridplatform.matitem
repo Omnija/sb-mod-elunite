@@ -6,7 +6,8 @@
   "inventoryIcon" : "gridplatformicon.png",
   "description" : "Grid platform for lighting the way.",
   "shortdescription" : "Grid Platform",
-
+  "colonyTags" : ["elunite"],
+  "race" : "elunite",
   "materialId" : 35253,
   "learnBlueprintsOnPickup" : [ "gridplatform" ]
 }

@@ -1,11 +1,12 @@
 {
   "itemName" : "gridsupport",
-  "price" : 5,
+  "price" : 0,
   "category" : "block",
   "rarity" : "Common",
   "inventoryIcon" : "gridsupport.png",
   "description" : "A piece of the grid to support walls.",
   "shortdescription" : "Grid Support",
-
+  "colonyTags" : ["elunite"],
+  "race" : "elunite",
   "materialId" : 35251
 }

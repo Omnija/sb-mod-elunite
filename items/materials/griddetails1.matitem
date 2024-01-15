@@ -1,11 +1,12 @@
 {
   "itemName" : "griddetails1",
-  "price" : 5,
+  "price" : 0,
   "category" : "block",
   "rarity" : "Common",
   "inventoryIcon" : "griddetails1.png",
   "description" : "Grid Bottom Trimming.",
   "shortdescription" : "Grid Bottom Trimming",
-
+  "colonyTags" : ["elunite"],
+  "race" : "elunite",
   "materialId" : 35256
 }

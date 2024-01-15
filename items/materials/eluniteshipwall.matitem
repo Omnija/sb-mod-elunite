@@ -1,6 +1,6 @@
 {
   "itemName" : "eluniteshipwall",
-  "price" : 5,
+  "price" : 0,
   "category" : "block",
   "rarity" : "Common",
   "inventoryIcon" : "eluniteshipwall.png",
@@ -9,6 +9,7 @@
   "glitchdescription" : "Impressed. These removable panels are smooth and strong.",
   "florandescription" : "Metal panel makess ssmooth wall.",
   "novakiddescription" : "A panel made outta metal.",
-
+  "colonyTags" : ["elunite"],
+  "race" : "elunite",
   "materialId" : 35255
 }

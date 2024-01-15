@@ -1,11 +1,12 @@
 {
   "itemName" : "gridpillar",
-  "price" : 5,
+  "price" : 0,
   "category" : "block",
   "rarity" : "Common",
   "inventoryIcon" : "gridpillar.png",
   "description" : "A strong grid pillar to hold up the grid",
   "shortdescription" : "Grid Pillar Block",
-
+  "colonyTags" : ["elunite"],
+  "race" : "elunite",
   "materialId" : 35254
 }

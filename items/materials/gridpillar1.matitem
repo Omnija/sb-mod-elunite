@@ -1,11 +1,12 @@
 {
   "itemName" : "gridpillar1",
-  "price" : 5,
+  "price" : 0,
   "category" : "block",
   "rarity" : "Common",
   "inventoryIcon" : "gridpillar1.png",
   "description" : "A strong grid beam to hold up the grid",
   "shortdescription" : "Grid Beam Block",
-
+  "colonyTags" : ["elunite"],
+  "race" : "elunite",
   "materialId" : 35258
 }

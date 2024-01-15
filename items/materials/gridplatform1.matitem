@@ -6,7 +6,8 @@
   "inventoryIcon" : "gridplatformicon1.png",
   "description" : "A study platform for the not so light.",
   "shortdescription" : "Grid Sturdy Platform",
-
+  "colonyTags" : ["elunite"],
+  "race" : "elunite",
   "materialId" : 35257,
   "learnBlueprintsOnPickup" : [ "gridplatform1" ]
 }

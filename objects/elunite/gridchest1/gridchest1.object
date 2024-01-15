@@ -6,7 +6,7 @@
   "tooltipKind" : "container",
 
   "category" : "storage",
-  "price" : 70,
+  "price" : 50,
   "description" : "A standard grid chest.",
   "shortdescription" : "Standard Grid Chest",
   "race" : "elunite",

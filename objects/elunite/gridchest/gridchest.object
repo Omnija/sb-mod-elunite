@@ -6,7 +6,7 @@
   "tooltipKind" : "container",
 
   "category" : "storage",
-  "price" : 70,
+  "price" : 25,
   "description" : "A tiny grid chest.",
   "shortdescription" : "Tiny Grid Chest",
   "race" : "elunite",
